@@ -1,0 +1,6 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3APullen+Park+Carousel&gcmtype=file&gcmlimit=100&prop=imageinfo&iiprop=url%7Cextmetadata&iiurlwidth=1280",
+  "retrieved_utc": "2026-11-08T22:37:44.270738+00:00",
+  "bytes": 174981,
+  "sha256": "01c9b980341d657d00a2275880d0f30c81f303f84d34e703e100de50e1482e57"
+}

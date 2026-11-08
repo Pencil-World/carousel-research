@@ -1,5 +1,7 @@
 Research date: 8 November 2026. Input: [carousel.png](inputs/carousel.png).
 
+**Later Q6 finding:** [the chariot-anchored photographic comparison](Q6_POSITION.md) supports lowercase **g** under the question's fixed-chariot assumption. It supersedes the earlier exact-letter uncertainty retained in this initial report; the first return date remains unverified.
+
 This is an evidence-based research handoff, **not a fully solved answer key**. The museum, the three accompanying animals, and Pullen Park are identified with strong supporting evidence. The lion is the supported answer if the rotation-counting horse is the flag-bearing lead horse. The pig's original reinstallation letter and the 1975 per-animal restoration estimate remain unverified. Do not submit an invented dollar amount.
 
 The supplied questions contain six bullets but refer to Q1 and Q4 from an apparently longer original list. The numbers below follow the six supplied bullets. The likely reference artist is Salvatore “Cherni” Cernigliaro; see the attribution qualification below.

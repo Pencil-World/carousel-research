@@ -21,28 +21,33 @@
   },
   {
     "file": "PUBLICATION.md",
-    "bytes": 2252,
-    "sha256": "caa8bf7454f753e6364acaba56309a2c2742711199d623a0ae168eadefb423e2"
+    "bytes": 2501,
+    "sha256": "ac0d4c11b98d5977ee9fe7b9b6f8d1d1c2d7e1af50aec7e1a2dd974155cf1993"
+  },
+  {
+    "file": "Q6_POSITION.md",
+    "bytes": 8215,
+    "sha256": "01370ea0bbbe8051e67eb9d6ac660168f215184120fc2eda74206c4da5de117f"
   },
   {
     "file": "Q6_ROW.md",
-    "bytes": 7169,
-    "sha256": "f9d8c773dd315b20665d6e2980fc613695e6b0f4ed148d3cd47a4f0516001eab"
+    "bytes": 7512,
+    "sha256": "ebb0562cf85dda47572ec07c08b605f354d4f1123a7c9a2b44803de414fb6c8b"
   },
   {
     "file": "README.md",
-    "bytes": 2040,
-    "sha256": "23ad99ade5a3f58b117593e553c14b092435215f946db436eea9aa968327cac4"
+    "bytes": 2189,
+    "sha256": "e697f4686b007d985eed0943f97a4a38d5c7e8cd22584d2dbbed3683f22f14e6"
   },
   {
     "file": "RESEARCH.md",
-    "bytes": 9175,
-    "sha256": "68ea1f9e3b2ee8ff1948b2d5f449360cd0f5601509238d2b2b8dd5d282d56b1b"
+    "bytes": 9459,
+    "sha256": "565ab46c31c35682cdc92995c0730dc5d47acbd6e127e1714e992d52bd29725c"
   },
   {
     "file": "REVIEW.md",
-    "bytes": 10767,
-    "sha256": "744e5c9eba2c587e5d10cfe74cbd1b2e7f4930ce68dbe9ba3d2e4ff633a1f5fa"
+    "bytes": 10990,
+    "sha256": "0b761341f079a7b56bd920cf9ec6e43f5ad3623489453e0031b6ed8bc744d36d"
   },
   {
     "file": "REVIEW_HANDOFF.md",
@@ -225,6 +230,11 @@
     "sha256": "00f36556e66c153c14ff7ed56310aca4bd5e55b67eb352696e502913b25de0ea"
   },
   {
+    "file": "scripts/fetch_pullen_commons.py",
+    "bytes": 4016,
+    "sha256": "ab22bdfbcbfe9e7f87609898915e6ae4e763746e5f0fd8356b6d5c02b9a3b1c3"
+  },
+  {
     "file": "scripts/prepare_public_repository.py",
     "bytes": 5100,
     "sha256": "d358e477f7af92566106e8863c81529f0cda895685656ff087e040c1867e5533"
@@ -253,6 +263,276 @@
     "file": "sources/carousel-news-2019-spring.txt",
     "bytes": 152095,
     "sha256": "899194856ecd1637515734477cff84eb99fdc491d9187e0bc38855f2c73dbad4"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-01.JPG",
+    "bytes": 307598,
+    "sha256": "c7e408a9218aa4a970317f04da56dd3f84be25f638f2aa0a8bfb3c357b60dd91"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-02.JPG",
+    "bytes": 317678,
+    "sha256": "752091530cf157a4ba628be7479f706c079f0b8db973e3c87d1a22db41f2cb21"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-03.JPG",
+    "bytes": 239008,
+    "sha256": "7b2edd05c2020dc97eb6aac898daf5c73a8d9b1f897ba3be1c7af84724c49e1a"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-04.JPG",
+    "bytes": 316948,
+    "sha256": "152908e23fae2ae6b9b20843b0d97b6987982a82e10ed0c959cd1362a29013a2"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-05.JPG",
+    "bytes": 305885,
+    "sha256": "1637e6c065b70431d3ffea07fc95b5eca720669d381943ead1e6c2caf3d52935"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-06.JPG",
+    "bytes": 322057,
+    "sha256": "fcb7b756eeb2059b270ea0612b97eba6825d59c7defb1d1cb88059a9209ffa23"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-07.JPG",
+    "bytes": 334777,
+    "sha256": "bfc388b4da84ee68b03747ae857dc9e642abd01e54419fedb1a6fadad90f7505"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-08.JPG",
+    "bytes": 268194,
+    "sha256": "c7d3e80201374ed97fe45e29368a8cd5edb10df4971d7e428bccb7e6e9dc4e7f"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-09.JPG",
+    "bytes": 282582,
+    "sha256": "6ca25c02cbbbfaa43634cd68bbef5d0d9e0211e31114e46e7001be50fd8341ed"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-10.JPG",
+    "bytes": 267921,
+    "sha256": "a21c3df0508db71555b6a0f2a6fc54888bb27dbb25514ef7b8fe497dc3633096"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-11.JPG",
+    "bytes": 233374,
+    "sha256": "c5826e1a1c9c40d18896135523bde96b14845dbc916414617bbabc38f33996da"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-12.JPG",
+    "bytes": 324014,
+    "sha256": "e80003346ea73643675700366873cb8bf76d89a229a4d93dd059cbd0037e3fc2"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-13.JPG",
+    "bytes": 248674,
+    "sha256": "dcf756b25a56699b90768f518669924cb97de1e4391e911d86ced382badc9692"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-14.JPG",
+    "bytes": 248563,
+    "sha256": "d45804a9e81cefb14a85348ad85511ee08db9676436e6bc1083ca37af7ded118"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-15.JPG",
+    "bytes": 502907,
+    "sha256": "750078f0e36212f3203bdb061767fab8bb69c3fb84fa111d48e426fc87c8b597"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-16.JPG",
+    "bytes": 240482,
+    "sha256": "d0dc712e351d2199536733aca32a697569d4ffaf62e1140832e7bfdcdaefcfda"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-17.JPG",
+    "bytes": 317499,
+    "sha256": "046f1bf0e8f59aaaa4ae5781ad02aa3ab892d6a673124e635e7ab9128c6b5d17"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-18.JPG",
+    "bytes": 284920,
+    "sha256": "dba7a28dc561100e23dac170aff128b0f082a61d7f2c8d24de7cca19f1dc3070"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-19.JPG",
+    "bytes": 379708,
+    "sha256": "936555a451f3593dd0d029862bc8c10f7ad87dbb3e0038a38a20be7a758264cd"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-20.JPG",
+    "bytes": 355390,
+    "sha256": "f46e8469e6a6971b4f57fb19d636144a494eaf09cdc4fdbcd5640018a9c7ae2a"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-21.JPG",
+    "bytes": 363397,
+    "sha256": "721c8e545a24c78961e92f430bba44f7ff2e0ddff71a7866c1205eebf70f897b"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-22.JPG",
+    "bytes": 344505,
+    "sha256": "a993e38b8edfa6c639452ecbca87c2108467d72d0002b992777b36d8c5ac226b"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-23.JPG",
+    "bytes": 331061,
+    "sha256": "b7de01be02a4e8fd83783e33fd413ffcc9ef8bd01efebc36a8dcdb8448c92dd6"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-24.JPG",
+    "bytes": 325401,
+    "sha256": "51aec81daa3007f21913c125612ef57b0a03097a0ec77aac1895a54a56ae5851"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-25.JPG",
+    "bytes": 321413,
+    "sha256": "8f54e5c6df605f84597e9c287621dfb1375880ee4c6978cc537192b7bb9fd9c8"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-26.JPG",
+    "bytes": 346475,
+    "sha256": "a43d6b9bc4c832731410fdeaf11000c36de1c91b5e8d0f2ea14e2a67515e2206"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-27.JPG",
+    "bytes": 374089,
+    "sha256": "6f1441efa0af7237fdc8cba972fdbccbeb292af2e76d4cc765acfedc47e18db4"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-28.JPG",
+    "bytes": 344131,
+    "sha256": "aa902d8e2552d8323f1699c89b6a405e102201de940dbb47e1c15fbbd9a6563e"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-29.JPG",
+    "bytes": 354007,
+    "sha256": "b43bf70538e7fd8316aff551d18b99f8f1834d2af742f2595a335a579bda886f"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-30.JPG",
+    "bytes": 364323,
+    "sha256": "6c2773d7c355f4b21d09b889233523e0ddcbb926ac14f456990a849543851462"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-31.JPG",
+    "bytes": 347977,
+    "sha256": "84ab038e1ac255dd56c663776282e366bb30091e07b82cbf48215ebcb5aadd6b"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-32.JPG",
+    "bytes": 369855,
+    "sha256": "67b7ba5bd66e584c15d515a2255632f70ded2dc31f0ec8b1191e80b48d9f3df4"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-33.JPG",
+    "bytes": 345223,
+    "sha256": "987c196d5eed6e3747b0689c5266b86826d48407af52bcbee3545bb772a3dfd5"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-34.JPG",
+    "bytes": 334501,
+    "sha256": "67d667668ef11dbd98dc99d21d07509b15cd73468d3726c8db5cf7297cdf9ffd"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-35.JPG",
+    "bytes": 259028,
+    "sha256": "08006e52c4f924a168e82645c7037c3cf77acf91a77d5f720650df9ddb002109"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-36.JPG",
+    "bytes": 348152,
+    "sha256": "04e48f39405ca79269a23d35da199feaead6a574600507b3852fa325dad72bd4"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-37.JPG",
+    "bytes": 248773,
+    "sha256": "f1c09ab3f14cee894edea96ebc057667b08db26359d7c4b5f16be7082db55cb2"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-38.JPG",
+    "bytes": 234100,
+    "sha256": "4d8d6571834b4808e852e05c9be7f68700a58553b3890416d6cc3e1b1aa4dc20"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-39.JPG",
+    "bytes": 265733,
+    "sha256": "e645b41df09daa34135f275936c9c79558ea41884bbce00206134b92c9a4d655"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-40.JPG",
+    "bytes": 231226,
+    "sha256": "6abdfa341582428e86be6cc990a3e2a11b52dd903d22b2c05e4c8c39e535ebc3"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-41.JPG",
+    "bytes": 246229,
+    "sha256": "fa63c36f7bc33053fbd7f9af487782594beeb1bd717422f4ff1183ca8432c3f6"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-42.JPG",
+    "bytes": 278468,
+    "sha256": "89818c822ec4a146cd9d813ab17045c8c5619cb0012e02fcd9a765f039b6feca"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-43.JPG",
+    "bytes": 260781,
+    "sha256": "d9cc3be3f80f16188efd86276b2d6c0b7dd815b549df095617be903408b11e24"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-44.JPG",
+    "bytes": 198298,
+    "sha256": "a7c327fff004ba145ca52b1cada968b6b7d4ede8d6070d33e17e6fb830c6f604"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-45.JPG",
+    "bytes": 482315,
+    "sha256": "b20b2782e28d79c2598a708e3d520d87e55242046da52966591739614dc01c45"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-46.JPG",
+    "bytes": 278119,
+    "sha256": "7f0d5f9c87ea681b1be7bd736be4341a687a2dbc8f9e640985e3a06e0e79ca05"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-47.JPG",
+    "bytes": 278056,
+    "sha256": "0c43715b2f671162ed0928e088a914bad1e23b44e5eced6d43d37901397c487a"
+  },
+  {
+    "file": "sources/commons-pullen/Pullen-Park-Carousel-48.JPG",
+    "bytes": 276314,
+    "sha256": "f12ae65e4b705d393e1a393cee7a10f07108828cac00602f05420f8c871ccbc6"
+  },
+  {
+    "file": "sources/commons-pullen/README.md",
+    "bytes": 1178,
+    "sha256": "33f302b008abb5755b6e57c89f11bf89778d48cfdd5f4ff195f68659d119d9db"
+  },
+  {
+    "file": "sources/commons-pullen/index-2.json",
+    "bytes": 97993,
+    "sha256": "3de9482f8cd36085426d1b4078d644fa70626dea5fa629c8ca0d1d4ae7045e2a"
+  },
+  {
+    "file": "sources/commons-pullen/index-2.request.json",
+    "bytes": 454,
+    "sha256": "85d41679dbd074915123e7e3ccf1316e425bd68bf63ce6754117802e14c04ef1"
+  },
+  {
+    "file": "sources/commons-pullen/index.json",
+    "bytes": 174981,
+    "sha256": "01c9b980341d657d00a2275880d0f30c81f303f84d34e703e100de50e1482e57"
+  },
+  {
+    "file": "sources/commons-pullen/index.request.json",
+    "bytes": 383,
+    "sha256": "40e389b5d0c38154fc3dee99bcbefb8a3ce567028c8e534995d2a52455831fef"
+  },
+  {
+    "file": "sources/commons-pullen/manifest.json",
+    "bytes": 25731,
+    "sha256": "e46e374eb954491ffda3fb5b1194f20da1d3121e0bc39d677459b950cdfd381b"
   },
   {
     "file": "sources/download-manifest.json",

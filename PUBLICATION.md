@@ -9,6 +9,7 @@ Some public catalogue item responses embedded recursive administrative and accou
 The public versions of the download scripts apply the same catalogue filter to new item responses. The filter is in [scripts/public_catalogue.py](scripts/public_catalogue.py); [scripts/prepare_public_repository.py](scripts/prepare_public_repository.py) records the export procedure.
 
 - [Main source manifest](sources/download-manifest.json): `sha256` verifies the published file. When a file was curated, `original_sha256` and `original_bytes` retain the original response's provenance.
+- [Commons photograph manifest](sources/commons-pullen/manifest.json): source pages, public preview URLs, retrieval dates, and hashes for the Q6 photographic sequence; attribution is retained [alongside the files](sources/commons-pullen/README.md).
 - [Original manifests](provenance/): preserve the original retrieval metadata and response hashes. They do not contain the omitted response bodies.
 - [Publication transformations](provenance/publication-transforms.json): lists changed research files with their original and published hashes.
 - [Published file inventory](provenance/published-files.json): verifies the files in this snapshot, except the inventory itself and Git's internal files.

@@ -2,6 +2,8 @@
 
 Research date: 8 November 2026. Scope: choose the row only; leave the exact letter open.
 
+**Subsequent exact-letter result:** [Q6_POSITION.md](Q6_POSITION.md) maps the acorn pig to lowercase **g** by counting from chariot IV through overlapping photographs. The row-only investigation below is retained; its statement that the exact letter remains open is superseded by that spatial proof. The first-return date remains unverified.
+
 **Use lowercase `a-r` as the supported working choice: the center / second row.** The acorn-and-oak-leaf pig is explicitly captioned as a second-row figure in a dated National Carousel Association photograph. The historical inventory uses lowercase letters for the center row. This establishes the later row strongly; the same row at its original return by 1980 remains an inference because the photograph is from 2004.
 
 ## Evidence chain

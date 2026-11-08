@@ -2,14 +2,14 @@
 
 Reviewed 8 November 2026. This is a second, skeptical pass by the same assistant, not an independent person's endorsement. The earlier [report](RESEARCH.md) is preserved. The question numbers here follow the user's latest message: **Q6 = stored pig; Q7 = 1975 price**.
 
-**Row-only follow-up:** [Q6_ROW.md](Q6_ROW.md) supports lowercase **`a-r`** from the matching acorn pig's explicit second-row caption. Its original insertion date and exact letter remain unproved. The earlier exact-letter review below is retained.
+**Latest Q6 follow-up:** [Q6_POSITION.md](Q6_POSITION.md) maps the acorn pig to lowercase **g** by counting from chariot IV in overlapping photographs. This resolves the earlier spatial uncertainty under the question's fixed-chariot assumption. The original return date remains unverified. The earlier discussion below is retained as research history and is superseded on the exact mapped letter.
 
 | Question | Audited result | Verdict |
 | --- | --- | --- |
-| Q6 | The stored acorn-and-oak-leaf pig is securely identified as restoration figure **7A**. Lowercase **`g`** remains a candidate, but its original reinstallation location has not been proved. | **Unresolved as an exact historical letter** |
+| Q6 | The stored acorn-and-oak-leaf pig is restoration figure **7A**. A chariot-anchored photographic count now places it at lowercase **g** on the historical plan. | **Mapped position supported; first-return date unverified** |
 | Q7 | A contemporary report documents **approximately $400 per animal** from Dick Norton, but attributes it to **1971**. The requested **1975** estimate and complete treatment scope have not been verified. | **Unresolved as phrased; $400 is a documented lead** |
 
-Do not turn either qualified result into a confirmed submission. In particular, **7A is an animal identifier, not one of the permitted answer letters**.
+Keep the date qualifications distinct from the position result. In particular, **7A is an animal identifier, not one of the permitted answer letters**; g is established separately by the photographic count. Q7 remains unverified as phrased.
 
 ## Q6: identification is now substantially stronger
 
