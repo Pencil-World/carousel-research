@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Id": 13197,
+    "ItemType": 2,
+    "ItemId": "PPC2019.001.538",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A transparency slide showing the back legs of a carousel pig that is extremely well worn. The image was taken from the right of the pig. The backside of the pig is visible. The skin of the pig is a light tan and the tack is red. The bottom half of the right leg is a different shade of brown, having been replaced with a new piece of wood. The left hoof is colored black. The slide reads “PULLEN PARK CAROUSEL PULLN 16B rear legs” at the top and “S.S. RALEIGH NC WAKE CO 8.5.81 JUL81D9” at the bottom.",
+    "CreationDate": "1981",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2020-06-09T17:00:00",
+    "LastModifiedDate": "2023-09-01T19:58:16.24",
+    "CatalogDate": "2020-06-09T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 13197
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42605,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": "L - 5cm\r\nW - 5cm"
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "L - 5cm\r\nW - 5cm",
+      "Copyrights": "",
+      "NegativeNumber": "",
+      "FrameNumber": "",
+      "SlideNumber": "",
+      "Frame": "",
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 29345,
+          "Caption": "Ppc2019.001.538",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "519x777",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/29345"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2019.001.538",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

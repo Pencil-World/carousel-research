@@ -1,0 +1,55 @@
+{
+  "Item": {
+    "Id": 34975,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.067",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "",
+    "CreationDate": "1978",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-06T18:38:56.927",
+    "LastModifiedDate": "2026-08-12T19:26:10.87",
+    "CatalogDate": "2026-08-06T05:00:00",
+    "NumberOfCatalogItemImages": 0,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34975
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42371,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": []
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.067",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

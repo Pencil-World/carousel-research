@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 34914,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.028",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Membership card for Marriott's Great America Carousel Club. Red and blue text on white card. The front has information about membership and benefits, along with a small image of a carousel. The membership card is good through 12/31/77.",
+    "CreationDate": "1977",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-07-28T19:16:27.057",
+    "LastModifiedDate": "2026-08-12T19:26:09.433",
+    "CatalogDate": "2026-07-28T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34914
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 43201,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98206,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "2754x2324",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98206"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98207,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "2327x2757",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98207"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.028",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

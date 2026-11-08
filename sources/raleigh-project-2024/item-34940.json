@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 34940,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.034",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Note to Mrs. Farley from Elizabeth Harrison, Secretary of the Martin 76'ers on January 5, 1977. The note reads: \"Dear Mrs. Farley, The Martin 76'ers would like to invite you to give a talk on the Pullen Park Carousel project at our meeting Jan. 12 at 2:40 in our music room. Would this be convenient with you? Please let Mrs. Kennedy know by contacting her at the school. Thank you and we hope you are able to come. Sincerely, Elizabeth Harrison, Secretary of the Martin 76'ers.\" Note is written in blue ink on paper with a letterhead that reads: \"Martin 76'ers, LeRoy Martin Junior High School, 1701 Ridge Road, Raleigh, North Carolina 27607.\" ",
+    "CreationDate": "January 5, 1977",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-05T18:14:59.15",
+    "LastModifiedDate": "2026-08-12T19:26:09.65",
+    "CatalogDate": "2026-08-05T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34940
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42829,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98391,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "3799x4093",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98391"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98392,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "3762x4083",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98392"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.034",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Id": 12308,
+    "ItemType": 2,
+    "ItemId": "PPC2019.001.251",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A Kodachrome slide by Kodak featuring the right rear quadrant of a badly worn carousel pig with red and grey tack. The slide reads “Pullen Park Carousel Pullen Park JUN79A3 R. Rear no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society”.",
+    "CreationDate": "1979",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2019-12-09T17:00:00",
+    "LastModifiedDate": "2023-09-01T19:58:05.327",
+    "CatalogDate": "2019-12-09T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 12308
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42605,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": "Length: 5 cm\r\nWidth: 5 cm"
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "Length: 5 cm\r\nWidth: 5 cm",
+      "Copyrights": "",
+      "NegativeNumber": "",
+      "FrameNumber": "",
+      "SlideNumber": "",
+      "Frame": "",
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 31505,
+          "Caption": "Ppc2019.001.251",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "522x784",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/31505"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2019.001.251",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

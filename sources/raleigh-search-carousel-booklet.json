@@ -1,0 +1,29 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": 34911,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.025",
+        "AdditionalInfo": "Advertisement",
+        "ImageId": "98196",
+        "ThumbnailId": "38f655ae-c270-4187-b4ba-00576fa14e93_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Advertisement <mark>booklet</mark> for Interlux Yacht Paints."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Advertisement"
+      }
+    ]
+  }
+}

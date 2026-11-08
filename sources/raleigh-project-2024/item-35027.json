@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 35027,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.075a",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "State of North Carolina Department of Human Resources Checklist for Information to Be Submitted with Renewal Application. Form is blank. Printed on yellow paper. \n\n*This is part of the Organization Renewal Application papers in envelope PPC2024.002.075r",
+    "CreationDate": "1978",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-12T17:47:06.237",
+    "LastModifiedDate": "2026-08-12T19:26:11.307",
+    "CatalogDate": "2026-08-12T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 35027
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42797,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98815,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6600",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98815"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98816,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6600",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98816"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.075a",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

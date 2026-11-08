@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 34952,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.044",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Copy of page 1 of 2 of a Cost Estimate/Design Development Phase for Pullen Park Phase III Site Improvements from April 15, 1977. \"III. Carousel\" has been circled, along with number and prices for I.-V. Purple writing at the top reads \"From P. and Rec. Dir. to City Manager 5-13-77.\" Part a. under section III. has been circled with a note that says \"??? we did this free.\"",
+    "CreationDate": "May 13, 1977",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-05T19:04:50.527",
+    "LastModifiedDate": "2026-08-12T19:26:10.073",
+    "CatalogDate": "2026-08-05T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34952
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42808,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98423,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6471",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98423"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98424,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6471",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98424"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.044",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

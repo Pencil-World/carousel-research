@@ -1,0 +1,412 @@
+<script type="text/html" id="catalog-item-details-template">
+    <div id="catalog-item-details-page-layout">
+        <div id="record-heading">
+            <h1 data-bind="text: title"></h1>
+            <div class="item-btn-container justify-content-between">
+                <nav class="item-nav-actions" aria-label="search results">
+                    <!-- ko with: navViewModel -->
+                    <span class="nav-info" data-bind="text: navigationInfo(), visible: isNavigationVisible()"></span>
+                    <!-- /ko -->
+                    <button class="btn btn-outline-primary icon-button return-btn" data-bind="click: queryButton, css: { 'invisible': queryButtonInvisible() }">
+    <i class="bi bi-arrow-left"></i>
+    <span class="return-btn-text" data-bind="text: getQueryButtonText()"></span>
+</button>
+                    <div data-bind="with: navViewModel">
+                        <div class="navigation-bar">
+    <button class="btn btn-outline-primary bi bi-skip-start-fill" title="First" aria-label="First" data-bind="click: first, enable: isPreviousEnabled() && !IsLoading(), visible: isNavigationVisible()"></button>
+    <button class="btn btn-primary bi bi-chevron-left" title="Previous" aria-label="Previous" data-bind="click: previous, enable: isPreviousEnabled() && !IsLoading(), visible: isNavigationVisible()"></button>
+    <button class="btn btn-primary bi bi-chevron-right" title="Next" aria-label="Next" data-bind="click: next, enable: isNextEnabled() && !IsLoading(), visible: isNavigationVisible()"></button>
+    <button class="btn btn-outline-primary bi bi-skip-end-fill" title="Last" aria-label="Last" data-bind="click: last, enable: isNextEnabled() && !IsLoading(), visible: isNavigationVisible()"></button>
+</div>
+
+                    </div>
+                </nav>
+                <div  class="item-actions-container">
+                    <div class="item-actions">
+                        <button type="button" class="btn btn-outline-primary email-btn" data-bind="visible:common.isEmailEnabled, click: showEmailToFriend, text: common.emailFormName"></button>
+<button type="button" class="btn btn-outline-primary feedback-btn" data-bind="visible:common.isFeedbackEnabled, click: showVisitorFeedback, text: common.feedbackFormName"></button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <!-- ko if: images().length > 0 -->
+                <ul class="side-images-container" data-bind="foreach: images">
+                    <li class="side-img-container">
+                        <button class="list-item-image img-thumbnail" aria-label="Open large image modal" data-bind="click: function() { $parent.showPopup($data.Id, $data.Caption); }">
+                            <img class="side-img img-fluid" data-bind="attr: { 
+                                 src: app.getS3ImageUrlOrDefault($data.ThumbnailId), 
+                                 alt: $parent.getImageAltText($data)
+                            }, css: app.imgClass" />
+                        </button>
+                    </li>
+                </ul>
+                <!-- /ko -->
+                <!-- ko ifnot: images().length > 0 -->
+                <div class="side-images-container">
+                    <div class="side-img-container">
+                        <img class="img-fluid img-placeholder" data-bind="attr: { css: app.imgClass, src: common.defaultPlaceholderUrl }" alt="" />
+                    </div>
+                </div>
+                <!-- /ko -->
+            </div>
+            <div class="col-md-9">
+                <table id="recordData">
+                    <tbody>
+                        <!-- ko foreach: columns-->
+                        <tr class="row" data-bind="if: $parent.getValue(FieldName)">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" data-bind="text: PublicDisplayName || DisplayName" scope="row"></th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell" data-bind="htmlSanitized: $parent.getValue(FieldName), css: { multiline: $parent.hasLineBreak(FieldName) }"></td>
+                        </tr>
+                        <!-- /ko -->
+                        <tr class="row" data-bind="visible: hasAttachments">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" scope="row">Attachments</th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell related-items-table-cell">
+                                <ul class="item-list" data-bind="foreach: attachments">
+                                    <li>
+                                        <a data-bind="attr: { href: $data.Url }, text: $data.DisplayName || $data.FileName" target="_blank"></a>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr class="row" data-bind="visible: hasUrls">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" scope="row">URLs</th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell related-items-table-cell">
+                                <ul class="item-list" data-bind="foreach: urls">
+                                    <li>
+                                        <a data-bind="attr: { href: $data.Name, target: '_blank' }, text: $data.DisplayName || $data.Name"></a>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr class="row" data-bind="visible: hasChildItems">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" scope="row">Child Records</th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell related-items-table-cell">
+                                <div class="item-list-container">
+                                    <ul class="item-list child-items-list" data-bind="foreach: multilevelLinkingChildren">
+                                        <li>
+                                            <a href="javascript:void(0)" data-bind="attr: { href: $parent.createDetailsUrl($data.Id, $data.ItemType) }, text: $data.Title"></a>
+                                        </li>
+                                    </ul>
+                                    <a href="#" class="show-more" data-bind="visible: common.isShowAllButtonVisible(multilevelLinkingChildren()), click: showMore.bind($data, '.child-items-list')">Show More</a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="row" data-bind="visible: hasRelatedItems">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" scope="row">Related Records</th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell related-items-table-cell">
+                                <div class="item-list-container">
+                                    <ul class="item-list related-items-list" data-bind="foreach: relatedItems">
+                                        <li>
+                                            <a href="javascript:void(0)" data-bind="attr: { href: $parent.createDetailsUrl($data.Id, $data.ItemType) }, text: $data.Title"></a>
+                                        </li>
+                                    </ul>
+                                    <a href="#" class="show-more" data-bind="visible: common.isShowAllButtonVisible(relatedItems()), click: showMore.bind($data, '.related-items-list')">Show More</a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="row" data-bind="visible: hasContainerLocations">
+                            <th class="col-md-4 col-4 col-sm-4 table-cell table-cell-label" scope="row">Containers</th>
+                            <td class="col-md-8 col-8 col-sm-8 table-cell related-items-table-cell">
+                                <div class="item-list-container">
+                                    <ul class="item-list container-items-list" data-bind="foreach: containerLocations">
+                                        <li>
+                                            <!-- ko if: $data.IsPublicAccess -->
+                                            <p data-bind="htmlSanitized: BuildDetailsUrl(app.dataModel.detailsUrls.ContainerDetails, $data.Id, $data.PublicTitle)"></p>
+                                            <!-- /ko -->
+                                            <!-- ko ifnot: $data.IsPublicAccess -->
+                                            <p data-bind="text: $data.PublicTitle"></p>
+                                            <!-- /ko -->
+                                        </li>
+                                    </ul>
+                                    <a href="#" class="show-more" data-bind="visible: common.isShowAllButtonVisible(containerLocations()), click: showMore.bind($data, '.container-items-list')">Show More</a>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/html" id="feedback-form-popup-template">
+    <div class="form-group" data-bind="htmlSanitized: FeedbackHeader"></div>
+    <div class="form-group">Asterisk (<span class="text-danger m-1">*</span>) indicates a required field.</div>
+    <div class="form-group">
+        <label for="Name">Name</label><span class="text-danger m-1">*</span>
+        <div class="input-container">
+            <text-input class="large" params="value: Name, valueUpdate: 'input', id: 'Name', isDisabled: isSubmitting, inputType: 'text', autocomplete: 'name', inputName: 'name', isRequired: true, ariaDescribedBy: 'NameError', errorId: 'NameError'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="PhoneNumber">
+            Phone No
+        </label>
+        <div class="input-container">
+            <text-input class="large" params="value: PhoneNumber, id: 'PhoneNumber', isDisabled: isSubmitting, inputType: 'tel', autocomplete: 'tel', inputName: 'tel'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="AlternatePhoneNumber">
+            Alternate Phone No
+        </label>
+        <div class="input-container">
+            <text-input class="large" params="value: AlternatePhoneNumber, id: 'AlternatePhoneNumber', isDisabled: isSubmitting, inputType: 'tel', inputName: 'alternate-phone-no'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="EmailAddress">Email Address</label><span class="text-danger m-1">*</span>
+        <div class="input-container">
+            <text-input class="large" params="value: EmailAddress, valueUpdate: 'input', id: 'EmailAddress', isDisabled: isSubmitting, inputType: 'email', autocomplete: 'email', inputName: 'email', isRequired: true, ariaDescribedBy: 'EmailError', errorId: 'EmailError'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="Comments">Comments</label><span class="text-danger m-1">*</span>
+        <div class="input-container" data-bind="validationOptions: validationOptions">
+            <textarea class="form-control height-200" id="Comments" name="comments" aria-describedby="CommentsError" data-bind="value: Comments, valueUpdate: 'input', attr: { 'readonly': isSubmitting, 'aria-invalid': isShowingErrorInvalid() ? 'true' : 'false' }" required></textarea>
+            <span class="validation-message" data-bind="validationMessage: Comments" id="CommentsError"></span>
+        </div>
+    </div>
+
+    <div class="form-group company-field" aria-hidden="true">
+    <label for="Company">Company</label>
+    <text-input class="large" params="value: Company, id: 'Company', inputType: 'text', tabIndex: '-1'"></text-input>
+</div>
+
+    <div class="modal-footer">
+        <async-action-button params="buttonClass: 'btn btn-primary submit-btn',
+                             click: submit,
+                             modelToValidate: $data,
+                             errorElementSelector: '.input-error, .is-invalid',
+                             text: 'Submit Feedback',
+                             isInProgress: isSubmitting"></async-action-button>
+        <button type="button" class="btn btn-outline-primary cancel-btn" data-bs-dismiss="modal">Cancel</button>
+    </div>
+</script>
+
+<script type="text/html" id="large-image-popup-template">
+    <div class="modal-image-container" role="region" aria-label="carousel">
+        <span class="visually-hidden">This is a carousel with one large image and a track of thumbnails. Select any of the image buttons to change the large image. Use the previous and next buttons to navigate between images. Additional actions are available for the large image.</span>
+        <div class="image-container">
+            <div class="header-container">
+                <div class="image-count-text" data-bind="text: imageCountText"></div>
+            </div>
+            <div class="form-group text-center image-content">
+                
+<div class="desktop-layout image-editor">
+    <div class="image-navigation-container">
+        <button class="btn-left bi bi-chevron-left" aria-label="Previous Image" data-bind="css: { 'invisible': magnifyMode() }, click: previous, visible: isNavigationButtonVisible()">
+        </button>
+        <div class="img-thumbnail">
+            <div class="img-wrapper img-magnifier-container" data-bind="with: currentImage">
+                <img class="img-responsive" data-bind="attr: { src: Url, alt: AltText }" />
+            </div>
+        </div>
+        <button class="btn-right bi bi-chevron-right" aria-label="Next Image" data-bind="css: { 'invisible': magnifyMode() }, click: next, visible: isNavigationButtonVisible()">
+        </button>
+    </div>
+    <p class="image-caption" data-bind="text: currentImage().Caption, css: { 'invisible': !currentImage().Caption }"></p>
+    <div class="modal-image-footer">
+        
+        <div class="record-button-container">
+            <button class="btn btn-primary catrecord-btn" role="link" data-bind="visible: displayCatalogsLink, click: navigateToItem, text: imageCaption" data-bs-dismiss="modal"></button>
+            <!-- ko if: currentImage().ImageId-->
+            <button class="btn btn-outline-primary metadata-btn" role="link" data-bind="click: viewImageMetadata">View Image Metadata</button>
+            <!-- /ko -->
+            <!-- ko if: common.isImageRequestEnabled() && currentImage().ImageId-->
+            <button class="btn btn-outline-primary image-request-btn" data-bind="visible: true, click: requestImage, text: common.imageRequestFormName"></button>
+            <!-- /ko -->
+        </div>
+    </div>
+</div>
+                
+<div class="mobile-layout image-editor">
+    <div class="action-button-container">
+        <!-- ko if: currentImage().ImageId-->
+        <button class="btn btn-outline-primary metadata-btn" role="link" data-bind="click: viewImageMetadata">View Image Metadata</button>
+        <!-- /ko -->
+        <!-- ko if: common.isImageRequestEnabled() && currentImage().ImageId-->
+        <button class="btn btn-outline-primary image-request-btn" data-bind="visible: true, click: requestImage, text: common.imageRequestFormName" data-dismiss="modal"></button>
+        <!-- /ko -->
+    </div>
+    <div class="image-navigation-container">
+        <button class="btn-left bi bi-chevron-left" aria-label="Previous Image" data-bind="css: { 'invisible': magnifyMode() }, click: previous, visible: isNavigationButtonVisible()">
+        </button>
+        <div class="img-thumbnail">
+            <div class="img-wrapper img-magnifier-container" data-bind="with: currentImage">
+                <img class="img-responsive" data-bind="attr: { src: Url, alt: AltText }" />
+            </div>
+        </div>
+        <button class="btn-right bi bi-chevron-right" aria-label="Next Image" data-bind="css: { 'invisible': magnifyMode() }, click: next, visible: isNavigationButtonVisible()">
+        </button>
+    </div>
+
+    <p class="image-caption" data-bind="text: currentImage().Caption, css: { 'invisible': !currentImage().Caption }"></p>
+    <div class="modal-image-footer">
+        
+        <button class="btn btn-primary catrecord-btn" role="link" data-bind="visible: displayCatalogsLink, click: navigateToItem, text: imageCaption" data-dismiss="modal"></button>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class="show-all-widget">
+            <ul class="images-list-container" data-bind="foreach: loadedImages">
+                <li>
+                    <button class="list-item-image img-thumbnail"
+                            data-bind="attr: { id: $parent.getImageElementId($data), 'aria-current': $parent.isCurrentImageSelected(ImageId, ItemId), 'aria-label': $parent.getImageLabel($index()) }, 
+                            css: { 'current-item-border': $parent.isCurrentImageSelected(ImageId, ItemId), 'disabled': $parent.magnifyMode() }, 
+                            click: () => $parent.selectImage(ImageId, ItemId)">
+                        <img class="img-fluid" data-bind="attr: { src: app.getS3ImageUrlOrDefault($data.ThumbnailId), alt: app.getAltTagOrDefault($data.ThumbnailId, $data.AltText) }" />
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/html" id="image-request-form-template">
+    <div data-bind="visible: IsLoading">
+        <div class="page-loader">
+    <div class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>
+
+
+    </div>
+    <div data-bind="visible: !IsLoading()">
+        <div class="container-fluid" data-bind="visible: IsImageOrderingEnabled">
+            <div data-bind="htmlSanitized: Header"></div>
+            <div class="form-group">Asterisk (<span class="text-danger m-1">*</span>) indicates a required field.</div>
+            <div class="form-group">
+                <label for="Name" class="control-label">Name</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Name, valueUpdate: 'input', id: 'Name', isDisabled: isRequesting, inputType: 'text', autocomplete: 'name', inputName: 'name',isRequired: true, ariaDescribedBy: 'NameError', errorId: 'NameError'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Address" class="control-label">Address</label>
+                <text-input class="large" params="value: Address, id: 'Address', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-line1', inputName: 'address-line1'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Address2" class="control-label">Address2</label>
+                <text-input class="large" params="value: Address2, id: 'Address2', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-line2', inputName: 'address-line2'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="City" class="control-label">City</label>
+                <text-input class="large" params="value: City, id: 'City', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-level2', inputName: 'address-level2'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="State" class="control-label">State</label>
+                <text-input class="large" params="value: State, id: 'State', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-level1', inputName: 'address-level1'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Zip" class="control-label">Zip/Postal Code</label>
+                <text-input class="large" params="value: Zip, id: 'Zip', isDisabled: isRequesting, inputType: 'text', autocomplete: 'postal-code', inputName: 'postal-code'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Country" class="control-label">Country</label>
+                <text-input class="large" params="value: Country, id: 'Country', isDisabled: isRequesting, inputType: 'text', autocomplete: 'country-name', inputName: 'country-name'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Phone" class="control-label">Phone</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Phone, valueUpdate: 'input', id: 'Phone', isDisabled: isRequesting, inputType: 'tel', autocomplete: 'tel', inputName: 'tel', isRequired : true, ariaDescribedBy: 'PhoneError', errorId: 'PhoneError'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="AlternatePhone" class="control-label">Alternate Phone</label>
+                <text-input class="large" params="value: AlternatePhone, id: 'AlternatePhone', isDisabled: isRequesting, inputType: 'tel', inputName: 'alternate-phone'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Email" class="control-label">Email Address</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Email, valueUpdate: 'input', id: 'Email', isDisabled: isRequesting, inputType: 'email', autocomplete: 'email', inputName: 'email', isRequired: true, ariaDescribedBy: 'EmailError', errorId: 'EmailError'"></text-input>
+            </div>
+            <div class="form-group" data-bind="visible: FormatRequiredDescription()">
+                <label for="FormatRequired" class="control-label" data-bind="text: FormatRequiredDescription"></label>
+                <div>
+                    <textarea class="form-control" id="FormatRequired" name="format-required" data-bind="value: FormatRequired, attr: { 'readonly': isRequesting }"></textarea>
+                </div>
+            </div>
+            <div class="form-group" data-bind="visible: PurposeDescription()">
+                <label for="PurposeDescription" data-bind="text: PurposeDescription"></label>
+                <div>
+                    <textarea class="form-control" id="PurposeDescription" name="purpose-description" data-bind="value: PurposeDescriptionText, attr: { 'readonly': isRequesting }"></textarea>
+                </div>
+            </div>
+            <div class="form-group company-field" aria-hidden="true">
+    <label for="Company">Company</label>
+    <text-input class="large" params="value: Company, id: 'Company', inputType: 'text', tabIndex: '-1'"></text-input>
+</div>
+            <div class="modal-footer">
+                <async-action-button params="buttonClass: 'btn btn-primary submit-btn',
+                             click: submit,
+                             modelToValidate: $data,
+                             text: 'Submit Request',
+                             isInProgress: isRequesting"></async-action-button>
+                <button class="btn btn-outline-primary cancel-btn" data-bs-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+        <div class="container-fluid" data-bind="visible: !IsImageOrderingEnabled">
+            Unfortunately, image ordering is disabled for the current museum.
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="email-form-popup-template">
+    <div class="form-group">Asterisk (<span class="text-danger m-1">*</span>) indicates a required field.</div>
+    <div class="form-group">
+        <label for="AdresseeEmail" class="control-label">To (email address)</label><span class="text-danger m-1">*</span>
+        <div class="input-container">
+            <text-input class="large" params="value: AdresseeEmail, valueUpdate: 'input', id: 'AdresseeEmail', isDisabled: isEmailSending, inputType: 'email',  isRequired: true, ariaDescribedBy: 'EmailError1', errorId: 'EmailError1', inputName: 'to-email-address'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="SenderEmail" class="control-label">From (email address)</label><span class="text-danger m-1">*</span>
+        <div class="input-container">
+            <text-input class="large" params="value: SenderEmail, valueUpdate: 'input', id: 'SenderEmail', isDisabled: isEmailSending, inputType: 'email', autocomplete: 'email', inputName: 'email', isRequired: true, ariaDescribedBy: 'EmailError2', errorId: 'EmailError2'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="Subject" class="control-label">
+            Subject
+        </label>
+        <div class="input-container">
+            <text-input class="large" params="value: Subject, id: 'Subject', isDisabled: isEmailSending, inputType: 'text', inputName: 'subject'"></text-input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="Message" class="control-label">
+            Message
+        </label>
+        <textarea class="form-control height-200" id="Message" name="message" data-bind="value: Message, attr: { 'readonly': isEmailSending }"></textarea>
+    </div>
+
+    <div class="form-group company-field" aria-hidden="true">
+    <label for="Company">Company</label>
+    <text-input class="large" params="value: Company, id: 'Company', inputType: 'text', tabIndex: '-1'"></text-input>
+</div>
+
+    <div class="modal-footer">
+        <async-action-button params="buttonClass: 'btn btn-primary submit-btn',
+                             click: sendEmail,
+                             modelToValidate: $data,
+                             text: 'Send Email',
+                             isInProgress: isEmailSending"></async-action-button>
+        <button type="button" class="btn btn-outline-primary cancel-btn" data-bs-dismiss="modal">Cancel</button>
+    </div>
+</script>
+
+<script async type="text/javascript" src="/bundles/item-details?v=SJloGrEw6Y9Owj0-a-rINkPsglf73W1mCp1eAsZZqIw1"></script>

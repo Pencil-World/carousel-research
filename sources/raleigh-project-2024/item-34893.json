@@ -1,0 +1,98 @@
+{
+  "Item": {
+    "Id": 34893,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.008",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Folded notecard from Silvia Bell and The West Hills Community Club. The front is green with an image of a round tree with flowers and three white doves. The inside has text that reads: \"Dear Sir: The West Laurel Hills Community Club will like to donate this check - $25 - for the restoration of the carrousel. Sincerely yours, Silvia Bell.\" There is also an address written on the inside: 4006 Spruce Drive, Raleigh, N.C. 27612. The back has information about the design in English and French. ",
+    "CreationDate": null,
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-07-24T19:03:45.167",
+    "LastModifiedDate": "2026-08-12T19:26:08.667",
+    "CatalogDate": "2026-07-24T05:00:00",
+    "NumberOfCatalogItemImages": 3,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34893
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 40782,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98112,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1788x2533",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98112"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98113,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "3476x2583",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98113"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98114,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1693x2597",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98114"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.008",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,177 @@
+{
+  "selection_note": "Derived from saved pig searches; Pullen Park Collection records only.",
+  "PageResult": {
+    "Count": 9,
+    "Items": [
+      {
+        "Id": 9193,
+        "TypeId": 101,
+        "Title": "Pullen Park Collection - PPC2020.006.001",
+        "AdditionalInfo": "Watercolor",
+        "ImageId": "15043",
+        "ThumbnailId": "3b5fd398-e079-46a2-9fbf-57dbecd02ff8_thmb.JPG",
+        "ImageCaption": "Ppc2020.006.001 Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It features Standing Horse #2 in the middle, Ostrich's #11A and #11B on the right, and <mark>Pig</mark> #16A on the"
+          }
+        ],
+        "Name": "Watercolor"
+      },
+      {
+        "Id": 28344,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.008",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73728",
+        "ThumbnailId": "280baeb7-8ab5-4e3b-9a43-ea832cf0e431_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "There is a tiger, giraffe, and <mark>pig</mark> toward the left of the center horse."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28347,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.010",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73731",
+        "ThumbnailId": "13cb14e4-f017-45d1-888b-7f61550896d1_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The horse has a green, red, yellow, and black saddle. there is a mouth of a lion and a <mark>pig</mark> that can be"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28349,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.012",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73735",
+        "ThumbnailId": "fa394d5f-7ae0-442d-bf34-304e5d42d6a2_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Behind it are a brown and white horse with a brown, blue, orange, and red saddle, and a <mark>pig</mark> with a red"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28374,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.024",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73759",
+        "ThumbnailId": "afeb00f1-3e20-421b-91fb-238442e05ca3_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Photo has a <mark>pig</mark> with tan, pink, red, and green saddle at the center."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Behind it is another <mark>pig</mark> and three horses."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28384,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.043",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73780",
+        "ThumbnailId": "545850ae-dd6d-4799-befe-2eed783deffc_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of 4 horses, 1 chariot, 1 <mark>pig</mark>, 2 rabbits"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "From left to right: a yellow ear; the back half of a <mark>pig</mark> with green and pink red trim decorative harnesses"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28385,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.044",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73781",
+        "ThumbnailId": "53ef0b56-a489-4a92-8357-0d333f7e9a2d_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "In the background, two ostriches and a <mark>pig</mark> are visible."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28390,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.049",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73791",
+        "ThumbnailId": "7f7be5d0-16f2-4cad-88c1-56f904c21428_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of 3 horses and 1 <mark>pig</mark> with other animals"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "From left to right: a cream <mark>pig</mark> with a red-trimmed green harness; a brown horse; a cream horse with a"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28391,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.050",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73793",
+        "ThumbnailId": "6bae7cb7-6494-46d0-810f-ef6b9e8e3215_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of a lion, 2 horses, a <mark>pig</mark>, a chariot,"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "knees and muzzle that has a gold trimmed red harness; a brown horse with a cream muzzle; the head of a <mark>pig</mark>"
+          }
+        ],
+        "Name": "Photograph, Color"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 5,
+    "Items": [
+      {
+        "Id": 34949,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.042",
+        "AdditionalInfo": "Pricelist",
+        "ImageId": "98415",
+        "ThumbnailId": "a9cd1cad-1659-4100-8cd2-41152e4e6f17_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of page 1 of 2 of the Cost <mark>Estimate</mark>/Design Development Phase for Pullen Park/Phase III Site Improvements"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Section III lists the <mark>carousel</mark> and related details along with a price <mark>estimate</mark> of $33,990."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Pricelist"
+      },
+      {
+        "Id": 34952,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.044",
+        "AdditionalInfo": "Pricelist",
+        "ImageId": "98423",
+        "ThumbnailId": "8bad0941-3b48-4c78-bb6b-399c510f2949_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of page 1 of 2 of a Cost <mark>Estimate</mark>/Design Development Phase for Pullen Park Phase III Site Improvements"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Carousel</mark>\" has been circled, along with number and prices for I.-V."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Pricelist"
+      },
+      {
+        "Id": 34959,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.051",
+        "AdditionalInfo": "Letter",
+        "ImageId": "98450",
+        "ThumbnailId": "eb178b83-e866-4632-b90a-78661832c1b6_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The letter includes a price <mark>estimate</mark> and details/requirements for Mr."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Center to restore the Wurlitzer Style 125 band organ for the Pullen Park <mark>Carousel</mark>. Signed by Mr."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Letter"
+      },
+      {
+        "Id": 34964,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.056",
+        "AdditionalInfo": "Proposal",
+        "ImageId": "98508",
+        "ThumbnailId": "da9d3c1c-7c50-4b6c-b152-02faa9880231_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "proposal from the Overhead Door Company of Raleigh, NC to Joel Wittkamp regarding the doors for the <mark>carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The proposal includes details about the doors, a price <mark>estimate</mark> of $16,830.00, and an approximation of"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Proposal"
+      },
+      {
+        "Id": 34965,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.057",
+        "AdditionalInfo": "Proposal",
+        "ImageId": "98510",
+        "ThumbnailId": "65d40b68-88bc-4322-96dd-40c6610cb203_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "State University for doors for the Pullen Park <mark>Carousel</mark> enclosure."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Proposal includes details of the doors and a price <mark>estimate</mark> of $18,200.00."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Proposal"
+      }
+    ]
+  }
+}

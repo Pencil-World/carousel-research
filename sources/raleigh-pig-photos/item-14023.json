@@ -1,0 +1,87 @@
+{
+  "Item": {
+    "Id": 14023,
+    "ItemType": 2,
+    "ItemId": "PPC2020.001.087",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A transparency slide of a little girl riding a carousel pig with an adult standing behind the pig and next to the girl. Two carousel horses are visible to the left and the center of the carousel is behind them. The background is dark beyond it. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "CreationDate": "August 8, 1998",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2020-09-15T17:00:00",
+    "LastModifiedDate": "2023-09-01T19:59:08.16",
+    "CatalogDate": "2020-09-15T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 14023
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42605,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": "L - 5 cm\r\nW - 5 cm"
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "L - 5 cm\r\nW - 5 cm",
+      "Copyrights": "",
+      "NegativeNumber": "",
+      "FrameNumber": "",
+      "SlideNumber": "",
+      "Frame": "",
+      "Photographer": {
+        "Id": 831
+      },
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 29110,
+          "Caption": "",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "758x481",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/29110"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2020.001.087",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

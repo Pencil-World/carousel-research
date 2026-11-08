@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "PPC* AND map",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T21:15:43.416995+00:00",
+  "sha256": "68465fd04e06c420aed001f2b650a705a562eb9ee5a91f669d72934c3dff12bb",
+  "bytes": 4037
+}

@@ -1,0 +1,37 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": 34913,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.027",
+        "AdditionalInfo": "Brochure",
+        "ImageId": "98203",
+        "ThumbnailId": "3e2daa69-94f8-499f-ac0e-adbfeb993cdd_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Brochure</mark> for \"And Then Came Christmas,\" an album for an automated music machine recorded by Paul R."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>brochure</mark> unfolds and the inside has information about seven music machines and the album, \"And Then"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Brochure</mark>"
+          }
+        ],
+        "Name": "Brochure"
+      }
+    ]
+  }
+}

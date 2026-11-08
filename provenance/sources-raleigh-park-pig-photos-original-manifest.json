@@ -1,0 +1,65 @@
+[
+  {
+    "file": "item-9193.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/9193",
+    "sha256": "bf4857d8dbd09c0b7291cd150e461e57814b3f0c4d0e4acfaf6259e466f15526",
+    "bytes": 1014164,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:40.797857+00:00"
+  },
+  {
+    "file": "item-28344.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28344",
+    "sha256": "640482c865e7663a6c83b310fab1329376654669da7fdf86133f731e2b0bc94d",
+    "bytes": 666308,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:40.617181+00:00"
+  },
+  {
+    "file": "item-28347.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28347",
+    "sha256": "02806e3e960e05ee427cf52ee1bc6330dca3d64942385984ae7e913d77bd3afe",
+    "bytes": 551450,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:40.529198+00:00"
+  },
+  {
+    "file": "item-28349.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28349",
+    "sha256": "03263d7663e62ea811894a07bb8aa9cebf79e88f1266548c90fe6fff64c151fd",
+    "bytes": 682456,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:40.667951+00:00"
+  },
+  {
+    "file": "item-28374.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28374",
+    "sha256": "e6ae8a5870dd599e886a39b60f88c6900531d35e53075552f324d318d554aabf",
+    "bytes": 654299,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:41.112914+00:00"
+  },
+  {
+    "file": "item-28384.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28384",
+    "sha256": "9cd84eb76072daa89ac05134ae724d55f0c5e532fe1ce642ed1772f6051272e3",
+    "bytes": 659616,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:41.179992+00:00"
+  },
+  {
+    "file": "item-28385.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28385",
+    "sha256": "2abe0480e03fa651c08acec56275fffdb72851c4a9c94322f04d11444b9bfc63",
+    "bytes": 655836,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:41.208624+00:00"
+  },
+  {
+    "file": "item-28390.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28390",
+    "sha256": "02932da6a8d427f1b0c3bd9645b96225db49586867734fa5db0ca899addd4e37",
+    "bytes": 655919,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:41.349898+00:00"
+  },
+  {
+    "file": "item-28391.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/28391",
+    "sha256": "9ece73b26c12296984a51d9d18f3857f87dfa545aa9f71e3c85b21efa4538ee8",
+    "bytes": 655869,
+    "retrieved_or_verified_utc": "2026-11-08T21:29:41.642510+00:00"
+  }
+]

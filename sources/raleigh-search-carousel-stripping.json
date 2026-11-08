@@ -1,0 +1,108 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 4,
+    "Items": [
+      {
+        "Id": 13768,
+        "TypeId": 102,
+        "Title": "Chavis Park Carousel - CPC2020.001.345",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30849",
+        "ThumbnailId": "a06a31e4-dcae-4f99-81f9-807071fa6faf_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a <mark>carousel</mark> horse laying in a vat of paint stripper."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It is labeled \"Chavis <mark>stripping</mark>\" and stamped \"MAR82A1\" in red ink."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Chavis Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13769,
+        "TypeId": 102,
+        "Title": "Chavis Park Carousel - CPC2020.001.346",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28541",
+        "ThumbnailId": "3e205008-bf78-4014-b4c3-ef7dd45df385_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a <mark>carousel</mark> horse in a vat of paint stripper."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It is labeled \"Chavis <mark>stripping</mark>, S.S.\" and stamped \"MAR82A1\" in red ink."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Chavis Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 34882,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.002",
+        "AdditionalInfo": "List",
+        "ImageId": "98086",
+        "ThumbnailId": "976d3e5d-f496-47b0-bf5a-ac72c0de1c72_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of a list of recommended procedures for restoring the Smithsonian Dentzel <mark>Carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Recommendations include procedures for paint <mark>stripping</mark> and structural repairs."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "List"
+      },
+      {
+        "Id": 34998,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.072A-B",
+        "AdditionalInfo": "Minutes",
+        "ImageId": "98805",
+        "ThumbnailId": "16370ed1-5b85-4ed8-bc3c-f68979e552e5_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The meeting discussed grants received, as well as Rosa Regan's (Ragan) progress on <mark>stripping</mark> paint on"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "the Pullen Park <mark>Carousel</mark> animals so far, and how to proceed from then on."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Minutes"
+      }
+    ]
+  }
+}

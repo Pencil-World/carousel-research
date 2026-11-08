@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 35026,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.074",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Copy of a letter to Mrs. Cy Farley from Patsy Rogers, Coordinator, Titles II & VI for the City of Raleigh CETA Program on September 15, 1978. The letter contains details of the Fine Arts project including funding timeline limitations, as well as steps to activate the Fine Arts Project which was approved by the Raleigh Consortium Advisory Council. Two pages total, stapled in top left corner. \"Page 2'\" was stapled as the first page. The second page has a note in light blue ink that reads: \"CETA grant was to us. Frank has trouble even realizing this.\" A section of the text is also marked. ",
+    "CreationDate": "1978",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-12T17:40:49.72",
+    "LastModifiedDate": "2026-08-12T19:26:11.26",
+    "CatalogDate": "2026-08-12T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 35026
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42383,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98813,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6519",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98813"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98814,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6519",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98814"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.074",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

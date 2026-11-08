@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Id": 20738,
+    "ItemType": 3,
+    "ItemId": "PPC2018.001.242",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "This is a drawing of the romance side of Jumping Pig 16B. The upper right corner has the label: \"No. 16B Not to Scale\" The pig's body and tack are colored in. Below the lbael on the right of the paper is a table of Munsell paint color codes and squares of color. The front view of the pigs nose is drawn above its head. The upper left corner has the label: \"Pullen Park Carousel Raleigh, NC-Wake Co.\"",
+    "CreationDate": "",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2018-04-24T16:00:00",
+    "LastModifiedDate": "2023-09-01T19:57:36.81",
+    "CatalogDate": "2018-04-24T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 1,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 20738
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42631,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": null
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": null,
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": null,
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 35636,
+          "Caption": "Ppc2018.001.242",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "850x548",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/35636"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2018.001.242",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

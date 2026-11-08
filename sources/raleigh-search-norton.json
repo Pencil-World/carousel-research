@@ -1,0 +1,76 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 4,
+    "Items": [
+      {
+        "Id": 5381,
+        "TypeId": 101,
+        "Title": "Dorothea Dix Park - DIX2017.001.089",
+        "AdditionalInfo": "Poster",
+        "ImageId": "12106",
+        "ThumbnailId": "54499dab-7e0e-488d-831b-cff79c129d6e_thmb.JPG",
+        "ImageCaption": "Dix2017.001.089 (3)",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Isaac Newton, Earnest Hemingway, Sylvia Plath, Michaelangelo, Winston Churchill, Vivien Leigh, Emperor <mark>Norton</mark>"
+          }
+        ],
+        "Name": "Poster"
+      },
+      {
+        "Id": 28462,
+        "TypeId": 104,
+        "Title": "Mordecai Historic Park - MP2023.001.017",
+        "AdditionalInfo": "Program",
+        "ImageId": "74136",
+        "ThumbnailId": "c422def7-3e6e-483a-b1c9-0b02366413aa_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Norton</mark>, Mrs. Covert"
+          }
+        ],
+        "Name": "Program"
+      },
+      {
+        "Id": 17338,
+        "TypeId": 104,
+        "Title": "Dr. M.T. Pope House Museum - PHM2012.01.0385",
+        "AdditionalInfo": "Book",
+        "ImageId": "38442",
+        "ThumbnailId": "cb0242e3-3ffe-4c5a-b59b-60864545f5a3_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Norton</mark> and Company, Inc. in 1949 in New York."
+          }
+        ],
+        "Name": "Book"
+      },
+      {
+        "Id": 29907,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2023.002.002",
+        "AdditionalInfo": "Map",
+        "ImageId": "80086",
+        "ThumbnailId": "18fb282b-a767-47b7-92e0-c05fbb8edd17_thmb.JPG",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Norton</mark>\t1-13-1937\t8-15-1952\nA22\tLouis D. <mark>Norton</mark>\t1917\t?\nA22\tJay B. <mark>Norton</mark>\t1917\t1984\nA22\tPauline W."
+          }
+        ],
+        "Name": "Map"
+      }
+    ]
+  }
+}

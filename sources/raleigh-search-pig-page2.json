@@ -1,0 +1,742 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 138,
+    "Items": [
+      {
+        "Id": 14106,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.047",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "30478",
+        "ThumbnailId": "75ff46e0-a66d-40f1-ac00-f2648603cb90_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the right side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\" A duplicate of PPC2020.002.045."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14107,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.048",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "31789",
+        "ThumbnailId": "f59f30f8-bc79-4799-9977-3803c521d72b_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the left side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\""
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14108,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.049",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "31793",
+        "ThumbnailId": "0afb413a-cdff-41b2-a208-effcfc15fa37_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the right side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\""
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14368,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.037",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30867",
+        "ThumbnailId": "c1e5ce16-2391-40ba-8777-6c2e77ca70de_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> on the left is a very pale pink with gold tusks."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> behind it is darker in color with a red sash around its neck leading to a pink saddle with a"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14461,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.088",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29157",
+        "ThumbnailId": "85c89889-e1ff-4cb1-9e14-780ee4603bad_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.088",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Color photograph of Pullen Park carousel animals with the main focus on a light colored carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is a tan-yellow color and it has a painted light brown saddle."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The carousel <mark>pig</mark> is decorated with pink and green painted detailing."
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14683,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.113",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27940",
+        "ThumbnailId": "54181208-6f04-4d66-a5c4-41f76912a922_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The little boy has a jacket and jeans on and holds onto the carousel pole of a <mark>pig</mark> with blue tack straps"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The man rides a black and white <mark>pig</mark>. Other carousel animals are visible around them."
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14693,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.123",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28312",
+        "ThumbnailId": "482b92dc-dfe4-4b3e-8ef6-4439e39c2f5a_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of a carousel <mark>pig</mark> on the carousel."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The picture is a close-up and the <mark>pig</mark> has worn and missing paint on its face and tack."
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 25345,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.218",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "62351",
+        "ThumbnailId": "8f3daacb-2fd6-41f5-a634-dfba32caf2e8_thmb.JPG",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Other carousel animals -- a <mark>pig</mark>, a cat, two horses, and an ostrich -- are also visible."
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 9193,
+        "TypeId": 101,
+        "Title": "Pullen Park Collection - PPC2020.006.001",
+        "AdditionalInfo": "Watercolor",
+        "ImageId": "15043",
+        "ThumbnailId": "3b5fd398-e079-46a2-9fbf-57dbecd02ff8_thmb.JPG",
+        "ImageCaption": "Ppc2020.006.001 Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It features Standing Horse #2 in the middle, Ostrich's #11A and #11B on the right, and <mark>Pig</mark> #16A on the"
+          }
+        ],
+        "Name": "Watercolor"
+      },
+      {
+        "Id": 28344,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.008",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73728",
+        "ThumbnailId": "280baeb7-8ab5-4e3b-9a43-ea832cf0e431_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "There is a tiger, giraffe, and <mark>pig</mark> toward the left of the center horse."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28347,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.010",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73731",
+        "ThumbnailId": "13cb14e4-f017-45d1-888b-7f61550896d1_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The horse has a green, red, yellow, and black saddle. there is a mouth of a lion and a <mark>pig</mark> that can be"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28349,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.012",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73735",
+        "ThumbnailId": "fa394d5f-7ae0-442d-bf34-304e5d42d6a2_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Behind it are a brown and white horse with a brown, blue, orange, and red saddle, and a <mark>pig</mark> with a red"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28374,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.024",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73759",
+        "ThumbnailId": "afeb00f1-3e20-421b-91fb-238442e05ca3_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Photo has a <mark>pig</mark> with tan, pink, red, and green saddle at the center."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Behind it is another <mark>pig</mark> and three horses."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28384,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.043",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73780",
+        "ThumbnailId": "545850ae-dd6d-4799-befe-2eed783deffc_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of 4 horses, 1 chariot, 1 <mark>pig</mark>, 2 rabbits"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "From left to right: a yellow ear; the back half of a <mark>pig</mark> with green and pink red trim decorative harnesses"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28385,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.044",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73781",
+        "ThumbnailId": "53ef0b56-a489-4a92-8357-0d333f7e9a2d_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "In the background, two ostriches and a <mark>pig</mark> are visible."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28390,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.049",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73791",
+        "ThumbnailId": "7f7be5d0-16f2-4cad-88c1-56f904c21428_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of 3 horses and 1 <mark>pig</mark> with other animals"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "From left to right: a cream <mark>pig</mark> with a red-trimmed green harness; a brown horse; a cream horse with a"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 28391,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2022.005.050",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "73793",
+        "ThumbnailId": "6bae7cb7-6494-46d0-810f-ef6b9e8e3215_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken inside the Pullen Park Carousel house of a lion, 2 horses, a <mark>pig</mark>, a chariot,"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "knees and muzzle that has a gold trimmed red harness; a brown horse with a cream muzzle; the head of a <mark>pig</mark>"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 1220,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM1999.05.04",
+        "AdditionalInfo": "Paperweight",
+        "ImageId": "82599",
+        "ThumbnailId": "42b082cb-9925-4a65-99ad-f88de3672a51_thmb.JPG",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It included a <mark>pig</mark> pickin', a bluegrass band, and a chorus. Speakers included station founder A.J."
+          }
+        ],
+        "Name": "Paperweight"
+      },
+      {
+        "Id": 28022,
+        "TypeId": 102,
+        "Title": "City of Raleigh Museum - RCM2008.30.164",
+        "AdditionalInfo": "Photograph, Black-and-White",
+        "ImageId": "72863",
+        "ThumbnailId": "dee74794-bdda-4314-ab17-5a2d5c826584_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is accompanied by an illustration of a milkman with a <mark>pig</mark> in a wheelbarrow; the word \"Fresh\" is"
+          }
+        ],
+        "Name": "Photograph, Black-and-White"
+      },
+      {
+        "Id": 16236,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2009.76.03 A, B",
+        "AdditionalInfo": "Purse, Change",
+        "ImageId": "43278",
+        "ThumbnailId": "9cd206c3-ce56-4530-bc74-53eb979ebae4_thmb.JPG",
+        "ImageCaption": "Rcm2009.76.03a Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pocket <mark>Pig</mark>, Coin Saver-First Federal Savings, opens up to reveal holders for quarters adding up to $4.00"
+          }
+        ],
+        "Name": "Purse, Change"
+      },
+      {
+        "Id": 28787,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.031",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "74985",
+        "ThumbnailId": "77fb1265-ce7e-4f46-807d-d474f45d571a_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Black text reads \"Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken Dial 7614 109 E. Davie St."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Back has a blank background with black text reading \"Barbeque <mark>Pig</mark> Orders .30- .40- .50- lb .90 with Slaw"
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28790,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.034",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "74991",
+        "ThumbnailId": "725bc37c-646d-4d98-ba2c-6c970352afd2_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Black text reads \"Clyde Cooper's Barbeque <mark>Pig</mark> & Chicken Dial 7614 109 E. Davie St. Raleigh, N.C.\""
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28797,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.041",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75005",
+        "ThumbnailId": "0cea6ae6-2204-4a2d-aa46-a0388ec894c4_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Below that is a large teal square with black text reading \"Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken Dial"
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28799,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.043",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75009",
+        "ThumbnailId": "67cdcda7-7434-4b79-9d5a-91b50dba6208_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Below that is a large teal square with black text reading \"Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken Dial"
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28829,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.070",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75164",
+        "ThumbnailId": "687341a3-d38f-4fef-bfda-30c20fabfa4e_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Cover has a pink square on top of the lines with \"Clyde Cooper's Barbeque <mark>Pig</mark> & Chicken Dial 7614 109"
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28864,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.100",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75442",
+        "ThumbnailId": "e2689aad-abae-44fb-943a-adcc7fead8fc_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A multicolored matchbook printed for Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken at 109 E."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28867,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.103",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75446",
+        "ThumbnailId": "440bb048-7eed-4719-9c52-9478a6d42298_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A multicolored matchbook printed for Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken at 109 E."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28885,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.104",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75590",
+        "ThumbnailId": "069226be-aa68-4cee-9c66-a5a65d040257_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A multicolored matchbook printed for Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken at 109 E."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28887,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.106",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75610",
+        "ThumbnailId": "4d5472d9-334a-40e2-8fc5-74dd0d25df38_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The words \"Meet Your Friends at Sauls Barbeque <mark>Pig</mark> Cooked Daily\" are printed in black on the front on"
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28906,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.108",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75620",
+        "ThumbnailId": "ae8e436d-bd1d-4ae8-8cf5-ce7e83b7f703_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A multicolored matchbook printed for Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken at 109 E."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 28968,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.115",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "75894",
+        "ThumbnailId": "7a298666-5b7a-4871-a7e2-3077d6cc71b6_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A multicolored matchbook printed for Clyde Cooper's Barbeque <mark>Pig</mark> and Chicken at 109 E."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 29281,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2014.10.160",
+        "AdditionalInfo": "Matchbook",
+        "ImageId": "77109",
+        "ThumbnailId": "9f9097f4-eb61-4566-b053-543593cde301_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside is plain cardboard, and on one side there is an image of two pigs and \"<mark>Pig</mark> in Bun\" on it."
+          }
+        ],
+        "Name": "Matchbook"
+      },
+      {
+        "Id": 25624,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2021.017.013",
+        "AdditionalInfo": "Drawing",
+        "ImageId": "63530",
+        "ThumbnailId": "7ac3853c-70be-4612-a147-67b81ebd2ecf_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Print of a drawing of an unknown man seated at a desk with a <mark>pig</mark> genie emerging from a magic lamp."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> wears a robe, a turban, and an earring. There are stars and swirls emerging from the lamp."
+          }
+        ],
+        "Name": "Drawing"
+      },
+      {
+        "Id": 25625,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2021.017.014",
+        "AdditionalInfo": "Drawing",
+        "ImageId": "63531",
+        "ThumbnailId": "b1c89044-6ee2-4614-9ddc-5cc48570c94e_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Print of a drawing of an unknown man seated at a desk with a <mark>pig</mark> genie emerging from a magic lamp."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> wears a robe, a turban, and an earring. There are stars and swirls emerging from the lamp."
+          }
+        ],
+        "Name": "Drawing"
+      },
+      {
+        "Id": 32183,
+        "TypeId": 102,
+        "Title": "City of Raleigh Museum - RCM2021.027.0047",
+        "AdditionalInfo": "Photograph, Digital",
+        "ImageId": "88659",
+        "ThumbnailId": "18f30bab-e9d6-485e-9d3e-994da6d82ea2_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This space is now NOFO @ The <mark>Pig</mark>, which features a retail store upstairs and a cafe downstairs."
+          }
+        ],
+        "Name": "Photograph, Digital"
+      },
+      {
+        "Id": 32184,
+        "TypeId": 102,
+        "Title": "City of Raleigh Museum - RCM2021.027.0048",
+        "AdditionalInfo": "Photograph, Digital",
+        "ImageId": "88660",
+        "ThumbnailId": "d7b3c807-3997-49cf-a810-ec3514d60107_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This space is now NOFO @ The <mark>Pig</mark>, which features a retail store upstairs and a cafe downstairs."
+          }
+        ],
+        "Name": "Photograph, Digital"
+      },
+      {
+        "Id": 32185,
+        "TypeId": 102,
+        "Title": "City of Raleigh Museum - RCM2021.027.0049",
+        "AdditionalInfo": "Photograph, Digital",
+        "ImageId": "88661",
+        "ThumbnailId": "1c3882fc-33ea-4f0d-9535-a0094bf637f5_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This space is now NOFO @ The <mark>Pig</mark>, which features a retail store upstairs and a cafe downstairs."
+          }
+        ],
+        "Name": "Photograph, Digital"
+      },
+      {
+        "Id": 34296,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2024.027.005",
+        "AdditionalInfo": "Book",
+        "ImageId": "96321",
+        "ThumbnailId": "ac3a2100-b6a3-47d6-8d3f-e50bafebb128_thmb.JPG",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "\"Bo-bo the <mark>Pig</mark> is Good and Bad\" hardback book written by Samuel E."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Cover shows a <mark>pig</mark> wearing a suit."
+          }
+        ],
+        "Name": "Book"
+      }
+    ]
+  }
+}

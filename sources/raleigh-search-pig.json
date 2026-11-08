@@ -1,0 +1,2096 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 138,
+    "Items": [
+      {
+        "Id": 19068,
+        "TypeId": 104,
+        "Title": "Dorothea Dix Park - DIX2018.001.027",
+        "AdditionalInfo": "Drawing",
+        "ImageId": "38598",
+        "ThumbnailId": "22404ec8-5b21-4df1-aeb7-a612dd2a4db3_thmb.JPG",
+        "ImageCaption": "Dix2018.001.027 Front Scan",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The other side has a <mark>pig</mark>."
+          }
+        ],
+        "Name": "Drawing"
+      },
+      {
+        "Id": 9451,
+        "TypeId": 101,
+        "Title": "Latta University Historic Park - LH.2009.001.271",
+        "AdditionalInfo": "BONE",
+        "ImageId": "54302",
+        "ThumbnailId": "fae677d2-eb56-4aeb-9c57-52cdd174cc98_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Possibly a bone from a <mark>pig</mark> or another animal frequently consumed by humans."
+          }
+        ],
+        "Name": "BONE"
+      },
+      {
+        "Id": 16626,
+        "TypeId": 104,
+        "Title": "Mordecai Historic Park - MP.2005.010.023",
+        "AdditionalInfo": "Magazine",
+        "ImageId": "47464",
+        "ThumbnailId": "bae74f20-f5e5-4447-bf4e-0c323018cd34_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "COVER FEATURES ORANGE BORDER AND ORANGE -TINTED ILLUSTRATIONS OF (LEFT TO RIGHT) A CHICKEN, COW, AND <mark>PIG</mark>"
+          }
+        ],
+        "Name": "Magazine"
+      },
+      {
+        "Id": 22074,
+        "TypeId": 104,
+        "Title": "Mordecai Historic Park - MP.2005.019.346.07B",
+        "AdditionalInfo": "Invitation",
+        "ImageId": "35940",
+        "ThumbnailId": "a14f3975-3632-4d61-98b2-37d6b35e2bb9_thmb.JPG",
+        "ImageCaption": "Mp.2005.019.346.07b Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A printed gold <mark>pig</mark> silhouette is on the inside along with the following words: Mr."
+          }
+        ],
+        "Name": "Invitation"
+      },
+      {
+        "Id": 17094,
+        "TypeId": 104,
+        "Title": "Dr. M.T. Pope House Museum - PHM2012.01.0134",
+        "AdditionalInfo": "Book",
+        "ImageId": "34692",
+        "ThumbnailId": "52b54b57-92cf-45f4-a775-da71cedc3167_thmb.JPG",
+        "ImageCaption": "Phm2012010134 (1)",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Cover has a cartoon drawing of a dog, cat, and <mark>pig</mark> dressed as people."
+          }
+        ],
+        "Name": "Book"
+      },
+      {
+        "Id": 4096,
+        "TypeId": 101,
+        "Title": "Dr. M.T. Pope House Museum - PHM2012.01.0713",
+        "AdditionalInfo": "Plate, Decorative",
+        "ImageId": "6089",
+        "ThumbnailId": "89e4ae3d-3498-4105-8cee-f3529f99dfbb_thmb.JPG",
+        "ImageCaption": "P713",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "CENTRAL IMAGE DEPICTS A MOTHER <mark>PIG</mark> WITH HER TWO PIGLETS AND A DOG IN A POLICEMAN'S CLOTHES."
+          }
+        ],
+        "Name": "Plate, Decorative"
+      },
+      {
+        "Id": 4981,
+        "TypeId": 101,
+        "Title": "Dr. M.T. Pope House Museum - PHM2012.01.1323A-B",
+        "AdditionalInfo": "Block, Puzzle",
+        "ImageId": "18067",
+        "ThumbnailId": "e139e1ac-787d-452b-a2dd-33820c179759_thmb.JPG",
+        "ImageCaption": "Phm2012.01.1323 Cubes Top",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Blocks portray \"shoemaker\" and the front of box is a woman with a <mark>pig</mark>."
+          }
+        ],
+        "Name": "Block, Puzzle"
+      },
+      {
+        "Id": 18628,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.093",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "49072",
+        "ThumbnailId": "e791e8c3-4f04-4f48-89b0-a589ed47ce69_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.093",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping <mark>Pig</mark> 7A, which was produced by the Dentzel company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, No. 7A, <mark>Pig</mark> Left side.\""
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18629,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.094",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "43587",
+        "ThumbnailId": "6ee22ff0-5df1-4687-9faf-c5a141daf5b7_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.094",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Dentzel Jumping <mark>Pig</mark> 7A's saddle on the inner side."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18630,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.095",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50167",
+        "ThumbnailId": "f39b0ae2-9f4b-4b0d-929e-5a8e9c9ff533_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.095",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Dentzel Jumping <mark>Pig</mark> 7A."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, \"No. 7A, <mark>Pig</mark> Romance Side.\""
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18631,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.096",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "44738",
+        "ThumbnailId": "10810c3d-2b40-4055-ad0a-779b8ce528a6_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.096",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Dentzel Jumping <mark>Pig</mark> 7A's romance saddle and top front saddle."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18632,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.097",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50238",
+        "ThumbnailId": "5f5dbd14-702b-4a01-9d60-b0ee4b600509_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.097",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Dentzel Jumping <mark>Pig</mark> 7B's inner side rear tack."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18633,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.098",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "47676",
+        "ThumbnailId": "76532d9c-4b7c-40e0-b714-d01c593b7072_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.098",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Dentzel Jumping <mark>Pig</mark> 7B's romance side rear tack."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18634,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.099",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "36653",
+        "ThumbnailId": "c7b420b3-7e5f-4e68-bab9-8ed4e80294a2_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.099",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Dentzel Jumping <mark>Pig</mark> 7B's romance side saddle detail."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20733,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.238",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "51375",
+        "ThumbnailId": "1f87baab-c2c1-4d5d-b0d5-7e129e358c0a_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.238",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the inner side of Jumping <mark>Pig</mark> 16A."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20734,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.239",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50087",
+        "ThumbnailId": "97280505-9454-4850-8942-9e38b77a7e39_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.239",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the romance side of Jumping <mark>Pig</mark> 16A."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20735,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.240",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "47028",
+        "ThumbnailId": "92fe9e20-d2f7-480b-87a7-c5bb8ad758cb_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.240",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Jumping <mark>Pig</mark> 16B's inner and romance side blanket corner design."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20736,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.241",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "43608",
+        "ThumbnailId": "b7d39bbf-fa3e-416a-8932-cee277f53c0b_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.241",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the inner side of Jumping <mark>Pig</mark> 16B."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20738,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.242",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "35636",
+        "ThumbnailId": "4b8f732c-a42d-4068-874c-df057b219009_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.242",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the romance side of Jumping <mark>Pig</mark> 16B."
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 12287,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.230",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29835",
+        "ThumbnailId": "91168c73-7a02-4996-9a5e-43c806fd1acc_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.230",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left side detail of a worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “Pullen Park Carousel Pullen Park <mark>Pig</mark> 7A Left Raleigh NC Wake Co 8-79 RR Raleigh Fine"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12288,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.231",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29829",
+        "ThumbnailId": "6fe342b9-683c-4b77-91c8-4ec011a54eeb_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.231",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by kodak featuring the right side of a worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “Pullen Park Carousel Pullen Park <mark>Pig</mark> 7A Right 7/78 MAR78A6 Raleigh NC Wake Co Rosa Ragan"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12289,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.232",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28399",
+        "ThumbnailId": "e4d34890-9bf6-4c20-81b5-47e14ff2928c_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.232",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the front right quarter of a worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “Pullen Park Carousel Pullen Park <mark>Pig</mark> 7A Right 8-79 Raleigh NC Wake Co RR Raleigh Fine"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12290,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.233",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "31734",
+        "ThumbnailId": "db96ea79-1c02-476d-aa07-75b59cf72a61_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.233",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left saddle of a worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “llen Park Carousel Pullen Park <mark>Pig</mark> 7A saddle left Raleigh NC Wake Co 8-79 RR Raleigh"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12291,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.234",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28679",
+        "ThumbnailId": "7426c02d-9e80-4b34-8725-4a9c138e050e_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.234",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left front head of a carousel <mark>pig</mark> that is worn."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12292,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.235",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28203",
+        "ThumbnailId": "2d2c7c1d-a046-4d13-8a96-d857b33e9aaf_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.235",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left side of a worn carousel <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12293,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.236",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28719",
+        "ThumbnailId": "0d07a526-08b4-49cd-a324-52ad3b3d365c_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.236",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right side of a worn carousel <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12294,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.237",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27469",
+        "ThumbnailId": "7dcbe1e3-f96a-4114-a682-0279a23903a7_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.237",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right side detail of a worn carousel <mark>pig</mark>, showing two oak leaves"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12295,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.238",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27436",
+        "ThumbnailId": "2db0591e-8405-4a86-96e0-9ee9de8dd373_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.238",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring a detail of the right side and saddle of a worn carousel <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12297,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.240",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29819",
+        "ThumbnailId": "57a5c939-673c-4278-916f-30d0809810cd_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.240",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right side detail of a worn carousel <mark>pig</mark>, showing two oak leaves"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12298,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.241",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25372",
+        "ThumbnailId": "323f8d21-092e-4914-a482-5b71bb5e4d6d_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.241",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left rear quarter of a worn carousel <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12299,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.242",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28987",
+        "ThumbnailId": "12aa8692-69f6-4545-98db-0776e9bfc84f_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.242",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by Kodak featuring the right side of a newly painted carousel <mark>pig</mark>, colored white"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12300,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.243",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32105",
+        "ThumbnailId": "f0b70acc-0f05-4238-b562-04749a9e8156_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.243",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by Kodak featuring the left side of a freshly painted carousel <mark>pig</mark>, colored white"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12301,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.244",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25820",
+        "ThumbnailId": "7ecc2983-7bf2-435c-a88d-383b30a742bf_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.244",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left side of a freshly painted pink carousel <mark>pig</mark> with blue,"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12302,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.245",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28699",
+        "ThumbnailId": "30b578b4-c1da-4d99-817d-aad71499823a_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.245",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right side of a freshly painted pink carousel <mark>pig</mark> with blue"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12304,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.247",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28027",
+        "ThumbnailId": "18b6e111-f9a0-496a-b87d-220c82d085ec_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.247",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left rear portion of a badly worn black carousel <mark>pig</mark>, with"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12305,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.248",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25546",
+        "ThumbnailId": "6d02a8a5-0e83-4cf9-a0ff-bc6b9777bd3c_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.248",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the full left side of a dark carousel <mark>pig</mark> with red and green tack"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is badly worn."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12306,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.249",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27074",
+        "ThumbnailId": "1a4f71f4-1800-471b-8ebb-51c958def750_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.249",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the full right side of a dark carousel <mark>pig</mark> with red and green tack"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is badly worn."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12307,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.250",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29318",
+        "ThumbnailId": "43ac9436-1389-4a87-9b58-19f28024a3c7_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.250",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome Slide by Kodak featuring the front right quarter of a badly worn carousel <mark>pig</mark> with red and"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12308,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.251",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "31505",
+        "ThumbnailId": "e276d1fc-d19d-4210-b94c-b924961700bd_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.251",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right rear quadrant of a badly worn carousel <mark>pig</mark> with red and"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12309,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.252",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29801",
+        "ThumbnailId": "35041ee4-40c8-4fa9-9487-4895df96c9d0_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.252",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the left side of a saddle on a badly worn carousel <mark>pig</mark> with red"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12311,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.254",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27017",
+        "ThumbnailId": "ffe751bc-ebd3-4fa2-8e95-d3fdf46291ae_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.254",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the top rear portion of a badly worn carousel <mark>pig</mark> with green and"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12312,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.255",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27503",
+        "ThumbnailId": "31658203-496d-4cb0-96fb-77a90f5b6abe_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.255",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A Kodachrome slide by Kodak featuring the right side of a carousel <mark>pig</mark> with blue, yellow, and black tack"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12313,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.256",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28362",
+        "ThumbnailId": "7e8bffd6-52e4-4967-9d22-11ed8e7a4de3_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.256",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by Kodalux featuring a freshly painted carousel <mark>pig</mark> with blue, yellow, and black"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12316,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.259",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30396",
+        "ThumbnailId": "61b50f4a-5e4c-4b48-b44c-dcaf7f760d7e_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.259",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by Kodalux featuring the left side of a freshly painted carousel <mark>pig</mark> with blue, yellow"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 12317,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.260",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28673",
+        "ThumbnailId": "cdfb80a8-7078-44de-a768-ef53885cce29_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.260",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "An Ektachrome slide by Kodalux featuring a freshly painted carousel <mark>pig</mark> with blue, yellow, and black"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13148,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.512",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25727",
+        "ThumbnailId": "e0f299ca-0c68-423e-96dd-31704df05d9a_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.512",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the right side of a carousel <mark>pig</mark>, which is badly worn and damaged."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Portions of the <mark>pig</mark> are stained black, the bottom and backside."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The tack of the <mark>pig</mark> is orange with gold detailing."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13149,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.513",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32060",
+        "ThumbnailId": "afa8ad79-cd4e-4cdc-a1bf-acdd91fe362a_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.513",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a carousel <mark>pig</mark>, which is very worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is a very light tan, with some darker spots. The image has lots of small dark spots on it."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13150,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.514",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30747",
+        "ThumbnailId": "217b9dda-d31a-4280-902e-b27673d2fd9d_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.514",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a carousel <mark>pig</mark>, which is very worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is a very light tan, with some darker spots. The image has lots of small dark spots on it."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13154,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.518",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25389",
+        "ThumbnailId": "397b3ce3-e88e-4a7c-9f71-362e7d56c5ba_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.518",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing a detail of the left side of a carousel <mark>pig</mark> head."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Some of the <mark>pig</mark> has red paint on it, and some of the <mark>pig</mark> has had the paint stripped from it."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has tusks on the bottom jaw that are visible."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The bottom has written “<mark>Pig</mark>” and “6-79” and has typed “RALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13155,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.519",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26382",
+        "ThumbnailId": "24531846-4093-4026-a9e8-3b0dc95e9f81_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.519",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is colored a reddish orange and a light tan. The tack is green, red, and yellow."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> appears to be extremely worn. The image has small dark spots on it."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "At the bottom is written “<mark>Pig</mark>” and typed “RALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY”."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13156,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.520",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28827",
+        "ThumbnailId": "d4cee5bc-9b5d-411a-a38e-1b7b385a2f20_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.520",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide that shows the front left quarter of a carousel <mark>pig</mark> that is very worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is a reddish orange and tan color."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The bottom has written “<mark>Pig</mark>” and typed “RALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY”."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13157,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.521",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27645",
+        "ThumbnailId": "d9ba7d3e-960a-42a9-9ce7-63c39914fa6b_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.521",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is colored a reddish orange in some parts and a light tan in others."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn, with much of the paint missing."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK 16a left middle” at the top and “<mark>Pig</mark> RALEIGH WAKE CO"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13158,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.522",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26585",
+        "ThumbnailId": "fcd66011-a4b5-49ec-8192-8bb0497f2d08_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.522",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is colored both a reddish orange where the paint has been removed and a light tan color."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn, with most of the <mark>pig</mark> being the reddish orange color where there is no paint"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL 16A Restricted use RIGHT MID” at the top and “<mark>Pig</mark> RALEIGH NC WAKE"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13159,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.523",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27248",
+        "ThumbnailId": "51ba832a-5680-4a76-955b-4110f12d93bb_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.523",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide that shows the left hind quarter of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a light tan, and in some portions the paint has been removed, leaving a reddish"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK 16A LEFT REAR” at the top and “<mark>Pig</mark> RALEIGH NC WAKE"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13160,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.524",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25677",
+        "ThumbnailId": "74ba7804-f011-4bac-ac02-cb06badb6649_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.524",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the right side of a freshly painted carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a light tan. The saddle is light brown, yellow, and black."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole with a white backdrop."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13161,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.525",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26808",
+        "ThumbnailId": "6df22775-208a-4eb8-8349-6810e1ed2048_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.525",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a freshly painted carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a very light tan. The saddle is light brown, yellow, and black."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole with a white backdrop."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13162,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.526",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30001",
+        "ThumbnailId": "7e26dbd1-67e6-4975-9642-1fc0741e7200_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.526",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a very worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan in some areas, but most of the skin is colored black, possibly where"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is standing on the ground with a white backdrop."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13163,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.527",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30630",
+        "ThumbnailId": "350f66a3-8b2e-4c2f-b06c-4b4fcb55b5a2_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.527",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a very worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a light tan with some darker spots, especially the jowls and the tail, both of"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole with a white backdrop. The image has small dark spots."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13164,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.528",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28957",
+        "ThumbnailId": "05a9f230-ea1b-425b-b9d1-fcb1f660dc02_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.528",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the right side of a very worn carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan, however there are parts that have colored black, especially the tail"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole with a white backdrop."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13165,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.529",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32309",
+        "ThumbnailId": "3b468a81-9e9c-4d08-a23f-251ef27f2135_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.529",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn. The skin of the <mark>pig</mark> ranges from a tan, to a brown, to black."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Front JUNE79A3” at the top and “RALEIGH NE WAKE CO <mark>Pig</mark> 6/79 RR RALEIGH FINE ARTS SOCIETY” at the bottom"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13166,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.530",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27231",
+        "ThumbnailId": "56d2f6ac-2e79-4a56-80e6-253c2edadccd_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.530",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide that shows a detail of the left hind quarter and saddle of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> ranges from a light tan to black."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13167,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.531",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29629",
+        "ThumbnailId": "628c6adc-90e6-4da0-9f9d-a65ad8c44166_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.531",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide that shows a detail of the right front quarter and saddle of a carousel <mark>pig</mark> that"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a light tan, but gets darker towards the top, almost to black."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13168,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.532",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27013",
+        "ThumbnailId": "42879f57-271d-42be-9f95-ce21799b005f_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.532",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan, but darkens around the jowls, nose, and eyes."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13169,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.533",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25366",
+        "ThumbnailId": "391e9581-4194-4d4d-96bd-ec73481f83fd_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.533",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan but darkens in near the saddle. The saddle is brown."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very worn, there are many places that have the paint worn off."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The ears of the <mark>pig</mark> appear to be a different color brown, suggesting that the ears have been replaced"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole, which can be seen coming up through the <mark>pig</mark> right in front of the saddle"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13170,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.534",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26415",
+        "ThumbnailId": "d5179814-bb4b-49c8-ba52-1c3af982507a_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.534",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing a detail of the right side saddle of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> ranges from a light to a dark brown, with the darkest parts being next to the saddle"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT DETAIL” at the top and “<mark>Pig</mark> RALEIGH NC WAKE"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13171,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.535",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30852",
+        "ThumbnailId": "8ac9e344-2c93-4575-adde-5adbffa345fd_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.535",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the right side saddle and hind quarter of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn. The image has very fine black spots on it."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT READ/MID” at the top and “<mark>Pig</mark> RALEIGH NC"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13172,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.536",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27137",
+        "ThumbnailId": "69065bdc-0299-49d3-9c1a-7cae58a594bc_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.536",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left rear leg of a carousel <mark>pig</mark>. It is extremely worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> ranges from a lighter tan to brown."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is standing on the ground with a white backdrop."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK LEFT REAR 16B” at the top and “RALEIGH NC WAKE CO <mark>Pig</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13196,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.537",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26456",
+        "ThumbnailId": "e318b091-7a8b-4b26-aff3-536c22e8eb9b_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.537",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the top of the head of a carousel <mark>pig</mark>. The <mark>pig</mark> is very well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin is light tan at the top and fades to a darker brown towards the bottom of the <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is on a pole, which is coming up through the <mark>pig</mark> at the front of the saddle."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13197,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.538",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29345",
+        "ThumbnailId": "982ec2b1-3f21-47d9-b592-be2b57a15b0a_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.538",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the back legs of a carousel <mark>pig</mark> that is extremely well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The image was taken from the right of the <mark>pig</mark>. The backside of the <mark>pig</mark> is visible."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is a light tan and the tack is red."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13198,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.539",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28108",
+        "ThumbnailId": "735658fe-4905-47a0-bf46-1850c5b3e0e4_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.539",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn, with paint missing in many spots and many scratches."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan, but darkens to brown around the saddle and tack."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is on a pole which can be seen coming up through it at the front of the saddle."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13199,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.540",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28603",
+        "ThumbnailId": "c83a33bb-e909-4331-a65e-0b3702d9287c_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.540",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is very well worn, with various scratches and places where the paint has worn off."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> is light tan, but darkens closer to the saddle and tack."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13283,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.581",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32138",
+        "ThumbnailId": "2f2491c8-9b0b-450a-8b26-c6a8a0843598_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.581",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the rear right leg of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The skin of the <mark>pig</mark> ranges from a light tan to a darker brown closer to the saddle blanket."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The surface of the <mark>pig</mark> is well worn."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13284,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.582",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "31143",
+        "ThumbnailId": "ed49f50c-e148-466c-bec8-789f1bf1e9d8_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.582",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a carousel <mark>pig</mark> that is very well worn."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is a light tan color, however much of the paint is missing, leaving black behind."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The slide reads “PULLEN PARK CAROUSEL PULLEN PARK 16B LEFT MID” at the top and “<mark>Pig</mark> RALEIGH NC WAKE CO"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13285,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.583",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26096",
+        "ThumbnailId": "96da82d3-289c-4fcc-a5cb-d33107f11748_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.583",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the left side of a freshly painted carousel <mark>pig</mark> that is suspended on a pole"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> ranges in color from dark brown to almost white at the hooves."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The eyes of the <mark>pig</mark> are unfinished."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13286,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.584",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25279",
+        "ThumbnailId": "bf2db27b-7a58-4dac-96e7-e851d4a75cca_thmb.JPG",
+        "ImageCaption": "Ppc2019.001.584",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide showing the right side of a freshly painted carousel <mark>pig</mark> that is suspended on a"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> ranges in color from dark brown to almost white at the hooves."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The eyes of the <mark>pig</mark> are unfinished."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13332,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.630",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "27776",
+        "ThumbnailId": "30556783-3ec1-41f5-b1a1-17a4aa93fd56_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The left center <mark>pig</mark> has a blue and red chest band while the right center has a blue and brown chest band"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14594,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.729",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28974",
+        "ThumbnailId": "b01304a1-92a5-42ee-ba98-18d2946d5b8d_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a Pullen Carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The image is of the front half of the <mark>pig</mark> showing the breast band in red and green."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Another <mark>pig</mark> is in shadow behind it and the carousel mirrors are visible in the background."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14602,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.737",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29943",
+        "ThumbnailId": "13438170-fe75-4664-86fa-cb7e966daa80_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a carousel <mark>pig</mark>. The <mark>pig</mark> has a light brown saddle with dark brown trim."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14606,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.741",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32072",
+        "ThumbnailId": "3e338df9-553d-458f-85fe-effab7beb304_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The animals, including parts of three horses and a <mark>pig</mark>, are out of focus while the mirrors at the center"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14610,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.743",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30184",
+        "ThumbnailId": "5fe090c7-d786-4e62-9025-f3526d8a2e2b_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The row behind the horse was a palamino jumping horse, a <mark>pig</mark>, and more horses."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14617,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.747",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30735",
+        "ThumbnailId": "82ffe6c7-3c1d-408c-8fda-fa9537be1991_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The two boys wear matching clothes and ride a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The mother stands behind the <mark>pig</mark> with her arm wrapped around the boys."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is light colored and in the center row. The slide is labeld \"Parks Dept\"."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14632,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.754",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30065",
+        "ThumbnailId": "c89a9f92-b8a8-4d36-b872-31d7f24439e8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a boy wearing a light gray t-shirt and red shorts riding a carousel <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14633,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.755",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28058",
+        "ThumbnailId": "fc638ee8-6f40-4da8-96b2-1042eca4e705_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A few other carousel animals are visible, including a tiger and a <mark>pig</mark>."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 13919,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.007",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "26544",
+        "ThumbnailId": "29c709c0-8be6-43c6-88a6-cc2f9b4adaf3_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken from the back right."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Another person holds the front legs of the <mark>pig</mark> and faces the camera wearing a sweater and sweat pants"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13920,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.008",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "31156",
+        "ThumbnailId": "2f8a7e32-ae06-45a6-b362-c690096d7402_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken from the back right."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A person in a sweater with long hair bends beneath the <mark>pig</mark>, holding the feet rails."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13921,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.009",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "28710",
+        "ThumbnailId": "88cd1f84-bddc-42c1-94d6-e8c3012d62f4_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken from the front left."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A person in white painter's coveralls stands behind the <mark>pig</mark> and holds the pig's carousel pole in one"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13922,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.010",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "31918",
+        "ThumbnailId": "952f0994-8185-4b36-a481-fdb512cd45b0_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken from the front left."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Two people stand behind the <mark>pig</mark>, barely visible."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13923,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.011",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "26662",
+        "ThumbnailId": "a0d320f1-8e35-4c3e-a3b9-32bddff6b574_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken from the front showing the face, front legs, and top of the brown"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is not attached to the carousel. It is labeled \"16A.\""
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13924,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.012",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "30606",
+        "ThumbnailId": "fb040b96-d2fe-454f-8ec8-20d409c953f0_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken of the right side."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A person stands behind and in front of the <mark>pig</mark> with their back facing the camera."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A ladder rests behind the <mark>pig</mark> against a carousel pole."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 13925,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.013",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "28033",
+        "ThumbnailId": "9e214622-a48d-4d45-bf3b-c21b4448cf80_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A polaroid of a carousel <mark>pig</mark> taken of the right side."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A ladder rests behind the <mark>pig</mark> against a carousel pole."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps"
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14017,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.081",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32471",
+        "ThumbnailId": "9a5f6c11-1425-4858-a124-d3a797ea3d7f_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Other carousel animals including a tiger and a <mark>pig</mark> are visible around them."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14018,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.082",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30649",
+        "ThumbnailId": "5865a474-4aa8-40be-b925-92ed172f5598_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a child riding a carousel <mark>pig</mark> with the father standing behind."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14023,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.087",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "29110",
+        "ThumbnailId": "70c503a9-9cee-4926-8b5b-f1729ac53f99_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a little girl riding a carousel <mark>pig</mark> with an adult standing behind the <mark>pig</mark> and"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14027,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.091",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26346",
+        "ThumbnailId": "56f6d9f7-6163-4b81-a26b-40a6cb87a882_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A carousel <mark>pig</mark> is visible at the back left and the background is mostly dark."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14029,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.001.093",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30281",
+        "ThumbnailId": "b8881178-336e-4666-a004-972b8f981485_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A carousel <mark>pig</mark> is visible at the back left and the rest of the carousel is dark."
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14050,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.022",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "28958",
+        "ThumbnailId": "e9d3d698-367d-4367-8774-2d4d94a47e74_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of a Pullen Park Carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The jaw and front leg of another <mark>pig</mark> are visible at the left side."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14051,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.023",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "30530",
+        "ThumbnailId": "7056cc1e-bd00-4733-b993-5157ea236193_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of a Pullen Park Carousel <mark>pig</mark>, painted black and white."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Another <mark>pig</mark> is directly behind it, and other animals are visible to the left and right."
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14103,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.044",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "26923",
+        "ThumbnailId": "381ad586-688f-4826-b496-b9424db67864_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the left side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\""
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14104,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.045",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "30557",
+        "ThumbnailId": "63795902-935b-4be9-9f12-4f40b34d2c6e_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the right side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\""
+          }
+        ],
+        "Name": "Photograph, Color"
+      },
+      {
+        "Id": 14105,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.002.046",
+        "AdditionalInfo": "Photograph, Color",
+        "ImageId": "30900",
+        "ThumbnailId": "d20d1ef8-679e-486d-bd5f-5eb1248b0cd3_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph of the left side of a carousel <mark>pig</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is suspended on a pole in front of a blue background."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>pig</mark> is brown and white with a brown saddle, a black and gold saddle pad, and red sashes around the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The original envelope for the photograph is labled \"<mark>Pig</mark> 16B, 6060.\" A duplicate of PPC2020.002.044."
+          }
+        ],
+        "Name": "Photograph, Color"
+      }
+    ]
+  }
+}

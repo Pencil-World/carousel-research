@@ -1,0 +1,387 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 15,
+    "Items": [
+      {
+        "Id": 34907,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.021",
+        "AdditionalInfo": "Letter",
+        "ImageId": "98182",
+        "ThumbnailId": "ca33d38d-add9-4fbf-a8e6-267fbe58af0a_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of a letter from the Division of Archives and <mark>History</mark> of the State of North Carolina Department"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "first page of an application for a Request for Historic Preservation Grant-In-Aid for the Pullen Park <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Letter"
+      },
+      {
+        "Id": 34968,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.060",
+        "AdditionalInfo": "Statement",
+        "ImageId": "98518",
+        "ThumbnailId": "1a6d4efc-a81e-4fcc-942d-5e55b363dfc8_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of a statement for <mark>carousel</mark> organ restoration that provides a brief <mark>history</mark> of automatic musical"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Durwood (Durward) Center is doing to restore the band organ for the Pullen Park <mark>Carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Statement"
+      },
+      {
+        "Id": 34973,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.065",
+        "AdditionalInfo": "Application",
+        "ImageId": "98539",
+        "ThumbnailId": "df046884-aa5c-49cd-96fc-8aa59bc74f79_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Department of Cultural Resources Division of Archives and <mark>History</mark>. Applicant is Mrs. James B."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "., for the Pullen Park Dentzel <mark>Carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Application"
+      },
+      {
+        "Id": 34998,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.072A-B",
+        "AdditionalInfo": "Minutes",
+        "ImageId": "98805",
+        "ThumbnailId": "16370ed1-5b85-4ed8-bc3c-f68979e552e5_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of two pages of minutes from the meeting at Department of Archives and <mark>History</mark> with Peter Sandbeck"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "discussed grants received, as well as Rosa Regan's (Ragan) progress on stripping paint on the Pullen Park <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Minutes"
+      },
+      {
+        "Id": 35024,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.073A",
+        "AdditionalInfo": "Newsletter",
+        "ImageId": "98807",
+        "ThumbnailId": "4c3e9e3b-9032-42be-92e4-c6ffd3ca0a21_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The cover shows Rosa Ragan working on one of the Pullen Park <mark>Carousel</mark> animals."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pages 4-5 include a short article about the <mark>carousel</mark> restoration titled, \"Hurdy-Gurdy Time.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The article talks about the <mark>history</mark> of the <mark>carousel</mark>, the work being done by Ragan, and includes a testimony"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "about the <mark>carousel</mark> by J.W.P."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Hodges riding the <mark>carousel</mark> with his grandson."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Newsletter"
+      },
+      {
+        "Id": 20325,
+        "TypeId": 104,
+        "Title": "Parks, Recreation, and Cultural Resources - PRCR2018.008.028",
+        "AdditionalInfo": "Magazine",
+        "ImageId": "44982",
+        "ThumbnailId": "92b25c28-d77b-431f-8e0d-f54569607604_thmb.JPG",
+        "ImageCaption": "Prcr2018.008.028 Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "“Merry-Go-Roundup\" published by the National <mark>Carousel</mark> Association of Manchester, NH, Volume 10, Number"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The issue features “A Salute to Pullen Park’s Dentzel <mark>Carousel</mark>”."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The story covers the restoration of the <mark>carousel</mark>, as well as a short <mark>history</mark> of the park and <mark>carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The cover has a <mark>carousel</mark> lion on it, in color."
+          }
+        ],
+        "Name": "Magazine"
+      },
+      {
+        "Id": 18295,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM1993.03.09",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "67611",
+        "ThumbnailId": "aedcc43c-71b2-4dcd-96de-6da8e3166825_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "the right side of each flip up page is a timeline of various important dates and events in Raleigh <mark>history</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 15990,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2009.47.03",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "32723",
+        "ThumbnailId": "59d7fb48-beac-4d3b-8129-fbc4a9d59cdc_thmb.JPG",
+        "ImageCaption": "Rcm2009.47.03 Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "the right side of each flip up page is a timeline of various important dates and events in Raleigh <mark>history</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 667,
+        "TypeId": 101,
+        "Title": "City of Raleigh Museum - RCM2009.126.01",
+        "AdditionalInfo": "Quilt",
+        "ImageId": "78835",
+        "ThumbnailId": "ee33b62b-df09-4109-81bc-8b4a3eb87db0_thmb.JPG",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Main Building (Hollady Hall) NC College of Argricultural and Mechanical Arts\nThe Governor's Mansion\n<mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Village Shopping Center\nDorton Arena - NC State Fairgrounds\nNC State Legislative Building\nNC Museum of <mark>History</mark>"
+          }
+        ],
+        "Name": "Quilt"
+      },
+      {
+        "Id": 16133,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2011.02.04",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "32562",
+        "ThumbnailId": "8cdab1ee-b33b-4018-b6aa-f451ba4556dd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "the right side of each flip up page is a timeline of various important dates and events in Raleigh <mark>history</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 16134,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2011.02.05",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "",
+        "ThumbnailId": null,
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "the right side of each flip up page is a timeline of various important dates and events in Raleigh <mark>history</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 27058,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2020.017.002, A-K",
+        "AdditionalInfo": "Form",
+        "ImageId": "69253",
+        "ThumbnailId": "06e97b3f-3313-4ea0-8873-df5c420fcb56_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Nomination form for the Pullen Park <mark>Carousel</mark> to be considered historic under the National Register of"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The form is 11 pages long and includes basic information of the <mark>Carousel</mark>, including its location, classification"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The physical appearance is described and a statement of significance and the carousels <mark>history</mark> are provided"
+          }
+        ],
+        "Name": "Form"
+      },
+      {
+        "Id": 26689,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2022.002.042",
+        "AdditionalInfo": "Pamphlet",
+        "ImageId": "67933",
+        "ThumbnailId": "f9dde2f8-7265-4b94-a162-d5cf4d39c81e_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside are 34 historic landmarks pertaining to Raleigh's Black <mark>history</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "African American Cultural Complex, Berry O'Kelly School, The Carolinian Newspaper, Chavis Park and <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Mural by James Converse Biggers, Murphey School, North Carolina Museum of Art, North Carolina Museum of <mark>History</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Additionally, there is a list of NC Highway Historical Markers relating to Black <mark>history</mark>, a list of Greater"
+          }
+        ],
+        "Name": "Pamphlet"
+      },
+      {
+        "Id": 27027,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2022.002.077",
+        "AdditionalInfo": "Pamphlet",
+        "ImageId": "68828",
+        "ThumbnailId": "f0c73df1-9993-4f05-829b-eccd18227ba6_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "On the inside are thirty three sites, listed with a description below including <mark>history</mark> architecture,"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "African American Cultural Complex, Berry O'Kelly School, The Carolinian Newspaper, Chavis Park and <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": ", Mount Hope Cemetery, James Converse Biggers Mural, Murphey School, NC Museum of Art, NC Museum of <mark>History</mark>"
+          }
+        ],
+        "Name": "Pamphlet"
+      },
+      {
+        "Id": 35338,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2025.011.102",
+        "AdditionalInfo": "Book, Coloring",
+        "ImageId": "99897",
+        "ThumbnailId": "77e8d32b-dfbd-419e-93c0-77acbb0eea62_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "- Governor's Mansion\n16 - Mordecai House\n17- Andrew Johnson Birthplace\n18- North Carolina Museum of <mark>History</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "19- North Carolina Museum of <mark>History</mark>\n20- North Carolina School for the Deaf, Dumb, and Blind\n21- North"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Carolina State University\n40- Raleigh Little Theater amphitheater\n41- unattributed garden\n42- Pullen Park <mark>Carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "43- Pullen Park <mark>Carousel</mark>\n44-Pullen Park train\n45- Pullen Park train\n46- McIver Amphitheater at Meredith"
+          }
+        ],
+        "Name": "Book, Coloring"
+      }
+    ]
+  }
+}

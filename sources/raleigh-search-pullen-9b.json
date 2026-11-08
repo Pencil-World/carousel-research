@@ -1,0 +1,100 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 4,
+    "Items": [
+      {
+        "Id": 18927,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.157",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "34015",
+        "ThumbnailId": "79bcb653-eddb-4d57-9eb7-e3e2965c4a61_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.157",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Cat <mark>9B</mark>, which was produced by the Dentzel company. the drawing depicts"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads \"No. <mark>9B</mark> Gray Cat\" and the middle right side has a paint color key/table."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.157</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20633,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.158",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50771",
+        "ThumbnailId": "591e622f-224b-4f1f-acfa-c50740489384_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.158",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label: \"LEFT SIDE NO. <mark>9B</mark> LIFE SIZE\" and the lower right corner has the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.158</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20634,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.159",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "33108",
+        "ThumbnailId": "c8a2ea40-a532-41aa-a163-72ca9b26b927_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.159",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Cat <mark>9B</mark>, which was produced by the Dentzel company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper righ tcorner reads \"NO. <mark>9B</mark> Gray Cat\" and the lower right corner has a paint color key/table"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.159</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20635,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.160",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46892",
+        "ThumbnailId": "8a20a2a0-1cc9-4624-bc3b-8f7bb9a6a2e1_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.160",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the lable: \"RIGHT SIDE-NO. <mark>9B</mark> LIFE SIZE\" and the lower right corner has the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.160</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

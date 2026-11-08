@@ -1,0 +1,218 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 10,
+    "Items": [
+      {
+        "Id": 18429,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.013",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "41822",
+        "ThumbnailId": "d141a80f-4a5e-4eb9-a0c3-69bc9cce659d_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.013",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "It depicts the Allan Hershell Metal <mark>Horse</mark> <mark>1</mark>, specifically its romance side."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.013</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18430,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.014",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "49443",
+        "ThumbnailId": "eadec8db-c892-41d0-811b-6408639671c7_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.014",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s strap details. the label in the upper right corner"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.014</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18431,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.015",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46267",
+        "ThumbnailId": "ff0ae466-ebb4-49cf-a3e7-fbb89a99feb0_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.015",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawings of Standing <mark>Horse</mark> <mark>1</mark>, which was produced by the Dentzel Company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.015</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18432,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.016",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "38492",
+        "ThumbnailId": "b4d51f27-1da0-4fba-87bb-a597b01900a5_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.016",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s rear saddle details."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.016</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18433,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.017",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "36149",
+        "ThumbnailId": "1d5e1d59-1dee-4122-ac1a-58e57ef073c6_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.017",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s body strap details."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.017</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18434,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.018",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "40759",
+        "ThumbnailId": "7254d115-aed6-4aaa-9e57-132eeded7b97_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.018",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Standing <mark>Horse</mark> <mark>1</mark>, which was produced by the Dentzel Company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.018</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18435,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.019",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "40277",
+        "ThumbnailId": "f1737856-b3c0-4092-b853-68fe136777f1_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.019",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s top and romance saddle strap details."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.019</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18436,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.020",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46771",
+        "ThumbnailId": "d2c0b8fb-c2a9-4470-b06e-d435a3e39ad8_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.020",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s romance side saddle details. the top right corner reads"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.020</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18437,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.021",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46256",
+        "ThumbnailId": "431fe662-cc30-4f78-84af-bd43e7e05fdf_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.021",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s romance body strap details."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.021</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18438,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.022",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "40316",
+        "ThumbnailId": "13930c8d-9424-4bad-b238-bc6d8b88623d_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.022",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Pullen Standing <mark>Horse</mark> <mark>1</mark>'s romance side saddle design."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.022</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

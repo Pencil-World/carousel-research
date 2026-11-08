@@ -1,0 +1,1740 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 243,
+    "Items": [
+      {
+        "Id": 14297,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.001",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31733",
+        "ThumbnailId": "c10329a7-00ad-4863-8a26-28640a6849ee_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.001</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14298,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.002",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25440",
+        "ThumbnailId": "a6562e92-5d79-4f7b-bda6-2003c1c8fe89_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.002</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14299,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.003",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29834",
+        "ThumbnailId": "1481fef0-adb8-4b74-840b-80e6a84d5c27_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.003</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14300,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.004",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25754",
+        "ThumbnailId": "9d58b949-a7fb-4103-8315-99ccdc129006_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.004</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14301,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.005",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31175",
+        "ThumbnailId": "deedfc84-3fa7-4857-a41d-5fab1ce19496_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.005</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14302,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.006",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28406",
+        "ThumbnailId": "26b221c0-838b-43df-b64d-d2d74890d207_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.006</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14303,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.007",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29850",
+        "ThumbnailId": "47b9a3a0-b72c-40f5-8833-3d5bce27d601_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.007</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14304,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.008",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26285",
+        "ThumbnailId": "ddc8db9d-1ea9-46c3-a625-5a02c08a5234_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.008</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14305,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.009",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26862",
+        "ThumbnailId": "88d84078-9601-4453-9b56-85d341065b4c_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.009</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14306,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.010",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26056",
+        "ThumbnailId": "8b6218e2-4190-4800-9fb6-1accb0804db6_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.010</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14307,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.011",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30697",
+        "ThumbnailId": "0cbce08c-d926-4d9b-bcc9-1067cee3b5b6_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.011</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14308,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.012",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28488",
+        "ThumbnailId": "0efd504a-7b0e-4afc-befc-d74dc43b305f_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.012</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14309,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.013",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26775",
+        "ThumbnailId": "7080d55e-f30c-4abe-b611-f175c2ceb8b0_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.013</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14310,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.014",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25701",
+        "ThumbnailId": "6fcacc7d-7e23-464e-b156-ab516b06e99f_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.014</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14311,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.015",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28373",
+        "ThumbnailId": "afedd996-ae14-45e2-a142-f1d4b63ba136_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.015</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14312,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.016",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28390",
+        "ThumbnailId": "5f79497e-d22f-4544-84ee-a5f6bf701f21_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.016</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14313,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.017",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25887",
+        "ThumbnailId": "2d312be3-2f22-48fe-84d4-d4b0947f3642_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.017</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14314,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.018",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26251",
+        "ThumbnailId": "fb26d543-129f-44e0-9784-16c0e5a57ffb_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.018</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14315,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.019",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27134",
+        "ThumbnailId": "1b21197b-3956-4f6b-92f2-ff9638013091_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.019</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14316,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.020",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30430",
+        "ThumbnailId": "12b93f29-aa53-4566-b62b-a4b8ab1078bf_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.020</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14317,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.021",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31923",
+        "ThumbnailId": "7c73de81-8fb8-47b2-9b31-5f415dbc8c15_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.021</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14318,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.022",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25459",
+        "ThumbnailId": "78693555-f22c-49e9-8a62-4c1185d99e82_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.022</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14319,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.023",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29274",
+        "ThumbnailId": "23201b30-0d51-4cd2-a6d7-e433baafae21_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.023</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14320,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.024",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27085",
+        "ThumbnailId": "c448ca97-6bf3-45a4-aa6c-e730e5909518_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.024</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14321,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.025",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30285",
+        "ThumbnailId": "e5ba0c47-895d-4220-b8c5-68a8b9dc7023_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.025</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14322,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.026",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30029",
+        "ThumbnailId": "e3e81bcd-389d-40a4-b00f-2af07d1302b6_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.026</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14323,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.027",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "32130",
+        "ThumbnailId": "94f86f6c-20bc-4ba4-9368-044f39ef404e_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.027</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14359,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.028",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31271",
+        "ThumbnailId": "529391e1-c2b1-4fec-a4cf-fffc9be660ec_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.028</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14360,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.029",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27979",
+        "ThumbnailId": "1d856025-e78f-4f57-8be7-a84c918a51bd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.029</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14361,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.030",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29810",
+        "ThumbnailId": "f1e1e269-40aa-4f96-a430-6a87ef5d0ff1_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.030</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14362,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.031",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25779",
+        "ThumbnailId": "d1778795-b89e-497c-8da9-817c555e2c65_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.031</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14363,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.032",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25518",
+        "ThumbnailId": "48dd736e-1897-4c94-b57f-cbd7c7c38144_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.032</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14364,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.033",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "32190",
+        "ThumbnailId": "dcb2d880-56c3-4a2f-873d-52c130fbef10_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.033</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14365,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.034",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25877",
+        "ThumbnailId": "bb15e10e-9e00-4f58-ac7e-f4a9fa605d2d_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.034</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14366,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.035",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26273",
+        "ThumbnailId": "bcaec1e1-f086-4ef7-8443-b428cbcbda3b_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.035</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14367,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.036",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31777",
+        "ThumbnailId": "423264a9-58f8-437a-8c92-d9588a59f0f5_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.036</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14368,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.037",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30867",
+        "ThumbnailId": "c1e5ce16-2391-40ba-8777-6c2e77ca70de_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.037</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14369,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.038",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29608",
+        "ThumbnailId": "1e881c7a-11c4-4b7a-b262-c92ae21a44df_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.038</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14370,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.039",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27920",
+        "ThumbnailId": "ca5cb6a4-4151-4a62-a054-adbc12813317_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.039</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14371,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.040",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31980",
+        "ThumbnailId": "53cfcf7d-2919-46e6-bf6f-2d78cc55fdbc_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.040</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14372,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.041",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28720",
+        "ThumbnailId": "ad9a4777-58d2-4119-b66b-f61af0969193_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.041</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14375,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.042",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26485",
+        "ThumbnailId": "6bc2efff-5afc-41e0-b82b-7d828006b982_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.042</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14376,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.043",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28718",
+        "ThumbnailId": "f46f8178-e48e-4ce6-94c6-5b77a3911834_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.043</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14377,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.044",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26053",
+        "ThumbnailId": "c9f7a2b9-05b1-45ce-822a-578893e515cf_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph taken from slightly farther back of the viewpoint for <mark>PPC2020.004.043</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.044</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14378,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.045",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31144",
+        "ThumbnailId": "4e55ae27-f9ea-415c-9de0-59c7444693f9_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.045</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14379,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.046",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27781",
+        "ThumbnailId": "b7f21ffc-6181-4bfa-abb7-a7c5f3c0b2bd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph with a similar vantage point to <mark>PPC2020.004.044</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.046</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14380,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.047",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25237",
+        "ThumbnailId": "63d1ec0d-6e4b-4641-8d8c-94d17c56a41d_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color photograph with a vantage slightly to the left of <mark>PPC2020.004.046</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.047</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14381,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.048",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "31524",
+        "ThumbnailId": "5fea62b8-05f5-47ee-97f7-ff7c8e832bc8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.048</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 21748,
+        "TypeId": 104,
+        "Title": "Pullen Park Collection - PPC2020.004.049",
+        "AdditionalInfo": "Postcard",
+        "ImageId": "51678",
+        "ThumbnailId": "839f61ff-8d60-4251-8c23-15d5f911e1e8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.049</mark>"
+          }
+        ],
+        "Name": "Postcard"
+      },
+      {
+        "Id": 14409,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.050",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27851",
+        "ThumbnailId": "1d1e8b52-fb2d-4797-92c6-56d935f62135_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.050</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14410,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.051",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27260",
+        "ThumbnailId": "f9c639a8-e6d8-4b9e-8521-f4598a9ba0a2_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.051</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14411,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.052",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30927",
+        "ThumbnailId": "e639afb0-5b59-4916-945d-4a2aa6bec093_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.052</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14412,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.053",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30369",
+        "ThumbnailId": "93eb0cb4-cbdc-4de5-aad4-00b436ee59dd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.053</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14413,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.054",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27019",
+        "ThumbnailId": "2cc7f311-fd19-4af7-8ec1-1a3d6151b73d_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.054</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14414,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.055",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "32151",
+        "ThumbnailId": "86af53d0-38ba-439b-a542-3dbb5ce72222_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.055</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14415,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.056",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25454",
+        "ThumbnailId": "3fba97d8-b8b4-4f95-b768-557447d4b4fc_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.056</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14416,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.057",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30559",
+        "ThumbnailId": "5fdf233a-0b9b-4e0b-9503-5ad39a9c2136_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.057</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14417,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.058",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25806",
+        "ThumbnailId": "b757b5cb-4a77-4934-9ae8-95c5d06e9362_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A cropped version of <mark>PPC2020.004.051</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.058</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14418,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.059",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28900",
+        "ThumbnailId": "e5196820-1bc9-4786-92e1-08e4e30ea59a_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.059</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14419,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.060",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29073",
+        "ThumbnailId": "24f59fb7-4c0d-489f-8ca1-6e595695cf03_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.060</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14420,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.061",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26239",
+        "ThumbnailId": "cb18f785-850b-4392-b84c-23631e29c8fd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.061</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14421,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.062",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27855",
+        "ThumbnailId": "aacdfeb2-42b1-450b-a620-fc1668176d19_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.062</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14422,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.063",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27917",
+        "ThumbnailId": "f4ebf290-7125-44b4-89ed-d85fcf5c61b8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A copy of <mark>PPC2020.004.050</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.063</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14423,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.064",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28845",
+        "ThumbnailId": "98853809-de91-4cdc-a3d1-9b6b64c23da2_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.064</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14424,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.065",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27694",
+        "ThumbnailId": "eebc1261-70dd-405e-b569-b750b1dd1c19_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.065</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14425,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.066",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26167",
+        "ThumbnailId": "e15c6836-3750-4ca7-99d4-053a74d91b49_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.066</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14426,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.067",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25845",
+        "ThumbnailId": "7d9f51ce-3ab9-41f2-a6a6-d268e3727bf5_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A slightly cropped version of <mark>PPC2020.004.043</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.067</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 21826,
+        "TypeId": 104,
+        "Title": "Pullen Park Collection - PPC2020.004.068",
+        "AdditionalInfo": "Map",
+        "ImageId": "35925",
+        "ThumbnailId": "ab02e872-d7bb-4fc3-947a-baa25863f4fd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.068</mark>"
+          }
+        ],
+        "Name": "Map"
+      },
+      {
+        "Id": 14442,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.069",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28799",
+        "ThumbnailId": "92afd838-8694-4356-b393-7281be87871c_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.069",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.069</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14443,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.070",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26514",
+        "ThumbnailId": "f9a433c3-881f-40b6-b043-a51222b4eedc_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.070",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.070</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14444,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.071",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28072",
+        "ThumbnailId": "8c69df7d-bb2d-48e4-ab1c-d5c6a28073e8_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.071",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.071</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14445,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.072",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25344",
+        "ThumbnailId": "af396409-16ee-4611-941e-b3b427c56fe7_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.072",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.072</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14446,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.073",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30445",
+        "ThumbnailId": "a5712c16-e1db-4ac2-b125-a56d3d18982e_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.073",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.073</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14447,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.074",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29256",
+        "ThumbnailId": "95f8342b-cf4c-4a37-8c59-204d8bf50437_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.074 - Beg Of Opening Day",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.074</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14448,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.075",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27578",
+        "ThumbnailId": "c4adcd21-22f5-4d0a-a873-72f48ad58cba_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.075",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.075</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14449,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.076",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30254",
+        "ThumbnailId": "e19c3630-ce8d-44c0-b218-8d6ff63324c8_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.076",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.076</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14450,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.077",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29386",
+        "ThumbnailId": "ba6a460c-9698-4278-84d5-6f70b8b0ceef_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.077",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.077</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14451,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.078",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27863",
+        "ThumbnailId": "51a7d930-9a2d-4634-ba97-ee527f857c76_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.078",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Photo is a brighter copy of <mark>PPC2020.004.077</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.078</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14452,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.079",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27786",
+        "ThumbnailId": "346e50de-45a5-43d2-892c-53f76f11fa7d_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.079",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.079</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14453,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.080",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "32476",
+        "ThumbnailId": "c5f2f720-8ad0-433b-8f7c-d36c7cb223dd_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.080",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.080</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14454,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.081",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26614",
+        "ThumbnailId": "d2b2b3c7-20fd-477e-bdae-fac20905ea79_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.081",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.081</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14455,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.082",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26558",
+        "ThumbnailId": "bfc10b6f-5bbb-4916-8f8a-91f7395e5a98_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.082",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.082</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14456,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.083",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "32339",
+        "ThumbnailId": "5a263700-aa28-4100-8504-9898b7ba1970_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.083",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.083</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14457,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.084",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27683",
+        "ThumbnailId": "0349c7c5-091a-41b7-80ea-cb618428e7fc_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.084",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.084</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14458,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.085",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30681",
+        "ThumbnailId": "15efb7ff-68d8-40aa-9260-13764f483729_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.085",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.085</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14459,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.086",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30818",
+        "ThumbnailId": "7dda1588-199b-411c-a93d-bf3e6d74255f_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.086",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.086</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14460,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.087",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30754",
+        "ThumbnailId": "9bec259a-13d1-4c37-a6cb-e1ded0098dfe_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.087",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This photo is a cropped image of <mark>PPC2020.004.086</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.087</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14461,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.088",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29157",
+        "ThumbnailId": "85c89889-e1ff-4cb1-9e14-780ee4603bad_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.088",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.088</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14462,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.089",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29890",
+        "ThumbnailId": "b08c9524-4430-4e15-8bfe-4a390db36fbb_thmb.JPG",
+        "ImageCaption": "Ppc2020.004.089",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.089</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14649,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.090",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "27264",
+        "ThumbnailId": "c7016ba0-37e8-4249-a910-33711e97c403_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.090</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14650,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.091",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28633",
+        "ThumbnailId": "96e6be29-baf4-48e8-bfde-2b035658199a_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.091</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14651,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.092",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29687",
+        "ThumbnailId": "67f7f46d-e01c-4dc9-b8ff-09ba40271646_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.092</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14652,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.093",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "28571",
+        "ThumbnailId": "3f741ffc-7255-4f69-923e-bdef19985947_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.093</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14653,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.094",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25529",
+        "ThumbnailId": "40831c40-2522-4fd5-99e9-01b254dc5c5c_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.094</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14654,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.095",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30007",
+        "ThumbnailId": "bc93d90e-b847-49d6-af0d-77bbff57c4de_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.095</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14655,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.096",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "26680",
+        "ThumbnailId": "c582c23d-935e-457a-94f0-53687eb770e6_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.096</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14656,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.097",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "29952",
+        "ThumbnailId": "90d280f1-b9d0-4ab6-a8b1-d08abf63dcd3_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.097</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14657,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.098",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25468",
+        "ThumbnailId": "24c87dc6-6a8d-430c-9db9-1e1cccf863a8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.098</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14658,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.099",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "25618",
+        "ThumbnailId": "01b7406b-d223-4752-be65-3dfd8f977da1_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.099</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      },
+      {
+        "Id": 14659,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2020.004.100",
+        "AdditionalInfo": "Print, Digital",
+        "ImageId": "30696",
+        "ThumbnailId": "edc6bae0-d74a-4ed0-8492-ab498b66eff2_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.100</mark>"
+          }
+        ],
+        "Name": "Print, Digital"
+      }
+    ]
+  }
+}

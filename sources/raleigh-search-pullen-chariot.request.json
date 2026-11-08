@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "PPC2018* AND chariot",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T21:14:45.232122+00:00",
+  "sha256": "556d0d73e23c2b77ec5dbe283a45d715bb08a97251e4284780b3ff25dff5b438",
+  "bytes": 10648
+}

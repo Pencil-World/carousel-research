@@ -1,0 +1,610 @@
+[
+  {
+    "id": 12287,
+    "item_id": "PPC2019.001.230",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the left side detail of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park Pig 7A Left Raleigh NC Wake Co 8-79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "29835",
+    "type_id": 102
+  },
+  {
+    "id": 12288,
+    "item_id": "PPC2019.001.231",
+    "date": "1978",
+    "description": "An Ektachrome slide by kodak featuring the right side of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park Pig 7A Right 7/78 MAR78A6 Raleigh NC Wake Co Rosa Ragan Raleigh Fine Arts Society\u201d.",
+    "image_id": "29829",
+    "type_id": 102
+  },
+  {
+    "id": 12289,
+    "item_id": "PPC2019.001.232",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the front right quarter of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park Pig 7A Right 8-79 Raleigh NC Wake Co RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "28399",
+    "type_id": 102
+  },
+  {
+    "id": 12290,
+    "item_id": "PPC2019.001.233",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the left saddle of a worn carousel pig. The slide reads \u201cllen Park Carousel Pullen Park Pig 7A saddle left Raleigh NC Wake Co 8-79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "31734",
+    "type_id": 102
+  },
+  {
+    "id": 12291,
+    "item_id": "PPC2019.001.234",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the left front head of a carousel pig that is worn. The slide reads \u201cPullen Park Carousel Pullen Park 7A Left Front S.S. AUG81A1 Raleigh NC Wake Co 8.21.81 14\u201d.",
+    "image_id": "28679",
+    "type_id": 102
+  },
+  {
+    "id": 12292,
+    "item_id": "PPC2019.001.235",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the left side of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park Left 7A S.S. AUG81A1 Raleigh NC Wake Co 8.21.81 13\u201d.",
+    "image_id": "28203",
+    "type_id": 102
+  },
+  {
+    "id": 12293,
+    "item_id": "PPC2019.001.236",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the right side of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park Right 7A S.S. AUG81A1 Raleigh NC Wake Co 8.21.81\u201d.",
+    "image_id": "28719",
+    "type_id": 102
+  },
+  {
+    "id": 12294,
+    "item_id": "PPC2019.001.237",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the right side detail of a worn carousel pig, showing two oak leaves and an acorn in relief. The slide reads \u201cPullen Park Carousel Pullen Park SEP81A6 7A Right Detail Raleigh NC Wake Co 9-9-81\".",
+    "image_id": "27469",
+    "type_id": 102
+  },
+  {
+    "id": 12295,
+    "item_id": "PPC2019.001.238",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring a detail of the right side and saddle of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park 7A Right Rear S.S. AUG81A1 Raleigh NC Wake Co 8.21.81\u201d.",
+    "image_id": "27436",
+    "type_id": 102
+  },
+  {
+    "id": 12297,
+    "item_id": "PPC2019.001.240",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the right side detail of a worn carousel pig, showing two oak leaves and an acorn. The slide reads \u201cPullen Park Carousel Pullen Park Right Detail 7A S.S. AUG81A1 Raleigh NC Wake Co 8.21.81\u201d.",
+    "image_id": "29819",
+    "type_id": 102
+  },
+  {
+    "id": 12298,
+    "item_id": "PPC2019.001.241",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the left rear quarter of a worn carousel pig. The slide reads \u201cPullen Park Carousel Pullen Park 7A Left Rear S.S. AUG81A1 Raleigh NC wake Co 8.21.81\u201d",
+    "image_id": "25372",
+    "type_id": 102
+  },
+  {
+    "id": 12299,
+    "item_id": "PPC2019.001.242",
+    "date": "1982",
+    "description": "An Ektachrome slide by Kodak featuring the right side of a newly painted carousel pig, colored white and black. The slide reads \u201cPullen Park Carousel Pullen Park 7A RR Raleigh NC Wake Co MAR82A2 24\u201d.",
+    "image_id": "28987",
+    "type_id": 102
+  },
+  {
+    "id": 12300,
+    "item_id": "PPC2019.001.243",
+    "date": "1982",
+    "description": "An Ektachrome slide by Kodak featuring the left side of a freshly painted carousel pig, colored white and black. The slide reads \u201cPullen Park Carousel Pullen Park 82A2 Raleigh NC Wake Co 7A\u201d.",
+    "image_id": "32105",
+    "type_id": 102
+  },
+  {
+    "id": 12301,
+    "item_id": "PPC2019.001.244",
+    "date": "August 31, 1981",
+    "description": "A Kodachrome slide by Kodak featuring the left side of a freshly painted pink carousel pig with blue, yellow, and black tack. The slide reads \u201cPullen Park Car Pullen Park 7B Left Raleigh NC Wake Co 8-31-81\".",
+    "image_id": "25820",
+    "type_id": 102
+  },
+  {
+    "id": 12302,
+    "item_id": "PPC2019.001.245",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the right side of a freshly painted pink carousel pig with blue, yellow, and black tack. The slide reads \u201cPullen Park Carousel Pullen Park 7B Right 8-31-81 Raleigh NC Wake Co\".",
+    "image_id": "28699",
+    "type_id": 102
+  },
+  {
+    "id": 12304,
+    "item_id": "PPC2019.001.247",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the left rear portion of a badly worn black carousel pig, with red and green tack. The slide reads \u201cPullen Park Carousel Pullen Park JUN79A3 L Rear Restricted us no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "28027",
+    "type_id": 102
+  },
+  {
+    "id": 12305,
+    "item_id": "PPC2019.001.248",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the full left side of a dark carousel pig with red and green tack. The pig is badly worn. The slide reads \u201cPullen Park Carousel Pullen Park Restricted use Left no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "25546",
+    "type_id": 102
+  },
+  {
+    "id": 12306,
+    "item_id": "PPC2019.001.249",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the full right side of a dark carousel pig with red and green tack. The pig is badly worn. The slide reads \u201cPullen Park Carousel Pullen Park Right no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "27074",
+    "type_id": 102
+  },
+  {
+    "id": 12307,
+    "item_id": "PPC2019.001.250",
+    "date": "1979",
+    "description": "A Kodachrome Slide by Kodak featuring the front right quarter of a badly worn carousel pig with red and green tack. The slide reads \u201cPullen Park Carousel Pullen Park Restricted use R Front no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "29318",
+    "type_id": 102
+  },
+  {
+    "id": 12308,
+    "item_id": "PPC2019.001.251",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the right rear quadrant of a badly worn carousel pig with red and grey tack. The slide reads \u201cPullen Park Carousel Pullen Park JUN79A3 R. Rear no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "31505",
+    "type_id": 102
+  },
+  {
+    "id": 12309,
+    "item_id": "PPC2019.001.252",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the left side of a saddle on a badly worn carousel pig with red and very faded green tack. The slide reads \u201cPullen Park Carousel Pullen Park L. Mid no 7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "29801",
+    "type_id": 102
+  },
+  {
+    "id": 12311,
+    "item_id": "PPC2019.001.254",
+    "date": "1979",
+    "description": "A Kodachrome slide by Kodak featuring the top rear portion of a badly worn carousel pig with green and red tack. The slide reads \u201cPullen Park Carousel Pullen Park Top Rear Restricted use JUN79A3 no7B Raleigh NC Wake Co 6/79 RR Raleigh Fine Arts Society\u201d.",
+    "image_id": "27017",
+    "type_id": 102
+  },
+  {
+    "id": 12312,
+    "item_id": "PPC2019.001.255",
+    "date": "1981",
+    "description": "A Kodachrome slide by Kodak featuring the right side of a carousel pig with blue, yellow, and black tack that is freshly painted. The slide reads \u201cPullen Park Carousel Pullen Park 7B Right Raleigh NC Wake Co 8-3-81\".",
+    "image_id": "27503",
+    "type_id": 102
+  },
+  {
+    "id": 12313,
+    "item_id": "PPC2019.001.256",
+    "date": "1992",
+    "description": "An Ektachrome slide by Kodalux featuring a freshly painted carousel pig with blue, yellow, and black tack. The slide reads \u201c7B 1992 Repaint S.B. & J.N.\u201d.",
+    "image_id": "28362",
+    "type_id": 102
+  },
+  {
+    "id": 12316,
+    "item_id": "PPC2019.001.259",
+    "date": "1992",
+    "description": "An Ektachrome slide by Kodalux featuring the left side of a freshly painted carousel pig with blue, yellow, and black tack. The slide reads \u201c7B 1992 Repaint S.B. & J.N.\u201d.",
+    "image_id": "30396",
+    "type_id": 102
+  },
+  {
+    "id": 12317,
+    "item_id": "PPC2019.001.260",
+    "date": "1992",
+    "description": "An Ektachrome slide by Kodalux featuring a freshly painted carousel pig with blue, yellow, and black tack. The slide reads \u201c7B 1992 Repaint S.B. & J.N.\u201d.",
+    "image_id": "28673",
+    "type_id": 102
+  },
+  {
+    "id": 13148,
+    "item_id": "PPC2019.001.512",
+    "date": "June 1979",
+    "description": "A transparency slide showing the right side of a carousel pig, which is badly worn and damaged. Portions of the pig are stained black, the bottom and backside. The tack of the pig is orange with gold detailing. The saddle is brown with a green, yellow, and red saddle blanket. The slide reads at the top \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT\u201d and \u201cRALEIGH NC WAKE CO 6/79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "25727",
+    "type_id": 102
+  },
+  {
+    "id": 13149,
+    "item_id": "PPC2019.001.513",
+    "date": "August 5, 1981",
+    "description": "A transparency slide showing the left side of a carousel pig, which is very worn. The tack is orange with gold details. The saddle is brown with a green and yellow saddle blanket. The pig is a very light tan, with some darker spots. The image has lots of small dark spots on it. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B LEFT\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81\u201d at the bottom.",
+    "image_id": "32060",
+    "type_id": 102
+  },
+  {
+    "id": 13150,
+    "item_id": "PPC2019.001.514",
+    "date": "1981",
+    "description": "A transparency slide showing the left side of a carousel pig, which is very worn. The tack is orange with gold details. The saddle is brown with a green and yellow saddle blanket. The pig is a very light tan, with some darker spots. The image has lots of small dark spots on it. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B LEFT\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81\u201d at the bottom.",
+    "image_id": "30747",
+    "type_id": 102
+  },
+  {
+    "id": 13154,
+    "item_id": "PPC2019.001.518",
+    "date": "June 1979",
+    "description": "A transparency slide showing a detail of the left side of a carousel pig head. Some of the pig has red paint on it, and some of the pig has had the paint stripped from it. The pig has tusks on the bottom jaw that are visible. The slide has printed at the top \u201cPULLEN PARK CAROUSEL PULLEN PARK\u201d as well as handwritten \u201c16A\u2019 and \u201cRestricted use left Head\u201d. The bottom has written \u201cPig\u201d and \u201c6-79\u201d and has typed \u201cRALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY\u201d.",
+    "image_id": "25389",
+    "type_id": 102
+  },
+  {
+    "id": 13155,
+    "item_id": "PPC2019.001.519",
+    "date": "June 1979",
+    "description": "A transparency slide showing the left side of a carousel pig. The pig is colored a reddish orange and a light tan. The tack is green, red, and yellow. The saddle is brown and has a lighter colored saddle blanket. The pig appears to be extremely worn. The image has small dark spots on it. The slide has typed at the top \u201cPULLEN PARK CAROUSEL PULLEN PARK\u201d and written \u201c16A left\u201d. At the bottom is written \u201cPig\u201d and typed \u201cRALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY\u201d. There is a second line stamped in red over the \u201cRALEIGH NC\u201d at the bottom that reads \u201cJUN79A\u201d.",
+    "image_id": "26382",
+    "type_id": 102
+  },
+  {
+    "id": 13156,
+    "item_id": "PPC2019.001.520",
+    "date": "June 1979",
+    "description": "A transparency slide that shows the front left quarter of a carousel pig that is very worn. The pig is a reddish orange and tan color. The tack is green, red, and yellow, The saddle and saddle blanket are shades of brown. The slide has printed at the top \u201cPULLEN PARK CAROUSEL PULLEN PARK\u201d and written \u201cleft front 16A\u201d. The bottom has written \u201cPig\u201d and typed \u201cRALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY\u201d. There is a stamp in red along the side that reads \u201cJUN79\u201d.",
+    "image_id": "28827",
+    "type_id": 102
+  },
+  {
+    "id": 13157,
+    "item_id": "PPC2019.001.521",
+    "date": "June 1979",
+    "description": "A transparency slide showing the left side detail of a carousel pig\u2019s saddle. The pig is colored a reddish orange in some parts and a light tan in others. The saddle is brown with a lighter brown and yellow saddle blanket and the tack is green, yellow and red. The pig is very well worn, with much of the paint missing. The reddish orange may be an undercoat of paint. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16a left middle\u201d at the top and \u201cPig RALEIGH WAKE CO RR 6-79 RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "27645",
+    "type_id": 102
+  },
+  {
+    "id": 13158,
+    "item_id": "PPC2019.001.522",
+    "date": "June 1979",
+    "description": "A transparency slide showing the right side detail of a carousel pig\u2019s saddle. The pig is colored both a reddish orange where the paint has been removed and a light tan color. The saddle is dark brown with a lighter brown and yellow saddle blanket. The tack is red, yellow, and green. The pig is very well worn, with most of the pig being the reddish orange color where there is no paint. The slide reads \u201cPULLEN PARK CAROUSEL 16A Restricted use RIGHT MID\u201d at the top and \u201cPig RALEIGH NC WAKE CO 6-79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "26585",
+    "type_id": 102
+  },
+  {
+    "id": 13159,
+    "item_id": "PPC2019.001.523",
+    "date": "June 1979",
+    "description": "A transparency slide that shows the left hind quarter of a carousel pig. The skin of the pig is a light tan, and in some portions the paint has been removed, leaving a reddish orange color. The saddle is dark brown with a light brown and yellow saddle blanket. The tack is red, yellow, and green. The pig is very well worn. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16A LEFT REAR\u201d at the top and \u201cPig RALEIGH NC WAKE CO 6-79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "27248",
+    "type_id": 102
+  },
+  {
+    "id": 13160,
+    "item_id": "PPC2019.001.524",
+    "date": "August 3, 1981",
+    "description": "A transparency slide showing the right side of a freshly painted carousel pig. The skin of the pig is a light tan. The saddle is light brown, yellow, and black. The tack is black, yellow, red, and pink. The saddle blanket is pink, yellow, orange, and green. The pig is suspended on a pole with a white backdrop. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 8-3-81 Right 16A\u201d at the top and \u201cRALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom. \u201cRALEIGH FINE ARTS SOCIETY\u201d has been crossed out.",
+    "image_id": "25677",
+    "type_id": 102
+  },
+  {
+    "id": 13161,
+    "item_id": "PPC2019.001.525",
+    "date": "August 3, 1981",
+    "description": "A transparency slide showing the left side of a freshly painted carousel pig. The skin of the pig is a very light tan. The saddle is light brown, yellow, and black. The tack is green, red, yellow, and pink. The saddle blanket is pink, yellow, and orange. The hoofs are black. The eyes are not painted. The pig is suspended on a pole with a white backdrop. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 8-3-81 LEFT 16A\u201d at the top and \u201cRALEIGH NC WAKE CO RR RALEIGH FINE ARTS SOCIETY\u201d \u201cRALEIGH FINE ARTS SOCIETY\u201d has been crossed out.",
+    "image_id": "26808",
+    "type_id": 102
+  },
+  {
+    "id": 13162,
+    "item_id": "PPC2019.001.526",
+    "date": "June 1979",
+    "description": "A transparency slide showing the left side of a very worn carousel pig. The skin of the pig is light tan in some areas, but most of the skin is colored black, possibly where the paint has been removed. The saddle is brown and yellow. The saddle blanket is green with yellow flowers. The tack is red. The pig is standing on the ground with a white backdrop. There are numerous black spots on the image as well as a black strip running through the pigs head, possibly from a hair. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B LEFT\u201d at the top and \u201cRALEIGH NC WAKE CO JUN79A7 6-79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "30001",
+    "type_id": 102
+  },
+  {
+    "id": 13163,
+    "item_id": "PPC2019.001.527",
+    "date": "August 5, 1981",
+    "description": "A transparency slide showing the left side of a very worn carousel pig. The skin of the pig is a light tan with some darker spots, especially the jowls and the tail, both of which are almost black. The saddle is brown and black. The saddle blanket is green with yellow flowers. The tack is red. The pig is suspended on a pole with a white backdrop. The image has small dark spots. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B LEFT\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81\u201d at the bottom.",
+    "image_id": "30630",
+    "type_id": 102
+  },
+  {
+    "id": 13164,
+    "item_id": "PPC2019.001.528",
+    "date": "August 5, 1981",
+    "description": "A transparency slide showing the right side of a very worn carousel pig. The skin of the pig is light tan, however there are parts that have colored black, especially the tail and around the head. The saddle is brown. The saddle blanket is green with a yellow design on it. The tack is red. The hind leg appears to have been replaced below the joint of the leg. The pig is suspended on a pole with a white backdrop. To the left there is a wooden structure barely visible. The image has numerous small black spots. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT\u201d at the top and \u201cRALEIGH NC WAKE CO SS. 8.5.81\u201d at the bottom.",
+    "image_id": "28957",
+    "type_id": 102
+  },
+  {
+    "id": 13165,
+    "item_id": "PPC2019.001.529",
+    "date": "June 1979",
+    "description": "A transparency slide showing the front right profile of a carousel pig\u2019s head. The pig is very well worn. The skin of the pig ranges from a tan, to a brown, to black. The underside is primarily black. One of the legs has a drop of paint on it that is the same red as the tack. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B R. Front JUNE79A3\u201d at the top and \u201cRALEIGH NE WAKE CO Pig 6/79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "32309",
+    "type_id": 102
+  },
+  {
+    "id": 13166,
+    "item_id": "PPC2019.001.530",
+    "date": "August 5, 1981",
+    "description": "A transparency slide that shows a detail of the left hind quarter and saddle of a carousel pig. It is very worn. The saddle is light brown, dark brown, and yellow. The saddle blanket is green and red with a yellow floral design. The tack is red with a muted clasp design. The skin of the pig ranges from a light tan to black. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81\u201d at the bottom.",
+    "image_id": "27231",
+    "type_id": 102
+  },
+  {
+    "id": 13167,
+    "item_id": "PPC2019.001.531",
+    "date": "1981",
+    "description": "A transparency slide that shows a detail of the right front quarter and saddle of a carousel pig that is very worn. The skin of the pig is a light tan, but gets darker towards the top, almost to black. The tack is red with a brown clasp. The saddle is brown. The saddle blanket is green. The saddle strap is blue. There are many spots where the paint has worn away. Where the front leg meets the body there is a crack visible along with some minor loss. The pig is suspended on a pole. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B\u201d at the top and \u201cRALEIGH NC WAKE CO S.S. 8.5.81 JUL81D9\u201d at the bottom.",
+    "image_id": "29629",
+    "type_id": 102
+  },
+  {
+    "id": 13168,
+    "item_id": "PPC2019.001.532",
+    "date": "August 5, 1981",
+    "description": "A transparency slide showing the right side of a carousel pigs head. The pig is very well worn. The skin of the pig is light tan, but darkens around the jowls, nose, and eyes. The tusks have also darkened. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B right head\u201d at the top and \u201cRALEIGH NC WAKE CO S.S. 8.5.81 JUL81D9\u201d at the bottom.",
+    "image_id": "27013",
+    "type_id": 102
+  },
+  {
+    "id": 13169,
+    "item_id": "PPC2019.001.533",
+    "date": "August 5, 1981",
+    "description": "A transparency slide showing the right side of a carousel pig\u2019s neck. The skin of the pig is light tan but darkens in near the saddle. The saddle is brown. The saddle blanket is green with some yellow details. The tack is red with a brown clasp detail. The pig is very worn, there are many places that have the paint worn off. The ears of the pig appear to be a different color brown, suggesting that the ears have been replaced. The pig is suspended on a pole, which can be seen coming up through the pig right in front of the saddle. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B right neck\u201d at the top and \u201cRALEIGH NC WAKE CO S.S. 8.5.81 JUL81D9\u201d at the bottom.",
+    "image_id": "25366",
+    "type_id": 102
+  },
+  {
+    "id": 13170,
+    "item_id": "PPC2019.001.534",
+    "date": "June 1979",
+    "description": "A transparency slide showing a detail of the right side saddle of a carousel pig. The pig is very well worn. The saddle is barely visible at the top of the image, being colored brown. Most of the image shows the saddle blanket, which is green with a yellow design on it. Part of the saddle blanket is black, having the paint removed. The skin of the pig ranges from a light to a dark brown, with the darkest parts being next to the saddle blanket and the tack. The tack is colored a light red. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT DETAIL\u201d at the top and \u201cPig RALEIGH NC WAKE CO 6/79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "26415",
+    "type_id": 102
+  },
+  {
+    "id": 13171,
+    "item_id": "PPC2019.001.535",
+    "date": "",
+    "description": "A transparency slide showing the right side saddle and hind quarter of a carousel pig. Large portions of the skin and the saddle blanket are black. The saddle is brown and the saddle blanket is green with yellow detailing, and a red border. The tack is red with some brown clasp details. The pig is very well worn. The image has very fine black spots on it. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B RIGHT READ/MID\u201d at the top and \u201cPig RALEIGH NC WAKE CO RR RALEIGH FINES ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "30852",
+    "type_id": 102
+  },
+  {
+    "id": 13172,
+    "item_id": "PPC2019.001.536",
+    "date": "June 1979",
+    "description": "A transparency slide showing the left rear leg of a carousel pig. It is extremely worn. The tack is red with a brown clasp detail. A very small portion of the saddle blanket can be seen, colored green and red, with a little bit of yellow. The saddle can be seen at the top, colored brown. The skin of the pig ranges from a lighter tan to brown. There are some areas with not paint, that are colored black, the top, the bottom, and the insides of the legs. The pig is standing on the ground with a white backdrop. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK LEFT REAR 16B\u201d at the top and \u201cRALEIGH NC WAKE CO Pig RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom. Up the side is stamped \u201cJUN79\u201d.",
+    "image_id": "27137",
+    "type_id": 102
+  },
+  {
+    "id": 13196,
+    "item_id": "PPC2019.001.537",
+    "date": "1981",
+    "description": "A transparency slide showing the top of the head of a carousel pig. The pig is very well worn. The skin is light tan at the top and fades to a darker brown towards the bottom of the pig. The saddle can be seen at the bottom of the image and is brown. The tack is red. The ears area different shade of brown, suggesting that they have been recently replaced. The pig is on a pole, which is coming up through the pig at the front of the saddle. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B top head\u201d at the top and \u201cRALEIGH WAKE CO S.S. 8.5.81\u201d at the bottom. Stamped up the side is \u201cJUL81D9\u201d.",
+    "image_id": "26456",
+    "type_id": 102
+  },
+  {
+    "id": 13197,
+    "item_id": "PPC2019.001.538",
+    "date": "1981",
+    "description": "A transparency slide showing the back legs of a carousel pig that is extremely well worn. The image was taken from the right of the pig. The backside of the pig is visible. The skin of the pig is a light tan and the tack is red. The bottom half of the right leg is a different shade of brown, having been replaced with a new piece of wood. The left hoof is colored black. The slide reads \u201cPULLEN PARK CAROUSEL PULLN 16B rear legs\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81 JUL81D9\u201d at the bottom.",
+    "image_id": "29345",
+    "type_id": 102
+  },
+  {
+    "id": 13198,
+    "item_id": "PPC2019.001.539",
+    "date": "1981",
+    "description": "A transparency slide showing the left side of a carousel pigs neck. The pig is very well worn, with paint missing in many spots and many scratches. The skin of the pig is light tan, but darkens to brown around the saddle and tack. The tack is red with a drown clasp detail. The pig is on a pole which can be seen coming up through it at the front of the saddle. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 18B left neck\u201d at the top and \u201cRALEIGH NC WAKE CO S.S. 8.5.81 JUL81D9\u201d at the bottom. There is a little bit of staining at the top left of the cardboard.",
+    "image_id": "28108",
+    "type_id": 102
+  },
+  {
+    "id": 13199,
+    "item_id": "PPC2019.001.540",
+    "date": "February 5, 1981",
+    "description": "A transparency slide showing a detail of the right side saddle and hind quarter. Only the back half of the saddle is visible, and none of the legs are visible. The pig is very well worn, with various scratches and places where the paint has worn off. The saddle is brown. The saddle blanket is green with yellow details, and a red border. The tack is red with a brown clasp detail. The skin of the pig is light tan, but darkens closer to the saddle and tack. The tail is also very dark, almost black. The slide reads \u201cPULLEN PARK DETIAL CAROUSEL PULLEN PARK 16B\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 2.5.81\u201d at the bottom. There is something stamped under the \u201cRALEIGH NC\u201d, but it is not legible.",
+    "image_id": "28603",
+    "type_id": 102
+  },
+  {
+    "id": 13283,
+    "item_id": "PPC2019.001.581",
+    "date": "1981",
+    "description": "A transparency slide showing the rear right leg of a carousel pig. The saddle is brown and the tack is red with a brown clasp detail. The saddle blanket is green with a red border and yellow designs. The skin of the pig ranges from a light tan to a darker brown closer to the saddle blanket. The tail is also darker. The surface of the pig is well worn. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B right rear\u201d at the top and \u201cS.S. RALEIGH NC WAKE CO 8.5.81 JUL81D9\u201d on the bottom.",
+    "image_id": "32138",
+    "type_id": 102
+  },
+  {
+    "id": 13284,
+    "item_id": "PPC2019.001.582",
+    "date": "June 1979",
+    "description": "A transparency slide showing the left side of a carousel pig that is very well worn. The pig is a light tan color, however much of the paint is missing, leaving black behind. The saddle is brown with a darker brown border. The saddle blanket is green with a red border and yellow detailing. The tack is red. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B LEFT MID\u201d at the top and \u201cPig RALEIGH NC WAKE CO 6/79 RR RALEIGH FINE ARTS SOCIETY\u201d at the bottom.",
+    "image_id": "31143",
+    "type_id": 102
+  },
+  {
+    "id": 13285,
+    "item_id": "PPC2019.001.583",
+    "date": "September 9, 1981",
+    "description": "A transparency slide showing the left side of a freshly painted carousel pig that is suspended on a pole with a white backdrop. The pig ranges in color from dark brown to almost white at the hooves. The saddle is light brown with a black and yellow border. The saddle blanket is black with yellow details. The tack is red with yellow clasps and the saddle strap is blue with yellow and darker blue details. The image has some black spots. The eyes of the pig are unfinished. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B\u201d at the top and \u201cRALEIGH NC WAKE CO 9-9-81\" at the bottom. There is another date stamped over \u201cRALEIGH NC\u201d but it is too faded to be legible.",
+    "image_id": "26096",
+    "type_id": 102
+  },
+  {
+    "id": 13286,
+    "item_id": "PPC2019.001.584",
+    "date": "September 9, 1981",
+    "description": "A transparency slide showing the right side of a freshly painted carousel pig that is suspended on a pole with a white backdrop. The pig ranges in color from dark brown to almost white at the hooves. The saddle is light brown with a black and yellow border. The saddle blanket is black with yellow details. The tack is red with yellow clasps and the saddle strap is blue with yellow and darker blue details. The image has some black spots. The eyes of the pig are unfinished. The slide reads \u201cPULLEN PARK CAROUSEL PULLEN PARK 16B RR\u201d at the top and \u201cSEP81A5 RALEIGH NC WAKE CO 9-9-81\" at the bottom.",
+    "image_id": "25279",
+    "type_id": 102
+  },
+  {
+    "id": 13332,
+    "item_id": "PPC2019.001.630",
+    "date": "August 1981",
+    "description": "A transparency slide of four carousel pigs all lined up in a row on a table. The two on the ends are not painted and the two in the middle are freshly painted. The left center pig has a blue and red chest band while the right center has a blue and brown chest band. Stamped \"Pullen Park Carousel Pullen Park, Raleigh NC Wake Co., and AUG81A1\" in black. The date stamp is underneath the \"Raleigh NC\" stamp and is difficult to read.",
+    "image_id": "27776",
+    "type_id": 102
+  },
+  {
+    "id": 14594,
+    "item_id": "PPC2019.001.729",
+    "date": "",
+    "description": "A transparency slide of a Pullen Carousel pig. The image is of the front half of the pig showing the breast band in red and green. Another pig is in shadow behind it and the carousel mirrors are visible in the background. The slide is labeled \"Mitchell Prolab Since 1973, 714 St. Mary's Street Raleigh, NC 27605\".",
+    "image_id": "28974",
+    "type_id": 102
+  },
+  {
+    "id": 14602,
+    "item_id": "PPC2019.001.737",
+    "date": "",
+    "description": "A transparency slide of a carousel pig. The pig has a light brown saddle with dark brown trim. The saddle pad is pink trimmed in gold. The tack straps are red, green, and pink with gold details. The rest of the carousel is dark in the background.",
+    "image_id": "29943",
+    "type_id": 102
+  },
+  {
+    "id": 14606,
+    "item_id": "PPC2019.001.741",
+    "date": "",
+    "description": "A transparency slide of carousel animals on the Pullen Park Carousel. The animals, including parts of three horses and a pig, are out of focus while the mirrors at the center are in focus. The Wurlitzer is visible between the animals at the center. The slide is numbered \"42\".",
+    "image_id": "32072",
+    "type_id": 102
+  },
+  {
+    "id": 14610,
+    "item_id": "PPC2019.001.743",
+    "date": "",
+    "description": "A transparency slide of the animals on the Pullen Park Carousel. Front and center is a standing horse on the outer edge of the carousel. The horse is a dapple gray with a dark mane and tail. The tack has an eagle holding an American flag. Directly behind the horse is the lion. The row behind the horse was a palamino jumping horse, a pig, and more horses. The windows of the carousel house are covered. The slide is stamped \"NOV82A5\" in red.",
+    "image_id": "30184",
+    "type_id": 102
+  },
+  {
+    "id": 14617,
+    "item_id": "PPC2019.001.747",
+    "date": "September 11, 1998",
+    "description": "A transparency slide of a mother and two little boys riding the carousel. The two boys wear matching clothes and ride a carousel pig. The mother stands behind the pig with her arm wrapped around the boys. The pig is light colored and in the center row. The slide is labeld \"Parks Dept\".",
+    "image_id": "30735",
+    "type_id": 102
+  },
+  {
+    "id": 14632,
+    "item_id": "PPC2019.001.754",
+    "date": "May 1995",
+    "description": "A transparency slide of a boy wearing a light gray t-shirt and red shorts riding a carousel pig. The boy faces away from the camera towards the center of the carousel with one hand wrapped around the carousel pole. The image is slightly blurred from the movement of the carousel.",
+    "image_id": "30065",
+    "type_id": 102
+  },
+  {
+    "id": 14633,
+    "item_id": "PPC2019.001.755",
+    "date": "May 1995",
+    "description": "A transparency slide of a girl riding the carousel wearing blue/purple. She rides a light colored carousel horse and faces the inside of the carousel away from the camera. A few other carousel animals are visible, including a tiger and a pig. The image is slightly blurred from the movement of the carousel.",
+    "image_id": "28058",
+    "type_id": 102
+  },
+  {
+    "id": 13919,
+    "item_id": "PPC2020.001.007",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken from the back right. One person out of frame holds a ladder against one of the carousel poles. Another person holds the front legs of the pig and faces the camera wearing a sweater and sweat pants. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is visibly missing on the face and neck. It is labeled \"16A.\"",
+    "image_id": "26544",
+    "type_id": 102
+  },
+  {
+    "id": 13920,
+    "item_id": "PPC2020.001.008",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken from the back right. A person in a sweater with long hair bends beneath the pig, holding the feet rails. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is visibly missing on the face and neck. It is labeled \"16A.\"",
+    "image_id": "31156",
+    "type_id": 102
+  },
+  {
+    "id": 13921,
+    "item_id": "PPC2020.001.009",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken from the front left. A person in white painter's coveralls stands behind the pig and holds the pig's carousel pole in one hand and a ladder mostly out of frame with the other. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is missing on the tack. It is labeled \"16A.\"",
+    "image_id": "28710",
+    "type_id": 102
+  },
+  {
+    "id": 13922,
+    "item_id": "PPC2020.001.010",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken from the front left. Two people stand behind the pig, barely visible. A third person in painter's coveralls stands to the right, mostly out of frame. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is missing on the tack. It is labeled \"16A.\"",
+    "image_id": "31918",
+    "type_id": 102
+  },
+  {
+    "id": 13923,
+    "item_id": "PPC2020.001.011",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken from the front showing the face, front legs, and top of the brown saddle. The saddle is missing paint on the back rim. The pig is not attached to the carousel. It is labeled \"16A.\"",
+    "image_id": "26662",
+    "type_id": 102
+  },
+  {
+    "id": 13924,
+    "item_id": "PPC2020.001.012",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken of the right side. A person stands behind and in front of the pig with their back facing the camera. A ladder rests behind the pig against a carousel pole. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is missing on the pig's cheek, neck, and hindquarters. It is labeled \"16A.\"",
+    "image_id": "30606",
+    "type_id": 102
+  },
+  {
+    "id": 13925,
+    "item_id": "PPC2020.001.013",
+    "date": "",
+    "description": "A polaroid of a carousel pig taken of the right side. A ladder rests behind the pig against a carousel pole. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is missing on the pig's cheek, neck, and hindquarters. It is labeled \"16A.\"",
+    "image_id": "28033",
+    "type_id": 102
+  },
+  {
+    "id": 14017,
+    "item_id": "PPC2020.001.081",
+    "date": "August 8, 1998",
+    "description": "A transparency slide of a girl in an orange shirt and white shorts riding a palamino jumping carousel horse. A boy riding another carousel animal is visible behind her. Other carousel animals including a tiger and a pig are visible around them. The center of the carousel is behind them and one of the mirrors is giving off a glare from the camera flash. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "image_id": "32471",
+    "type_id": 102
+  },
+  {
+    "id": 14018,
+    "item_id": "PPC2020.001.082",
+    "date": "August 8, 1998",
+    "description": "A transparency slide of a child riding a carousel pig with the father standing behind. The carousel is running so the picture is very blurred. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "image_id": "30649",
+    "type_id": 102
+  },
+  {
+    "id": 14023,
+    "item_id": "PPC2020.001.087",
+    "date": "August 8, 1998",
+    "description": "A transparency slide of a little girl riding a carousel pig with an adult standing behind the pig and next to the girl. Two carousel horses are visible to the left and the center of the carousel is behind them. The background is dark beyond it. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "image_id": "29110",
+    "type_id": 102
+  },
+  {
+    "id": 14027,
+    "item_id": "PPC2020.001.091",
+    "date": "August 8, 1998",
+    "description": "A transparency slide of a young girl wearing a white shirt and blue shorts riding a carousel lion. She holds onto the carousel pole with both hands and faces her body towards the camera. A carousel pig is visible at the back left and the background is mostly dark. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "image_id": "26346",
+    "type_id": 102
+  },
+  {
+    "id": 14029,
+    "item_id": "PPC2020.001.093",
+    "date": "August 8, 1998",
+    "description": "A transparency slide of a young girl wearing a white shirt and blue shorts riding a carousel lion. She holds the carousel pole in both hands and has her body angled to the camera. A carousel pig is visible at the back left and the rest of the carousel is dark. \"Copyright Lynn Ruck\" stamped on the slide.",
+    "image_id": "30281",
+    "type_id": 102
+  }
+]

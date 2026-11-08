@@ -1,0 +1,79 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 3,
+    "Items": [
+      {
+        "Id": 18603,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.068",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "42538",
+        "ThumbnailId": "218932cf-72d6-489e-a76b-9e749ce46514_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.068",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Dentzel Jumping Rabbit <mark>4A</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, \"No. <mark>4A</mark> Rabbit (Brown).\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.068</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18604,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.069",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "37415",
+        "ThumbnailId": "2826a2d9-0aaf-42f7-bdeb-80bf06ccfb77_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.069",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label, \"No. <mark>4A</mark> RABBIT LIFE SIZE,\" and the bottom right corner has the"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.069</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18605,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.070",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46075",
+        "ThumbnailId": "4a186028-7fb9-445d-8ba0-3158802a6a20_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.070",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Dentzel Jumping Rabbit <mark>4A</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, No. <mark>4A</mark> Romance Side.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.070</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

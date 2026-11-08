@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "\"Pullen Park\" AND count",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T21:09:26.599737+00:00",
+  "sha256": "3cab380c123cdd6326269902e0eebc3c9fef83130043e9ed20a7bb8138b6e412",
+  "bytes": 918
+}

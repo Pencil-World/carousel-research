@@ -1,0 +1,143 @@
+{
+  "Item": {
+    "Id": 9193,
+    "ItemType": 1,
+    "ItemId": "PPC2020.006.001",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Large framed watercolor of the inside of Pullen Park Carousel by Pam Shank in 1982. It features Standing Horse #2 in the middle, Ostrich's #11A and #11B on the right, and Pig #16A on the left. In the middle background, you can kind of see the Whurlitzer. \"P. Shank\" signature in the bottom right corner. Cream colored mat with black frame and hanging wire on the back.",
+    "CreationDate": "1982",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2021-06-10T14:46:27",
+    "LastModifiedDate": "2023-09-01T19:59:20.287",
+    "CatalogDate": "2021-06-10T17:00:00",
+    "NumberOfCatalogItemImages": 5,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 9193
+    },
+    "Collection": {
+      "Id": 18334,
+      "Title": "Pullen Park Collection",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 44239,
+      "Description": "Add during import from PP5"
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 1,
+      "Circumference": "",
+      "Depth": "6.35 cm",
+      "Diameter": "",
+      "Height": "164.52 cm",
+      "Length": "",
+      "Weight": "",
+      "Width": "204.85 cm",
+      "Count": 0,
+      "Details": ""
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "",
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": "",
+      "Photographer": {
+        "Id": 782
+      },
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 15043,
+          "Caption": "Ppc2020.006.001 Front",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "1762x1450",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/15043"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 15044,
+          "Caption": "Ppc2020.006.001 Reverse",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "1604x1298",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/15044"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 15045,
+          "Caption": "Ppc2020.006.001 Right Corner",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "826x1702",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/15045"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 15046,
+          "Caption": "Ppc2020.006.001 Signature",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "1349x888",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/15046"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 15047,
+          "Caption": "Ppc2020.006.001 Top Corner",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "1469x853",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/15047"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Collection - PPC2020.006.001",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Id": 18634,
+    "ItemType": 3,
+    "ItemId": "PPC2018.001.099",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "This is a line drawing of Dentzel Jumping Pig 7B's romance side saddle detail. The upper right corner has the label, \"ANIMAL, No. 7B LIFE SIZE.\" There are two line drawings on the page. Below the left drawing is the label, \"Right Lower Saddle,\" and below the right drawing is the label, \"Top Rear.\"",
+    "CreationDate": "",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2018-04-17T16:00:00",
+    "LastModifiedDate": "2023-09-01T19:57:31.387",
+    "CatalogDate": "2018-04-17T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 1,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 18634
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42631,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": null
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": null,
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": null,
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 36653,
+          "Caption": "Ppc2018.001.099",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "850x549",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/36653"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2018.001.099",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

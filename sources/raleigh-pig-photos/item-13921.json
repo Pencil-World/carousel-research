@@ -1,0 +1,85 @@
+{
+  "Item": {
+    "Id": 13921,
+    "ItemType": 2,
+    "ItemId": "PPC2020.001.009",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A polaroid of a carousel pig taken from the front left. A person in white painter's coveralls stands behind the pig and holds the pig's carousel pole in one hand and a ladder mostly out of frame with the other. The pig has a light brown saddle with dark brown trim, a pink saddle pad trimmed in gold, pink straps, and green straps trimmed in red. Paint is missing on the tack. It is labeled \"16A.\"",
+    "CreationDate": "",
+    "Title": "",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2020-09-04T16:32:20",
+    "LastModifiedDate": "2023-09-01T19:59:04.583",
+    "CatalogDate": "2020-09-04T17:00:00",
+    "NumberOfCatalogItemImages": 1,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 13921
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42584,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": "L - 10.5 cm\r\nW - 8.9 cm"
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "L - 10.5 cm\r\nW - 8.9 cm",
+      "Copyrights": "",
+      "NegativeNumber": "",
+      "FrameNumber": "",
+      "SlideNumber": "",
+      "Frame": "",
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 28710,
+          "Caption": "",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "1785x1846",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/28710"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2020.001.009",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

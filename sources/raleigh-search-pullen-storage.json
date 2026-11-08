@@ -1,0 +1,29 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": 25788,
+        "TypeId": 104,
+        "Title": "Mordecai Historic Park - MP.2005.019.355.10X",
+        "AdditionalInfo": "Letter",
+        "ImageId": "64253",
+        "ThumbnailId": "9f919315-0e27-45ce-be1b-c0acce5489dd_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "With reference to the office building and the <mark>storage</mark> building, I ask that Archives schedule an investigation"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The house was then moved to the <mark>Pullen</mark> <mark>Park</mark> grounds in 1904 to aid in its preservation by the City."
+          }
+        ],
+        "Name": "Letter"
+      }
+    ]
+  }
+}

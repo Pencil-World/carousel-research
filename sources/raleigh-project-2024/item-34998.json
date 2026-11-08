@@ -1,0 +1,84 @@
+{
+  "Item": {
+    "Id": 34998,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.072a-b",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "Copy of two pages of minutes from the meeting at Department of Archives and History with Peter Sandbeck, Cy Farley, Ann Turner, and Ann Walker. The meeting took place on Monday, August 21, 1978. The meeting discussed grants received, as well as Rosa Regan's (Ragan) progress on stripping paint on the Pullen Park Carousel animals so far, and how to proceed from then on. Ann V. Walker, Secretary was the notetaker. The copy of the minutes is annotated with blue ink, including brackets and underlining on the first page, and a note on the second page that reads: \"of course this never happened, don't ask us why!\" pointing to an underlined section of text. ",
+    "CreationDate": "August 21, 1978",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-12T14:20:40.553",
+    "LastModifiedDate": "2026-08-12T19:26:11.12",
+    "CatalogDate": "2026-08-12T05:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 34998
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42435,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98805,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6503",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98805"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98806,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "5100x6503",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98806"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.072a-b",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

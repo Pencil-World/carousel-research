@@ -1,0 +1,113 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 5,
+    "Items": [
+      {
+        "Id": 34907,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.021",
+        "AdditionalInfo": "Letter",
+        "ImageId": "98182",
+        "ThumbnailId": "ca33d38d-add9-4fbf-a8e6-267fbe58af0a_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of a letter from the Division of Archives and <mark>History</mark> of the State of North Carolina Department"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.021</mark>"
+          }
+        ],
+        "Name": "Letter"
+      },
+      {
+        "Id": 34968,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.060",
+        "AdditionalInfo": "Statement",
+        "ImageId": "98518",
+        "ThumbnailId": "1a6d4efc-a81e-4fcc-942d-5e55b363dfc8_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of a statement for carousel organ restoration that provides a brief <mark>history</mark> of automatic musical"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.060</mark>"
+          }
+        ],
+        "Name": "Statement"
+      },
+      {
+        "Id": 34973,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.065",
+        "AdditionalInfo": "Application",
+        "ImageId": "98539",
+        "ThumbnailId": "df046884-aa5c-49cd-96fc-8aa59bc74f79_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Department of Cultural Resources Division of Archives and <mark>History</mark>. Applicant is Mrs. James B."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.065</mark>"
+          }
+        ],
+        "Name": "Application"
+      },
+      {
+        "Id": 34998,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.072A-B",
+        "AdditionalInfo": "Minutes",
+        "ImageId": "98805",
+        "ThumbnailId": "16370ed1-5b85-4ed8-bc3c-f68979e552e5_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of two pages of minutes from the meeting at Department of Archives and <mark>History</mark> with Peter Sandbeck"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.072A</mark>-B"
+          }
+        ],
+        "Name": "Minutes"
+      },
+      {
+        "Id": 35024,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.073A",
+        "AdditionalInfo": "Newsletter",
+        "ImageId": "98807",
+        "ThumbnailId": "4c3e9e3b-9032-42be-92e4-c6ffd3ca0a21_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The article talks about the <mark>history</mark> of the carousel, the work being done by Ragan, and includes a testimony"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.073A</mark>"
+          }
+        ],
+        "Name": "Newsletter"
+      }
+    ]
+  }
+}

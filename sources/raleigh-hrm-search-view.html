@@ -1,0 +1,345 @@
+
+<script type="text/html" id="keyword-search-page">
+    <h1 data-bind="text: pageTitle()"></h1>
+    <div id="keyword-search-page-markup">
+        <div class="search-row-container">
+            <search-control params="
+                            value: SearchString,
+                            enable: !IsLoading(),
+                            onEnter: onEnter,
+                            containerClass: 'search-control-container',
+                            inputClass: 'form-control search-control-input',
+                            placeholder: 'Enter Search Criteria Here',
+                            ariaLabel: 'Enter Search Criteria Here',
+                            icon: 'bi bi-search',
+                            ariaDescribedBy: 'help-text'">
+            </search-control>
+            <button class="btn btn-primary btn-search" data-bind="verifiedSubmit: search, enable: !IsLoading()">Search</button>
+        </div>
+        <fieldset>
+            <legend>Records to include:</legend>
+            <div class="checkbox-container checkbox-container-catalog-types">
+                    <div class="form-check">
+                        <input id="checkIncludeObjects" type="checkbox" data-bind="checked: IncludeObjects, enable: !IsLoading()" class="form-check-input">
+                        <label class="form-check-label" for="checkIncludeObjects">
+                            Objects
+                        </label>
+                    </div>
+                                    <div class="form-check">
+                        <input id="checkIncludePhotos" type="checkbox" data-bind="checked: IncludePhotos, enable: !IsLoading()" class="form-check-input">
+                        <label class="form-check-label" for="checkIncludePhotos">
+                            Photos
+                        </label>
+                    </div>
+                                    <div class="form-check">
+                        <input id="checkIncludeArchives" type="checkbox" data-bind="checked: IncludeArchives, enable: !IsLoading()" class="form-check-input">
+                        <label class="form-check-label" for="checkIncludeArchives">
+                            Archives
+                        </label>
+                    </div>
+                                                    <div class="form-check">
+                        <input id="checkIncludePeople" type="checkbox" data-bind="checked: IncludePeople, enable: !IsLoading()" class="form-check-input">
+                        <label class="form-check-label" for="checkIncludePeople">
+                            People
+                        </label>
+                    </div>
+                            </div>
+            <div class="checkbox-container-images-only">
+                <div class="form-check">
+                    <input type="checkbox" data-bind="checked: ItemsWithImagesOnly, enable: !IsLoading()" class="form-check-input" id="checkItemsWithImagesOnly">
+                    <label class="form-check-label" for="checkItemsWithImagesOnly">
+                        Only records with images
+                    </label>
+                </div>
+            </div>
+        </fieldset>
+
+        <div class="help-text" id="help-text">
+            <p><strong>Keyword Search</strong>&nbsp;allows you to perform a general search across multiple fields for any catalog records online. Keyword searches use OR as the default connector between words (e.g. a search for Sir Walter Raleigh will return records associated with Sir Walter Raleigh). If you want to find records were both keywords are found, type in AND between the two words. To search a specific phrase, be sure to put the phrase within quotes (e.g. &quot;Sir Walter Raleigh&quot;). Searches are not case sensitive.</p>
+
+        </div>
+        <div data-bind="visible: IsLoading()">
+            <div class="page-loader">
+    <div class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>
+
+
+        </div>
+        <div class="search-results-info" aria-atomic="true" role="status">
+            <h2 data-bind="visible: !IsLoading() && FoundInfoMessage() && SearchInfoMessage(), text: SearchInfoFullMessage"></h2>
+        </div>
+        <div data-bind="visible: !IsLoading()">
+            <ul class="search-results-container" data-bind="foreach: { data: Results, afterRender: onItemsRendered }, visible: Results().length > 0">
+                <li>
+    <div class="row search-result" role="group" aria-label="record">
+        <div class="img-thumb-container">
+            <div class="d-flex justify-content-center">
+                <div class="catalog-item-image">
+                    <button class="img-thumbnail" aria-label="Open large image modal"
+                            data-bind="css: {
+                            'img-square-rounded': app.isImageSquareRounded(),
+                            'img-circle-inside': app.isImageCircle(),
+                            'placeholder-thumbnail': ThumbnailId},
+                             attr: { 'data-item-id': Id },
+                             click: function() { $parent.showImageViewerPopup($index()) };">
+                        <img data-bind="attr: { class: app.imgClass, src: app.getS3ImageUrlOrDefault(ThumbnailId), alt: $parent.getImageAltText($data) }"/>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="search-result-text">
+            <h3>
+                <a class="search-result-title" data-bind="attr: { 'href': common.getUrlDetailsPage(Id, TypeId, common.buildItemSearchParams($parent.SearchCollection, $parent.getResultPositionById(Id))) }, htmlSanitized: Title || common.getDefaultTitleByObjectTypeId(TypeId)"></a>
+            </h3>
+            <p class="search-result-additional-info multiline" data-bind="htmlSanitized: AdditionalInfo, visible: AdditionalInfo"></p>
+            <p class="search-result-found-data" data-bind="htmlSanitized: FoundData, css: { 'top-buffer': (!Title && !AdditionalInfo) }"></p>
+        </div>
+    </div>
+</li>
+
+            </ul>
+        </div>
+        <div data-bind="with: paging">
+            
+<!-- ko if: numberOfItems() > 0 && !isLoading()-->
+<nav aria-label="pagination"
+     class="d-flex gap-3 flex-wrap align-items-center mb-2 justify-content-between justify-content-lg-start custom-paging-container">
+
+    <div class="items-per-page-info d-flex align-items-center gap-2">
+        <label for="page-size" class="flex-shrink-0">Items per page</label>
+        <div class="visually-hidden">Selection will refresh the page with new results</div>
+        <select id="page-size" class="form-select" data-bind="value: pagingInfo.pageSize">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="50">50</option>
+        </select>
+    </div>
+    <div class="paging-stats">
+        <span data-bind="text: showingFrom"></span>-<span data-bind="text: showingTo"></span> of <span
+            data-bind="text: pagingInfo.itemsTotal"></span> Items
+    </div>
+    <ul class="paging-actions flex-grow-1 d-flex align-items-center justify-content-center justify-content-lg-end">
+        <li>
+            <a class="d-flex" data-bind="click: goToFirst,  attr: {'aria-disabled': goToPreviousDisabled(), 'tabindex': goToPreviousDisabled() ? '-1' : '0', href: fistPageHref }, css: { 'disabled': goToPreviousDisabled() }"
+               aria-label="First Page"><i class="bi bi-skip-backward-fill"></i></a>
+        </li>
+        <li>
+            <a class="d-flex mx-2" href="#" data-bind="click: goToPrevious, attr: {'aria-disabled': goToPreviousDisabled(), 'tabindex': goToPreviousDisabled() ? '-1' : '0', href: previousPageHref }, css: { 'disabled': goToPreviousDisabled()}"
+               aria-label="Previous Page"><i class="bi bi-skip-start-fill ms-2 me-1"></i>Previous</a>
+        </li>
+        <li>
+            <div class="d-flex align-items-center mx-2">
+                <input class="form-control d-inline-block page-input" type="number" aria-label="Page Number"
+                       data-bind="value: pagingInfo.pageNumber, attr: { max: pagingInfo.pageTotal() }" min="1">
+                <div class="paging-stats d-inline-block ms-2 text-nowrap">
+                     of <span data-bind="text: pagingInfo.pageTotal()"></span>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a class="d-flex mx-2" href="#" data-bind="click: goToNext, attr: {'aria-disabled': goToNextDisabled(), 'tabindex': goToNextDisabled() ? '-1' : '0', href: nextPageHref}, css: { 'disabled': goToNextDisabled()}"
+               aria-label="Next Page">Next<i class="bi bi-skip-end-fill ms-1 me-2"></i></a>
+        </li>
+        <li>
+            <a class="d-flex" href="#" data-bind="click: goToLast, attr: {'aria-disabled': goToNextDisabled(), 'tabindex': goToNextDisabled() ? '-1' : '0', href: lastPageHref}, css: { 'disabled': goToNextDisabled()}"
+               aria-label="Last Page"><i class="bi bi-skip-forward-fill"></i></a>
+        </li>
+    </ul>
+</nav>
+<!-- /ko -->
+        </div>
+    </div>
+    
+<script type="text/html" id="large-image-popup-template">
+    <div class="modal-image-container" role="region" aria-label="carousel">
+        <span class="visually-hidden">This is a carousel with one large image and a track of thumbnails. Select any of the image buttons to change the large image. Use the previous and next buttons to navigate between images. Additional actions are available for the large image.</span>
+        <div class="image-container">
+            <div class="header-container">
+                <div class="image-count-text" data-bind="text: imageCountText"></div>
+            </div>
+            <div class="form-group text-center image-content">
+                
+<div class="desktop-layout image-editor">
+    <div class="image-navigation-container">
+        <button class="btn-left bi bi-chevron-left" aria-label="Previous Image" data-bind="css: { 'invisible': magnifyMode() }, click: previous, visible: isNavigationButtonVisible()">
+        </button>
+        <div class="img-thumbnail">
+            <div class="img-wrapper img-magnifier-container" data-bind="with: currentImage">
+                <img class="img-responsive" data-bind="attr: { src: Url, alt: AltText }" />
+            </div>
+        </div>
+        <button class="btn-right bi bi-chevron-right" aria-label="Next Image" data-bind="css: { 'invisible': magnifyMode() }, click: next, visible: isNavigationButtonVisible()">
+        </button>
+    </div>
+    <p class="image-caption" data-bind="text: currentImage().Caption, css: { 'invisible': !currentImage().Caption }"></p>
+    <div class="modal-image-footer">
+        
+        <div class="record-button-container">
+            <button class="btn btn-primary catrecord-btn" role="link" data-bind="visible: displayCatalogsLink, click: navigateToItem, text: imageCaption" data-bs-dismiss="modal"></button>
+            <!-- ko if: currentImage().ImageId-->
+            <button class="btn btn-outline-primary metadata-btn" role="link" data-bind="click: viewImageMetadata">View Image Metadata</button>
+            <!-- /ko -->
+            <!-- ko if: common.isImageRequestEnabled() && currentImage().ImageId-->
+            <button class="btn btn-outline-primary image-request-btn" data-bind="visible: true, click: requestImage, text: common.imageRequestFormName"></button>
+            <!-- /ko -->
+        </div>
+    </div>
+</div>
+                
+<div class="mobile-layout image-editor">
+    <div class="action-button-container">
+        <!-- ko if: currentImage().ImageId-->
+        <button class="btn btn-outline-primary metadata-btn" role="link" data-bind="click: viewImageMetadata">View Image Metadata</button>
+        <!-- /ko -->
+        <!-- ko if: common.isImageRequestEnabled() && currentImage().ImageId-->
+        <button class="btn btn-outline-primary image-request-btn" data-bind="visible: true, click: requestImage, text: common.imageRequestFormName" data-dismiss="modal"></button>
+        <!-- /ko -->
+    </div>
+    <div class="image-navigation-container">
+        <button class="btn-left bi bi-chevron-left" aria-label="Previous Image" data-bind="css: { 'invisible': magnifyMode() }, click: previous, visible: isNavigationButtonVisible()">
+        </button>
+        <div class="img-thumbnail">
+            <div class="img-wrapper img-magnifier-container" data-bind="with: currentImage">
+                <img class="img-responsive" data-bind="attr: { src: Url, alt: AltText }" />
+            </div>
+        </div>
+        <button class="btn-right bi bi-chevron-right" aria-label="Next Image" data-bind="css: { 'invisible': magnifyMode() }, click: next, visible: isNavigationButtonVisible()">
+        </button>
+    </div>
+
+    <p class="image-caption" data-bind="text: currentImage().Caption, css: { 'invisible': !currentImage().Caption }"></p>
+    <div class="modal-image-footer">
+        
+        <button class="btn btn-primary catrecord-btn" role="link" data-bind="visible: displayCatalogsLink, click: navigateToItem, text: imageCaption" data-dismiss="modal"></button>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class="show-all-widget">
+            <ul class="images-list-container" data-bind="foreach: loadedImages">
+                <li>
+                    <button class="list-item-image img-thumbnail"
+                            data-bind="attr: { id: $parent.getImageElementId($data), 'aria-current': $parent.isCurrentImageSelected(ImageId, ItemId), 'aria-label': $parent.getImageLabel($index()) }, 
+                            css: { 'current-item-border': $parent.isCurrentImageSelected(ImageId, ItemId), 'disabled': $parent.magnifyMode() }, 
+                            click: () => $parent.selectImage(ImageId, ItemId)">
+                        <img class="img-fluid" data-bind="attr: { src: app.getS3ImageUrlOrDefault($data.ThumbnailId), alt: app.getAltTagOrDefault($data.ThumbnailId, $data.AltText) }" />
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/html" id="image-request-form-template">
+    <div data-bind="visible: IsLoading">
+        <div class="page-loader">
+    <div class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>
+
+
+    </div>
+    <div data-bind="visible: !IsLoading()">
+        <div class="container-fluid" data-bind="visible: IsImageOrderingEnabled">
+            <div data-bind="htmlSanitized: Header"></div>
+            <div class="form-group">Asterisk (<span class="text-danger m-1">*</span>) indicates a required field.</div>
+            <div class="form-group">
+                <label for="Name" class="control-label">Name</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Name, valueUpdate: 'input', id: 'Name', isDisabled: isRequesting, inputType: 'text', autocomplete: 'name', inputName: 'name',isRequired: true, ariaDescribedBy: 'NameError', errorId: 'NameError'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Address" class="control-label">Address</label>
+                <text-input class="large" params="value: Address, id: 'Address', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-line1', inputName: 'address-line1'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Address2" class="control-label">Address2</label>
+                <text-input class="large" params="value: Address2, id: 'Address2', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-line2', inputName: 'address-line2'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="City" class="control-label">City</label>
+                <text-input class="large" params="value: City, id: 'City', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-level2', inputName: 'address-level2'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="State" class="control-label">State</label>
+                <text-input class="large" params="value: State, id: 'State', isDisabled: isRequesting, inputType: 'text', autocomplete: 'address-level1', inputName: 'address-level1'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Zip" class="control-label">Zip/Postal Code</label>
+                <text-input class="large" params="value: Zip, id: 'Zip', isDisabled: isRequesting, inputType: 'text', autocomplete: 'postal-code', inputName: 'postal-code'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Country" class="control-label">Country</label>
+                <text-input class="large" params="value: Country, id: 'Country', isDisabled: isRequesting, inputType: 'text', autocomplete: 'country-name', inputName: 'country-name'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Phone" class="control-label">Phone</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Phone, valueUpdate: 'input', id: 'Phone', isDisabled: isRequesting, inputType: 'tel', autocomplete: 'tel', inputName: 'tel', isRequired : true, ariaDescribedBy: 'PhoneError', errorId: 'PhoneError'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="AlternatePhone" class="control-label">Alternate Phone</label>
+                <text-input class="large" params="value: AlternatePhone, id: 'AlternatePhone', isDisabled: isRequesting, inputType: 'tel', inputName: 'alternate-phone'"></text-input>
+            </div>
+            <div class="form-group">
+                <label for="Email" class="control-label">Email Address</label><span class="text-danger m-1">*</span>
+                <text-input class="large" params="value: Email, valueUpdate: 'input', id: 'Email', isDisabled: isRequesting, inputType: 'email', autocomplete: 'email', inputName: 'email', isRequired: true, ariaDescribedBy: 'EmailError', errorId: 'EmailError'"></text-input>
+            </div>
+            <div class="form-group" data-bind="visible: FormatRequiredDescription()">
+                <label for="FormatRequired" class="control-label" data-bind="text: FormatRequiredDescription"></label>
+                <div>
+                    <textarea class="form-control" id="FormatRequired" name="format-required" data-bind="value: FormatRequired, attr: { 'readonly': isRequesting }"></textarea>
+                </div>
+            </div>
+            <div class="form-group" data-bind="visible: PurposeDescription()">
+                <label for="PurposeDescription" data-bind="text: PurposeDescription"></label>
+                <div>
+                    <textarea class="form-control" id="PurposeDescription" name="purpose-description" data-bind="value: PurposeDescriptionText, attr: { 'readonly': isRequesting }"></textarea>
+                </div>
+            </div>
+            <div class="form-group company-field" aria-hidden="true">
+    <label for="Company">Company</label>
+    <text-input class="large" params="value: Company, id: 'Company', inputType: 'text', tabIndex: '-1'"></text-input>
+</div>
+            <div class="modal-footer">
+                <async-action-button params="buttonClass: 'btn btn-primary submit-btn',
+                             click: submit,
+                             modelToValidate: $data,
+                             text: 'Submit Request',
+                             isInProgress: isRequesting"></async-action-button>
+                <button class="btn btn-outline-primary cancel-btn" data-bs-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+        <div class="container-fluid" data-bind="visible: !IsImageOrderingEnabled">
+            Unfortunately, image ordering is disabled for the current museum.
+        </div>
+    </div>
+</script>
+</script>
+
+<script src="/bundles/multitype-keyword-search?v=1f3G_xcEsWalQkwYEvuKxAmeeqzw-_CgKVOyYMrCZ_81"></script>
+
+<script type="text/javascript">
+    $(function () {
+        var model = new MultitypeKeywordSearch(
+            'keyword-search-page',
+            function (options) {
+                var viewModel = new PagingViewModel(options);
+                return viewModel;
+            },
+            true,
+            (app.pageTitlesViewModel() ? app.pageTitlesViewModel().KeywordSearch : '') || STRINGS.keywordSearch,
+            {"MuseumId":1,"IsKeywordObjects":true,"IsKeywordPhotos":true,"IsKeywordArchives":true,"IsKeywordLibrary":false,"IsKeywordPeople":true,"IsImagesObjects":true,"IsImagesPhotos":true,"IsImagesArchives":true,"IsImagesLibrary":false,"HideHyperlinks":false,"IsKeywordContainerList":false}
+        );
+    });
+</script>

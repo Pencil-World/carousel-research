@@ -1,0 +1,99 @@
+{
+  "Item": {
+    "Id": 28384,
+    "ItemType": 2,
+    "ItemId": "PPC2022.005.043",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A color photograph taken inside the Pullen Park Carousel house of 4 horses, 1 chariot, 1 pig, 2 rabbits, and 2 ostriches. From left to right: a yellow ear; the back half of a pig with green and pink red trim decorative harnesses and part of the brown seat; a brown horse with a black mane, white snout, and the white lower legs that has a brown seat and yellow trimmed green harness; a chariot with burgundy seats and brown and green decorative sides; a brown horse with a black mane that has a red and yellow trimmed green harness and a brown seat; a brown horse from the chest up with a black trimmed green harness and a brown seat; a white and light brown/gray horse with a black/brown mane and a red trimmed pink harness; a gray rabbit with a red trimmed pink harness; the ear of a brown rabbit; two blue and gray ostriches. The carousel house is screened in and a white man in a white shirt is visible.\n\nReverse is white with gold text reading \"Kodak-Official Sponsor of the Olympic Games\" with the Olympic rings and \"Kodak Royal Paper.\" Black printed text reads \"<No.15A>515 21+1 NNNNN+15AU 0141.\"",
+    "CreationDate": null,
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2023-06-28T19:48:22.377",
+    "LastModifiedDate": "2026-08-12T19:26:07.26",
+    "CatalogDate": "2023-06-28T04:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 28384
+    },
+    "Collection": {
+      "Id": 18334,
+      "Title": "Pullen Park Collection",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42584,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "Length: 10.1 cm\nWidth: 15.1 cm",
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": null,
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 73779,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1769x1183",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/73779"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 73780,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1770x1170",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/73780"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Collection - PPC2022.005.043",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,120 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 4,
+    "Items": [
+      {
+        "Id": 17285,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.001",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46646",
+        "ThumbnailId": "1b5f4e3d-708d-4af7-824e-a44590cb91e2_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.001",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The is a carousel <mark>map</mark> from a bird-eye perspective of the Pullen Park Carousel."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "large circle is segmented and numbered, and stickers, writing in pen, and tape are in the section to <mark>map</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "of the paper are keys explaining which animals correspond to the letters and roman numerals on the <mark>map</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.001</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 21826,
+        "TypeId": 104,
+        "Title": "Pullen Park Collection - PPC2020.004.068",
+        "AdditionalInfo": "Map",
+        "ImageId": "35925",
+        "ThumbnailId": "ab02e872-d7bb-4fc3-947a-baa25863f4fd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A color <mark>map</mark> of Pullen Park and part of NC State University."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>map</mark> shows from Dunn Avenue at the top to Western Boulevard at the bottom."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The portion that is Pullen Park is in color while the rest of the <mark>map</mark> is black-and-white."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Road bisects the <mark>map</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Map</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.068</mark>"
+          }
+        ],
+        "Name": "Map"
+      },
+      {
+        "Id": 25353,
+        "TypeId": 104,
+        "Title": "Pullen Park Collection - PPC2020.004.226",
+        "AdditionalInfo": "Map",
+        "ImageId": "62359",
+        "ThumbnailId": "872c3e82-3cb2-4220-ad7d-b5d6aab71c8b_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A regional study <mark>map</mark> of Pullen Park. It is a black and white photocopy of a <mark>map</mark> made by Richard C."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>Map</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.226</mark>"
+          }
+        ],
+        "Name": "Map"
+      },
+      {
+        "Id": 25367,
+        "TypeId": 102,
+        "Title": "Pullen Park Collection - PPC2020.004.240",
+        "AdditionalInfo": "Plan",
+        "ImageId": "62373",
+        "ThumbnailId": "819cd471-e220-476b-ab72-617d39aafdd9_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The text and lion are overlaid on top of a grayscale <mark>map</mark> of Pullen Park."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2020.004.240</mark>"
+          }
+        ],
+        "Name": "Plan"
+      }
+    ]
+  }
+}

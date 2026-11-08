@@ -1,0 +1,58 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 2,
+    "Items": [
+      {
+        "Id": 20756,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.256",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "33940",
+        "ThumbnailId": "4c522ae6-7215-4830-b88a-26fb43be74d5_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.256",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the inner side of Jumping Cat <mark>18A</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label: \"CAT INTERIOR <mark>18A</mark>\" The cat's body is outlined in pencil and only"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.256</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20758,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.257",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "32631",
+        "ThumbnailId": "382d9427-fe32-4782-9842-b6bab690660b_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.257",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the romance side of Jumping Cat <mark>18A</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label: \"<mark>18A</mark> cat\" The cat's body is outlined in pencil and only the tack"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.257</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

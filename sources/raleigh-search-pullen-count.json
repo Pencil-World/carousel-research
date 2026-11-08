@@ -1,0 +1,29 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": 25784,
+        "TypeId": 104,
+        "Title": "Mordecai Historic Park - MP.2005.019.355.10T",
+        "AdditionalInfo": "Letter",
+        "ImageId": "64245",
+        "ThumbnailId": "f51dad39-cb9f-4d4b-a328-d526d4201107_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "imagine, in a book that will include more than 5000 treasures, we must work within a very strict line-<mark>count</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The house was then moved to the <mark>Pullen</mark> <mark>Park</mark> grounds in 1904 to aid in its preservation by the City."
+          }
+        ],
+        "Name": "Letter"
+      }
+    ]
+  }
+}

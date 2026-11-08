@@ -1,0 +1,154 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 6,
+    "Items": [
+      {
+        "Id": 20728,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.234",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "36939",
+        "ThumbnailId": "ee4c886f-5d78-4b6d-bb27-624c3fed450c_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.234",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the inner side of Standing <mark>Lion</mark> 16."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label: \"No. 16 <mark>LION</mark> LEFT SIDE\" The lion's body and tack are fully outlined"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "colored in, and the Romance profile of the Native American head is drawn above and to the right of the <mark>lion</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.234</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20729,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.235",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "41368",
+        "ThumbnailId": "9fa8c6cc-125c-4f4c-bcae-49d0d4d6e63e_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.235",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Standing <mark>Lion</mark> 16's inner side saddle blanket."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside the line drawing is the label \"<mark>LION</mark> 16 LEFT SIDE\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.235</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20730,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.236",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "49474",
+        "ThumbnailId": "a4553b3a-cebf-4a4b-9e6b-5f7e2e7dea88_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.236",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the romance side of Standing <mark>Lion</mark> 16."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner has the label: \"No. 16 <mark>LION</mark> ROMANCE SIDE\" The lion's body and tack are only partly"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.236</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20731,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.237",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "48661",
+        "ThumbnailId": "6a6a8356-c78c-46cd-a3b7-00a567d4bad3_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.237",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a line drawing of Standing <mark>Lion</mark> 16's romance side saddle design."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "In the upper right corner is the label \"<mark>LION</mark>- RIGHT SIDE NO. 16\" No. 16 is underlined."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.237</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20852,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.268",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "",
+        "ThumbnailId": null,
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "step-up stirrup on the Dentzel Pullen Carousel - specifically for its Standing Tiger 8 and Standing <mark>Lion</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.268</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20853,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.269",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "",
+        "ThumbnailId": null,
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "step-up stirrup on the Dentzel Pullen Carousel - specifically for its all of the animals except the <mark>lion</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.269</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

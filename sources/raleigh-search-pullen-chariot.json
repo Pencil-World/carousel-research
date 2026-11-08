@@ -1,0 +1,309 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 13,
+    "Items": [
+      {
+        "Id": 17518,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.004",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "32948",
+        "ThumbnailId": "f181dd6e-cc6c-4ffa-b779-05d45eacd210_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.004",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 1."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> Seat I Opposite Side Bull Carving LEFT SIDE.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.004</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18421,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.005",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "47933",
+        "ThumbnailId": "bda75499-2d1a-4f9c-bd9f-29d032413e83_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.005",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 1."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> Seat I Opposite Side of Woods LEFT SIDE.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.005</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18423,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.007",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "38311",
+        "ThumbnailId": "7452c9af-022b-4dc6-a5d4-275ac971e9bf_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.007",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 1."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> Seat Bull's Carving Right Side (Romance Side) No Original"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.007</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18424,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.008",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50575",
+        "ThumbnailId": "c85e9501-754e-4a8c-a6c8-6d0b83e4cca5_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.008",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 1."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> Seat I Original Painting Woods.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.008</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18446,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.030",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "35892",
+        "ThumbnailId": "7e12540a-e31a-4d3e-bcce-a9cf7fc2b18d_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.030",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.030</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18449,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.031",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "34304",
+        "ThumbnailId": "d582b642-2fbd-4065-8d28-b33e36635f85_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.031",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a platform side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.031</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18450,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.032",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "43822",
+        "ThumbnailId": "77cec0ec-8dfc-4be2-92b9-d109aa889aa6_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.032",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the inner side platform on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.032</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18451,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.033",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "37725",
+        "ThumbnailId": "60f76563-aebb-4ec7-a8eb-7e690e1fb2a1_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.033",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a seat side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> II Opposite Side Fir Trees Left Side.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.033</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18452,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.034",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "46108",
+        "ThumbnailId": "a3b71b1c-1fa1-4609-ade7-d8e9862ede87_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.034",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the middle seat sides on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The top of the paper has the label, \"<mark>CHARIOT</mark> II-MIDDLE SEATS.\" the label above the left drawing reads"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.034</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18453,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.035",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50757",
+        "ThumbnailId": "37c31a86-2776-445f-a9f2-a8f400fd8c79_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.035",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of a platform side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.035</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18454,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.036",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "42248",
+        "ThumbnailId": "75171a0f-f657-4302-bc26-35c549fdf7df_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.036",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a drawing of the seat sides on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.036</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18455,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.037",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "48133",
+        "ThumbnailId": "190ec6bf-0f63-435a-9ec1-ffe0c6adb75c_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.037",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is drawing of a seat side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.037</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18456,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.038",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "40619",
+        "ThumbnailId": "7bd2ef70-793a-466b-b33d-01387ca5e7d0_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.038",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This a drawing of a seat side on Pullen <mark>Chariot</mark> 2."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The label inside the drawing reads, \"<mark>Chariot</mark> Seat II Original Painting Fir Trees Cleaned 1982 Right Side"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.038</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

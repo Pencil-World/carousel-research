@@ -1,0 +1,1032 @@
+[
+  {
+    "file": "pullen-1976-national-register.pdf",
+    "url": "https://files.nc.gov/ncdcr/nr/WA0008.pdf",
+    "final_url": "https://files.nc.gov/ncdcr/nr/WA0008.pdf",
+    "content_type": "application/pdf",
+    "sha256": "e28dd30981e53602d26a545076d4da37c75ddae42d1f47ac12fdcf2d7191f59b",
+    "bytes": 2446993,
+    "retrieved_utc": "2026-11-08T20:22:00.839315+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "pullen-city-landmark-report.pdf",
+    "url": "https://cityofraleigh0drupal.blob.core.usgovcloudapi.net/drupal-prod/COR10/CarouselAtPullenPark_LandmarkOrdinanceAndReport.pdf",
+    "final_url": "https://cityofraleigh0drupal.blob.core.usgovcloudapi.net/drupal-prod/COR10/CarouselAtPullenPark_LandmarkOrdinanceAndReport.pdf",
+    "content_type": "application/pdf",
+    "sha256": "6bd37d95028f489923f6cccfffa484096e7dbac44a9bf404dd5000304924c924",
+    "bytes": 3323637,
+    "retrieved_utc": "2026-11-08T20:22:01.242934+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "williamsburg-sidewalks-to-rooftops.html",
+    "url": "https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/exhibitions/sidewalks-to-rooftops-outdoor-folk-art/",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "williamsburg-collections.html",
+    "url": "https://emuseum.colonialwilliamsburg.org/groups",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "williamsburg-exhibit-family.jpg",
+    "url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/carnival-folk-art-family.format-jpeg.width-2000.jpg",
+    "final_url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/carnival-folk-art-family.format-jpeg.width-2000.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "ab79b936d3c0115a6f4eae834e44da5b1d462e20f86c3edcacd0ed19a2048518",
+    "bytes": 321306,
+    "retrieved_utc": "2026-11-08T20:22:01.073524+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "williamsburg-carousel-cat.html",
+    "url": "https://emuseum.colonialwilliamsburg.org/objects/58638/carousel-figure-cat",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "nca-guide-003-promotion-restoration.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide003.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide003.pdf",
+    "content_type": "application/pdf",
+    "sha256": "6033c6b6443241af16d19a76cc0f2be787732c6dbf00694682c2d7fb6e0b66a8",
+    "bytes": 10681320,
+    "retrieved_utc": "2026-11-08T20:24:49.647827+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-photo-index.html",
+    "url": "https://www.carousels.org/psp/PullenPark/",
+    "final_url": "https://www.carousels.org/psp/PullenPark/",
+    "content_type": "text/html",
+    "sha256": "8ea346b3fdafafe81dfa9a83844514fe3151cc7e3d3f0e82991736374e00b142",
+    "bytes": 36033,
+    "retrieved_utc": "2026-11-08T20:24:48.524629+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-008-pullen-restoration-news.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide008.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide008.pdf",
+    "content_type": "application/pdf",
+    "sha256": "67491719a3d3c4abae80b720b6a8eaa0a3dad6e63d53a5e2663f8b25cf648c0e",
+    "bytes": 7504922,
+    "retrieved_utc": "2026-11-08T20:25:55.113585+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-flag-horse-and-lion.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park004.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park004.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "45b8ad957d43ecc097890e33e484de27b9720d9e72a326457218951e26a372d7",
+    "bytes": 117402,
+    "retrieved_utc": "2026-11-08T20:25:54.061151+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-two-pigs.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park022.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park022.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "56854c4f16e66dc27e7dda2d1f29ac8f7da3164926262719c8cd11c1fcc78671",
+    "bytes": 117928,
+    "retrieved_utc": "2026-11-08T20:25:54.008004+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-second-row-pig.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park023.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park023.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "1973353a9ccd93d7ab8970bed4f27ba16f9ea035b650a34329d7110a8bacf557",
+    "bytes": 119072,
+    "retrieved_utc": "2026-11-08T20:25:54.050592+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "williamsburg-camel.jpg",
+    "url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/Sidewalks_to_Rooftops-_Outdoor_Folk_Art_4.width-500.jpg",
+    "final_url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/Sidewalks_to_Rooftops-_Outdoor_Folk_Art_4.width-500.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "218aead8b2e96d52201a591266dd32ca6d69ec11bc07c6c59f571c0829362e04",
+    "bytes": 20050,
+    "retrieved_utc": "2026-11-08T20:25:54.158820+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "williamsburg-cat.jpg",
+    "url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/Sidewalks_to_Rooftops-_Outdoor_Folk_Art_1.width-500.jpg",
+    "final_url": "https://cwf20siteprodstg.blob.core.windows.net/prod/images/Sidewalks_to_Rooftops-_Outdoor_Folk_Art_1.width-500.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "3401a0d7cd3f54fe99bf278b6c161112efa85c7125ab1561d272a1e4a50e395a",
+    "bytes": 23991,
+    "retrieved_utc": "2026-11-08T20:25:54.187910+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-004-restoration.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide004.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide004.pdf",
+    "content_type": "application/pdf",
+    "sha256": "73fbbd028b39da6dc8cd92e815ffbda3bf8b14183f90096fc953fbd0fffd08a2",
+    "bytes": 9743061,
+    "retrieved_utc": "2026-11-08T20:32:23.194993+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-005-publicity.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide005.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide005.pdf",
+    "content_type": "application/pdf",
+    "sha256": "536f983940280fd2a28800c453fd9cf81c54979cc763858774530e3f7de01968",
+    "bytes": 8558158,
+    "retrieved_utc": "2026-11-08T20:32:23.436636+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-006-operation.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide006.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide006.pdf",
+    "content_type": "application/pdf",
+    "sha256": "52c7db2ec3768b9411fc74acca3020f1150050e29f294adcee0aeb18fad7ea13",
+    "bytes": 9030834,
+    "retrieved_utc": "2026-11-08T20:32:23.757442+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-015-fundraising.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide015.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide015.pdf",
+    "content_type": "application/pdf",
+    "sha256": "01428837866cba3a36c137a83ae8044e31b77c52a55436630dfac5c265c4fb4a",
+    "bytes": 5481756,
+    "retrieved_utc": "2026-11-08T20:32:20.926770+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-016-fundraising.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide016.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide016.pdf",
+    "content_type": "application/pdf",
+    "sha256": "1bdbc8164b5780e4b82550ca063fd4e72e9456082fab89cfdfd2b4f3f6bbb798",
+    "bytes": 11866662,
+    "retrieved_utc": "2026-11-08T20:32:24.118882+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-guide-017-fundraising.pdf",
+    "url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide017.pdf",
+    "final_url": "https://carousels.org/CRG/NCA_Carousel_Resource_Guide017.pdf",
+    "content_type": "application/pdf",
+    "sha256": "41be3f4762bd132b3a3345fef78ff0ab4747b3dccce5cfc57c9d649eeab9ac62",
+    "bytes": 7575656,
+    "retrieved_utc": "2026-11-08T20:32:28.540983+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-tiger.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park025.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park025.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "f245dd6da9b63987e12e043b7dd106b4d24e359274c68e1f166963aa734068f1",
+    "bytes": 105101,
+    "retrieved_utc": "2026-11-08T20:32:23.940578+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-chariot-and-giraffe.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park041.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park041.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "98df98bad8feaab77d6268e969bdb207abeef31145a1d12279f3c47bcb544006",
+    "bytes": 112950,
+    "retrieved_utc": "2026-11-08T20:32:24.399642+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-chariot.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park013.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park013.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "098bda42a547769744ab1acdccbf83ee02438a7d44dc35e9af4b6ca85197df2f",
+    "bytes": 86088,
+    "retrieved_utc": "2026-11-08T20:32:24.480392+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-lion.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park027.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park027.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "83fd24404ee90b462d3d2fa39c001c8cb9de6ef117ab6c1ebb489738aaf03c9f",
+    "bytes": 120664,
+    "retrieved_utc": "2026-11-08T20:32:25.017836+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "carousel-news-2019-spring.pdf",
+    "url": "https://carouselhistory.com/wp-content/uploads/2019/05/Carousel-News-Spring-2019-Vol-35-No1.pdf",
+    "final_url": "https://carouselhistory.com/wp-content/uploads/2019/05/Carousel-News-Spring-2019-Vol-35-No1.pdf",
+    "content_type": "application/pdf",
+    "sha256": "ab1269f2971d0c27b10fd24432403cc485ea83a8724c1223e0490382824b6f06",
+    "bytes": 7288066,
+    "retrieved_utc": "2026-11-08T20:32:29.663400+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "american-roads-2016.html",
+    "url": "https://americanroads.net/art_spring2016.htm",
+    "final_url": "https://americanroads.net/art_spring2016.htm",
+    "content_type": "text/html",
+    "sha256": "465123a67615c9bf0793af946f8f65846e23f9ee385e1769b65afacf107ff240",
+    "bytes": 39372,
+    "retrieved_utc": "2026-11-08T20:32:25.218527+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "pullen-nara-76001344.pdf",
+    "url": "https://nara-media.s3.amazonaws.com/electronic-records/rg-079/NPS_NC/76001344.pdf",
+    "final_url": "https://nara-media.s3.amazonaws.com/electronic-records/rg-079/NPS_NC/76001344.pdf",
+    "content_type": "application/pdf",
+    "sha256": "383bb8abae13a0ea95e98ad3991dd54ed24cb46c469c4c9e05f05147368ba8f6",
+    "bytes": 59325643,
+    "retrieved_utc": "2026-11-08T20:34:35.948288+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-second-row-horse-017.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park017.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park017.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "581ebee06af3b42157117616e20aa2d146e20a1653b38c8a078a5557757d7c0e",
+    "bytes": 107196,
+    "retrieved_utc": "2026-11-08T20:34:30.346611+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-second-row-horse-020.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park020.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park020.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "4504b2adcbcad630cb92c2f4d40cc2c454b2194d1187cdf0d96e8ec1e2132663",
+    "bytes": 107740,
+    "retrieved_utc": "2026-11-08T20:34:30.345306+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-second-row-horse-034.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park034.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park034.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "49a91f0d7203f987a670a288e2099f4b246ec69a26cad9da496932ff6c17f5fe",
+    "bytes": 116547,
+    "retrieved_utc": "2026-11-08T20:34:30.357028+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-horses-cat-view.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park038.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park038.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "8af4d1b0775fdec5b4b2163c3a658a8a6c0a89753df053eb0071209e34ec51c7",
+    "bytes": 121541,
+    "retrieved_utc": "2026-11-08T20:34:30.864794+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-mule.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park018.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park018.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "0ef07842d23757a12e3a51db45bda266ffc50ece4558f8d531723020aba9689a",
+    "bytes": 112844,
+    "retrieved_utc": "2026-11-08T20:34:31.169340+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "williamsburg-tourism-carousel-display.png",
+    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Cq_75%2Cw_1200/v1/crm/williamsburgva/Listings-43-18-_BEDB09EA-F0CB-ED50-CF5BA5FEF21371A0-bedb072ce4a742a_bedb4f34-edc5-353d-3bad9280d9287330.png",
+    "final_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit%2Cq_75%2Cw_1200/v1/crm/williamsburgva/Listings-43-18-_BEDB09EA-F0CB-ED50-CF5BA5FEF21371A0-bedb072ce4a742a_bedb4f34-edc5-353d-3bad9280d9287330.png",
+    "content_type": "image/png",
+    "sha256": "d8eca984783e157d268794a9f83118c9d19990193ecaa61fa6ddd250027460b5",
+    "bytes": 755083,
+    "retrieved_utc": "2026-11-08T20:34:31.055297+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "technician-1977-04-06.pdf",
+    "url": "https://ocr.lib.ncsu.edu/ocr/te/technician-v57n76-1977-04-06/technician-v57n76-1977-04-06.pdf",
+    "final_url": "https://ocr.lib.ncsu.edu/ocr/te/technician-v57n76-1977-04-06/technician-v57n76-1977-04-06.pdf",
+    "content_type": "application/pdf",
+    "sha256": "62b6d08d211eff5255f7911eff428fa339657ae08c9cfcad8e39c3b690c8986d",
+    "bytes": 7373312,
+    "retrieved_utc": "2026-11-08T20:37:55.740145+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-fine-arts-2015-newsletter.html",
+    "url": "https://archive.constantcontact.com/fs142/1102316631685/archive/1122369945080.html",
+    "final_url": "https://archive.constantcontact.com/fs142/1102316631685/archive/1122369945080.html",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "4a065dfd8a99457574c308fe1c39711f6d187af4bf8be971905ba633eba39422",
+    "bytes": 61458,
+    "retrieved_utc": "2026-11-08T20:45:33.104637+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-004-caption.html",
+    "url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park004.html",
+    "final_url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park004.html",
+    "content_type": "text/html",
+    "sha256": "9bd72c24431deea89b93698ac801b8eb5dd16fcfe24237bb1757df6cbbf4aaa4",
+    "bytes": 4246,
+    "retrieved_utc": "2026-11-08T20:45:33.265900+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-022-caption.html",
+    "url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park022.html",
+    "final_url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park022.html",
+    "content_type": "text/html",
+    "sha256": "04380bacec1eeaae253363585aff82def76bfa040d69b2d0ab9450277b9e7a0c",
+    "bytes": 4237,
+    "retrieved_utc": "2026-11-08T20:45:33.667174+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-023-caption.html",
+    "url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park023.html",
+    "final_url": "https://www.carousels.org/psp/PullenPark/Pullen%20Park023.html",
+    "content_type": "text/html",
+    "sha256": "b93aa485eda9621bf57a04db0d9929c29c1e99a2026daca05a46e6fc6f895360",
+    "bytes": 4199,
+    "retrieved_utc": "2026-11-08T20:45:33.262451+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-census.html",
+    "url": "https://carousels.org/USACensus/census.pl?NCANo=150",
+    "final_url": "https://carousels.org/USACensus/census.pl?NCANo=150",
+    "content_type": "text/html",
+    "sha256": "66a39fe07ed8ae8514e9965aafdf684092dfbc20dc7a3535526c2beca55aadb6",
+    "bytes": 5805,
+    "retrieved_utc": "2026-11-08T20:45:33.541719+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "wake-fine-arts-catalog.html",
+    "url": "https://catalog.wake.gov/Record/778096",
+    "final_url": "https://catalog.wake.gov/Record/778096",
+    "content_type": "text/html; charset=UTF-8",
+    "sha256": "df680ac29ab92e8dcaaff92931947923f8998543a67f0526cc1d7c746b554032",
+    "bytes": 153642,
+    "retrieved_utc": "2026-11-08T20:45:33.905931+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-register-summer-2018.pdf",
+    "url": "https://cityofraleigh0drupal.blob.core.usgovcloudapi.net/drupal-prod/COR24/raleigh-register-summer-2018.pdf",
+    "final_url": "https://cityofraleigh0drupal.blob.core.usgovcloudapi.net/drupal-prod/COR24/raleigh-register-summer-2018.pdf",
+    "content_type": "application/pdf",
+    "sha256": "9f031d0b07051f5d360b9db8586cb90653a62337f91240bb3fc075023205cbbb",
+    "bytes": 4713976,
+    "retrieved_utc": "2026-11-08T21:05:42.348647+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-catalog-home.html",
+    "url": "https://raleighhrmprogram.catalogaccess.com/",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "708d408f5e75f92c94d3aa5a80e363caf5bf5faa9edc4e5abb0b05540645c498",
+    "bytes": 11217,
+    "retrieved_utc": "2026-11-08T21:05:41.724209+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-collections.html",
+    "url": "https://raleighnc.gov/parks-and-recreation/services/historic-resources-and-museums-program/historic-resources-and-1",
+    "final_url": "https://raleighnc.gov/parks-and-recreation/services/historic-resources-and-museums-program/historic-resources-and-1",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "27f7be0e586da2e5ab33c5ccebe009f3e1007a9686c96e874ea79e675f02efb7",
+    "bytes": 106444,
+    "retrieved_utc": "2026-11-08T21:05:41.856550+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-catalog-app.js",
+    "url": "https://raleighhrmprogram.catalogaccess.com/bundles/app?v=RZ0tJpVmTO8XUg65dgeQ5LvXWsm2TjSZZ7b7oBQuhtk1",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/bundles/app?v=RZ0tJpVmTO8XUg65dgeQ5LvXWsm2TjSZZ7b7oBQuhtk1",
+    "content_type": "application/javascript; charset=utf-8",
+    "sha256": "50e1c9ff8cab7d15bf872df02348218c7f813f79774df49af13d2911209b6745",
+    "bytes": 25321,
+    "retrieved_utc": "2026-11-08T21:06:51.369838+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-search-view.html",
+    "url": "https://raleighhrmprogram.catalogaccess.com/Search/ItemsView",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/Search/ItemsView",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "b2f1caeebe498f49ec1099a4c691c1e20c75a00f4eb17771742d572dda1269bb",
+    "bytes": 21468,
+    "retrieved_utc": "2026-11-08T21:07:06.351076+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-keyword-search.js",
+    "url": "https://raleighhrmprogram.catalogaccess.com/bundles/multitype-keyword-search?v=1f3G_xcEsWalQkwYEvuKxAmeeqzw-_CgKVOyYMrCZ_81",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/bundles/multitype-keyword-search?v=1f3G_xcEsWalQkwYEvuKxAmeeqzw-_CgKVOyYMrCZ_81",
+    "content_type": "application/javascript; charset=utf-8",
+    "sha256": "66e69aa8188b2ee967b70e88e1d2e29038ee82a5708aa746200dab52a88a28fb",
+    "bytes": 13280,
+    "retrieved_utc": "2026-11-08T21:07:22.671223+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-catalog-libs.js",
+    "url": "https://raleighhrmprogram.catalogaccess.com/bundles/libs?v=6o9Wg1d5gDZBvDyUg5tmLKD0qdh0chxWTa4AvV5oX3g1",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/bundles/libs?v=6o9Wg1d5gDZBvDyUg5tmLKD0qdh0chxWTa4AvV5oX3g1",
+    "content_type": "application/javascript; charset=utf-8",
+    "sha256": "a941144360dbbaf9228a365906ee56d4a0e46f4b32d644ff240904a29794de57",
+    "bytes": 366460,
+    "retrieved_utc": "2026-11-08T21:07:45.252140+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-archive-18630-view.html",
+    "url": "https://raleighhrmprogram.catalogaccess.com/Items/ArchiveDetails/18630",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/Items/ArchiveDetails/18630",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75",
+    "bytes": 26843,
+    "retrieved_utc": "2026-11-08T21:09:54.010820+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-photo-12287-view.html",
+    "url": "https://raleighhrmprogram.catalogaccess.com/Items/PhotoDetails/12287",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/Items/PhotoDetails/12287",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75",
+    "bytes": 26843,
+    "retrieved_utc": "2026-11-08T21:09:54.010597+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-archive-18634-view.html",
+    "url": "https://raleighhrmprogram.catalogaccess.com/Items/ArchiveDetails/18634",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/Items/ArchiveDetails/18634",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75",
+    "bytes": 26843,
+    "retrieved_utc": "2026-11-08T21:09:54.259103+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-hrm-item-details.js",
+    "url": "https://raleighhrmprogram.catalogaccess.com/bundles/item-details?v=SJloGrEw6Y9Owj0-a-rINkPsglf73W1mCp1eAsZZqIw1",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/bundles/item-details?v=SJloGrEw6Y9Owj0-a-rINkPsglf73W1mCp1eAsZZqIw1",
+    "content_type": "application/javascript; charset=utf-8",
+    "sha256": "d0dce948505e6725e81ea7894c00169949a7019625ba16730cb06c35d1948ab0",
+    "bytes": 25356,
+    "retrieved_utc": "2026-11-08T21:10:12.987048+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-item-18630.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/18630",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/18630",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "1a62a65641cb8fb85a7a9dfaadf8846bdb59e9298c50c57ee76c34c5a3734a96",
+    "bytes": 2813,
+    "retrieved_utc": "2026-11-08T21:10:43.530783+00:00",
+    "status": "saved",
+    "original_sha256": "517d00e04459575fd5c2f1ae8231763e92260e9a6f0e1f4a77acd2a2266613fa",
+    "original_bytes": 418721,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-18634.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/18634",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/18634",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "971d232e0454ba52297fd2653e349651e3a576bbef9032cc077e8e2d11d40b10",
+    "bytes": 2493,
+    "retrieved_utc": "2026-11-08T21:10:43.506855+00:00",
+    "status": "saved",
+    "original_sha256": "efd7d006768d9bad3c22222cf512a7050ea100e2a35e3f670830aaa45fe606ec",
+    "original_bytes": 422539,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-20734.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/20734",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/20734",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "ada0d8e5d32f12c92ee8a998abebce48640575f7915eb59c85c62d8525f58c1b",
+    "bytes": 2928,
+    "retrieved_utc": "2026-11-08T21:10:43.540976+00:00",
+    "status": "saved",
+    "original_sha256": "a62ba00e4cb5f04b8d36c53dda1b3310b8984cb3875fa6822ab74e3c4e62e228",
+    "original_bytes": 521754,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-20738.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/20738",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/20738",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "84cd5fd8c08d124bc6bb10946bdee280344b38cbfbbf77c25054fa4bd3350dfd",
+    "bytes": 2592,
+    "retrieved_utc": "2026-11-08T21:10:43.515546+00:00",
+    "status": "saved",
+    "original_sha256": "45dcad67d7810f41a5fec61af6344d86154d9b3fdb46e843d2d1cdaa1f932336",
+    "original_bytes": 408384,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-12294.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12294",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/12294",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "24b41b64c091fee972c124505461fd7829f4108639490d10e8e7945036e3e480",
+    "bytes": 2467,
+    "retrieved_utc": "2026-11-08T21:10:43.913799+00:00",
+    "status": "saved",
+    "original_sha256": "90cf7cc908bc790342154a0c5d55c114e193b587384088f6ac761612febfe312",
+    "original_bytes": 413700,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-12287.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12287",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/12287",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "030b370bfe3db5c67c5d1e87250077394637f0da74b27b7f5e89c7f0b36adaac",
+    "bytes": 2436,
+    "retrieved_utc": "2026-11-08T21:10:43.920528+00:00",
+    "status": "saved",
+    "original_sha256": "09b3503a53931a0ffc31549ed285b20ff2e1877092adcf1d5f0226ee26e5b5b5",
+    "original_bytes": 413690,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-12299.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12299",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/12299",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "366c776ba50a0087dc3b62cb743f9bee2ffe263b6b9f57c1fca0eaeb4717e9c2",
+    "bytes": 2436,
+    "retrieved_utc": "2026-11-08T21:10:43.900228+00:00",
+    "status": "saved",
+    "original_sha256": "94973e3c410c10d94595f31e0b71160bd94cc1d2f9bc19d7bee12dbc6bcaa22b",
+    "original_bytes": 413506,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-item-12312.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12312",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/12312",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "546c466f5550d3f6c42b60add1b3ef0e02e9326d80d19e5467a189c6aef59c31",
+    "bytes": 2451,
+    "retrieved_utc": "2026-11-08T21:10:43.990298+00:00",
+    "status": "saved",
+    "original_sha256": "84894abc99a339a789efaf5163b4d7016ac1b548c90ffe8977b21faad400eb5a",
+    "original_bytes": 413562,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-drawing-pig-7a.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/50167",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/50167",
+    "content_type": "image/jpeg",
+    "sha256": "28dadc8fc899f65f8c0e75c83e22ca67cb3b5f8cfdf2db845131b26f51f481e2",
+    "bytes": 83208,
+    "retrieved_utc": "2026-11-08T21:11:36.942712+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-drawing-pig-7b-saddle.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/36653",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/36653",
+    "content_type": "image/jpeg",
+    "sha256": "aa489aaf0f18e92accdf73da16724d48830506e37b78a5faee8afa59fff7786c",
+    "bytes": 59380,
+    "retrieved_utc": "2026-11-08T21:11:36.890616+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-drawing-pig-16a.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/50087",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/50087",
+    "content_type": "image/jpeg",
+    "sha256": "4611615b1e17b8444b68c052dcb16673402f4745a7d801eb52a79356cae77dff",
+    "bytes": 128869,
+    "retrieved_utc": "2026-11-08T21:11:36.920697+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-drawing-pig-16b.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/35636",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/35636",
+    "content_type": "image/jpeg",
+    "sha256": "1a87eeeec7fa0997c6606c21d10107faa66724fdaa7f43c5d4ab555a5bc0aafe",
+    "bytes": 69459,
+    "retrieved_utc": "2026-11-08T21:11:36.935697+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-slide-pig-7a-1979.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/29835",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/29835",
+    "content_type": "image/jpeg",
+    "sha256": "8374f6d6f9f51e7f14cfa0aa3a3740e2015cc17b17a7633b3eef72c7e50e1bab",
+    "bytes": 47597,
+    "retrieved_utc": "2026-11-08T21:11:37.131715+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-slide-acorn-detail-1981.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/27469",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/27469",
+    "content_type": "image/jpeg",
+    "sha256": "1d5fadcb1a246397bac24d19aa0f410cb887475d707c01332e1b147487f1b770",
+    "bytes": 89556,
+    "retrieved_utc": "2026-11-08T21:11:37.224250+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-slide-pig-7a-1982.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/28987",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/28987",
+    "content_type": "image/jpeg",
+    "sha256": "a43970a666047f12623c19b97d8a8fdf52ae0e7cfd036a4d1cb83b69876b0ca8",
+    "bytes": 39671,
+    "retrieved_utc": "2026-11-08T21:11:37.169763+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-slide-pig-7b-1981.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/27503",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/27503",
+    "content_type": "image/jpeg",
+    "sha256": "283eb4bae021eae672a66b7d5d23a05fba3be426e38383f5f9b7aa17638996c3",
+    "bytes": 42781,
+    "retrieved_utc": "2026-11-08T21:11:37.177896+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "wake-fine-arts-finding-aid.html",
+    "url": "https://libraryarchives.wakegov.com/repositories/2/resources/43",
+    "status": "failed",
+    "error": "Empty response; no source content retrieved"
+  },
+  {
+    "file": "raleigh-letter-farley-1976-05-17.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98176",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98176",
+    "content_type": "image/jpeg",
+    "sha256": "fab7733afb16201aef9594345a03e3166306d4ddd342d27c65c6f50e65440d06",
+    "bytes": 110308,
+    "retrieved_utc": "2026-11-08T21:15:39.967171+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-progress-report-1976-08-31.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98180",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98180",
+    "content_type": "image/jpeg",
+    "sha256": "66424668285e86cd0f712933f12a0fb41258639ac2657902f996e2407b58fb30",
+    "bytes": 248711,
+    "retrieved_utc": "2026-11-08T21:15:40.000112+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-layton-proposal-1976-12-06.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98184",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98184",
+    "content_type": "image/jpeg",
+    "sha256": "8a03c6a129e2a4d76f1eac6c8192dca109ba3faf1e30539a06ccae2d61bac0c7",
+    "bytes": 150751,
+    "retrieved_utc": "2026-11-08T21:15:39.924469+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-fundraising-letter-1977-02-28.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98401",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98401",
+    "content_type": "image/jpeg",
+    "sha256": "76343c8ddda4c2a2aab1b9f422c7aa66902f97cda4d451cde46957356be87ffa",
+    "bytes": 173691,
+    "retrieved_utc": "2026-11-08T21:15:40.049953+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-funding-memo-1977-03-04.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98405",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98405",
+    "content_type": "image/jpeg",
+    "sha256": "ad63fddb58be7ef9e9f2ffdd6a513941d799e5c631d2dc07a7c772d40b8d11b5",
+    "bytes": 333736,
+    "retrieved_utc": "2026-11-08T21:15:40.263548+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-cost-estimate-1977-04-15.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98415",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98415",
+    "content_type": "image/jpeg",
+    "sha256": "854baddc76a0da3eb4b9c84a72b7d0aad183859b27e4800797fd9be88c1cb4e5",
+    "bytes": 162196,
+    "retrieved_utc": "2026-11-08T21:15:40.292482+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-spotlight-1978-images.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/35024/images",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/35024/images",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "6fae2b321f769eb52667e91f2704845c9019189073f0ab140a1681f9ef502ee9",
+    "bytes": 571,
+    "retrieved_utc": "2026-11-08T21:15:40.095172+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-restoration-arrangement-map.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/46646",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/46646",
+    "content_type": "image/jpeg",
+    "sha256": "391187184c9b8770db680f70a75b5afa0c72152ce198f135ecf10e5474a74781",
+    "bytes": 150079,
+    "retrieved_utc": "2026-11-08T21:16:29.662775+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-restoration-arrangement-map-record.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/17285",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/17285",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "b33e4679c7cb4acca162b9d01441bd9b9beac4de271694bf87225c7606fcdaca",
+    "bytes": 3990,
+    "retrieved_utc": "2026-11-08T21:16:29.917999+00:00",
+    "status": "saved",
+    "original_sha256": "9dbbb64d37c09173a08ff938b5159aee9f936e5a502b67c29cf2c339d6ce7c05",
+    "original_bytes": 1161100,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-spotlight-1978-page-4-5.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98809",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98809",
+    "content_type": "image/jpeg",
+    "sha256": "934f75309646ae740ebdc7bb87719529dd87369710c13243c208305878a6052a",
+    "bytes": 256802,
+    "retrieved_utc": "2026-11-08T21:16:29.670414+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-arrangement-map-images.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/17285/images",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/17285/images",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "cf8f119eb1cdf7bfdbd332957be1ff8610f36fc62aba33acae53941b9f67fc7f",
+    "bytes": 643,
+    "retrieved_utc": "2026-11-08T21:16:59.132390+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-spotlight-1978-page-4.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/98808",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/98808",
+    "content_type": "image/jpeg",
+    "sha256": "a8eea9c8e63e170ae0a9a3002669df99d2290d513169142acc7610595e9ca518",
+    "bytes": 254197,
+    "retrieved_utc": "2026-11-08T21:16:59.391696+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-arrangement-map-outer-key.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/46647",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/46647",
+    "content_type": "image/jpeg",
+    "sha256": "2e9da2ce191ba5e4b7bcfcd5acd7c0e7540b1d1233eff3fd5448e9155db8b0bf",
+    "bytes": 64320,
+    "retrieved_utc": "2026-11-08T21:17:33.512124+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-arrangement-map-jumper-key.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/46648",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/46648",
+    "content_type": "image/jpeg",
+    "sha256": "7dd059ec7cece0ec402d1736ba99ba5befe916425dda7669c7a934604d4f59bc",
+    "bytes": 67257,
+    "retrieved_utc": "2026-11-08T21:17:33.517357+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-arrangement-map-title.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/46649",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/46649",
+    "content_type": "image/jpeg",
+    "sha256": "618de793abfcd750c702b68085934e9089ea4d81aaa4bb75310f33ec5cebafec",
+    "bytes": 62799,
+    "retrieved_utc": "2026-11-08T21:17:33.523779+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "pullen-interpretive-story-data.json",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/f69cf8565252453f971333c4510ac146/data?f=json",
+    "final_url": "https://www.arcgis.com/sharing/rest/content/items/f69cf8565252453f971333c4510ac146/data?f=json",
+    "content_type": "application/json;charset=utf-8",
+    "sha256": "014b4fd7151ccfe5d872688fca52dbd92066a3fa61ad659bb008f413cf5c06e8",
+    "bytes": 33988,
+    "retrieved_utc": "2026-11-08T21:19:14.914959+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-standing-horse-1-romance.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/40759",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/40759",
+    "content_type": "image/jpeg",
+    "sha256": "e88145ff501931b241882f9f5e153ac421b07bb52f873bb16bec121fc7fd3d37",
+    "bytes": 108812,
+    "retrieved_utc": "2026-11-08T21:22:06.621343+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-standing-metal-horse-1.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/41822",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/41822",
+    "content_type": "image/jpeg",
+    "sha256": "3941cf7934303d16058cb62e5f829bfd34851b3484740c442e9ccf712f41b908",
+    "bytes": 185410,
+    "retrieved_utc": "2026-11-08T21:22:06.616975+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-catalog-display-settings.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/appearance/common/settings",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/appearance/common/settings",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "748ecbb5dcc137f3c1b8403ec5e7c6cd402952f287a07277e8751c7a51dae337",
+    "bytes": 594,
+    "retrieved_utc": "2026-11-08T21:23:24.638447+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-restoration-map-large.jpg",
+    "url": "https://s3.amazonaws.com/ppwebassets/release/30527/67308602-ad16-4c1e-8bb1-c28804623723_lg.JPG",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "raleigh-mgr-1983-record.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/20325",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/20325",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "3c39c843a017e152fdefbadec82e532add25144a17f040d3fbd39213882a3280",
+    "bytes": 3453,
+    "retrieved_utc": "2026-11-08T21:24:45.730577+00:00",
+    "status": "saved",
+    "original_sha256": "dca3788379251cc3833f8ec58294cf38f663816603aea91c24222136a2685cda",
+    "original_bytes": 625359,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "raleigh-mgr-1983-images.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/20325/images",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/items/20325/images",
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "ea2386c2d43d11afbfb5686c16de7651f6f6ac66d516b181066098e7c89a74fb",
+    "bytes": 488,
+    "retrieved_utc": "2026-11-08T21:24:45.380213+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-mgr-1983-front.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/44982",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/44982",
+    "content_type": "image/jpeg",
+    "sha256": "370233531e5ee9c6eae7bb3df3ff433eda0e6e50d225fd99d577390921e3f357",
+    "bytes": 90395,
+    "retrieved_utc": "2026-11-08T21:25:01.203252+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-mgr-1983-reverse.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/44983",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/44983",
+    "content_type": "image/jpeg",
+    "sha256": "926fff60d3486e3fc62cebba667629e7dd5c1c642d6b47e8bbf7decfc2800cba",
+    "bytes": 70954,
+    "retrieved_utc": "2026-11-08T21:25:01.218096+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-mgr-1983-title.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/44984",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/44984",
+    "content_type": "image/jpeg",
+    "sha256": "0b0939c8e878f53d9119dcf8d47cb6e6b696958b3be75ba495cfdf44a6f7c576",
+    "bytes": 109364,
+    "retrieved_utc": "2026-11-08T21:25:01.215018+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-cat-9a-drawing.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/50582",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/50582",
+    "content_type": "image/jpeg",
+    "sha256": "1802cc537d6af73fc60931fdcf4a69f87b6754c751df3981a08a9239ce073202",
+    "bytes": 95020,
+    "retrieved_utc": "2026-11-08T21:27:37.122968+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-cat-9b-drawing.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/33108",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/33108",
+    "content_type": "image/jpeg",
+    "sha256": "97ee3a3266a5e3976c468998c18a25626f983f4fe79460eaa3f5865681ed49c0",
+    "bytes": 91159,
+    "retrieved_utc": "2026-11-08T21:27:37.085545+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-rabbit-4a-drawing.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/46075",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/46075",
+    "content_type": "image/jpeg",
+    "sha256": "59b4307cd8c8a490c91d96eb44141eb97604c519284ed3c079ed1e46627c867e",
+    "bytes": 100680,
+    "retrieved_utc": "2026-11-08T21:27:37.090825+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-rabbits-010.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park010.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park010.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "7b10a42d9c969b5c4bb4d6e3bc1ac98a54d6ac0f71e8f92fda87934d4d4aeb76",
+    "bytes": 111823,
+    "retrieved_utc": "2026-11-08T21:32:12.506462+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-horse-rabbit-007.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park007.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park007.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "47824eb43819d4fca57adaf272cb074e0eb9890b74714075a62d830794b58d42",
+    "bytes": 129339,
+    "retrieved_utc": "2026-11-08T21:32:12.166060+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-jumpers-organ-009.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park009.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park009.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "986b6055f725df5e869846c58bed411f11c9505d993311a829dbcefe79227ea6",
+    "bytes": 121380,
+    "retrieved_utc": "2026-11-08T21:32:12.203937+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-cats-032.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park032.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park032.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "d3a59ca9866188317a7246df1087588a2dcdd7a1cc8836e8838be41201366591",
+    "bytes": 100021,
+    "retrieved_utc": "2026-11-08T21:32:12.193613+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "nca-pullen-inner-cat-039.jpg",
+    "url": "https://carousels.org/psp/PullenPark/Pullen%20Park039.jpg",
+    "final_url": "https://carousels.org/psp/PullenPark/Pullen%20Park039.jpg",
+    "content_type": "image/jpeg",
+    "sha256": "8301a7f36bb0721b558ffc118165a4b981a3eba541426c9745583e7688e0b0ee",
+    "bytes": 115223,
+    "retrieved_utc": "2026-11-08T21:32:12.626373+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-cat-18a-drawing.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/32631",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/32631",
+    "content_type": "image/jpeg",
+    "sha256": "717d99b906200dcca6225ca990b1d3096b5eea1bbec59236513f9d45287a54fa",
+    "bytes": 51785,
+    "retrieved_utc": "2026-11-08T21:33:24.880699+00:00",
+    "status": "saved"
+  }
+]

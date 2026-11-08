@@ -1,0 +1,15 @@
+{
+  "shouldUseQuerySubdomain": false,
+  "isEmailEnabled": true,
+  "emailFormName": "Email to a Friend",
+  "isFeedbackEnabled": true,
+  "feedbackFormName": "Send us Feedback or Make a Request",
+  "isImageRequestEnabled": true,
+  "imageRequestFormName": "Request Image",
+  "placeholderUrl": "https://s3.amazonaws.com/ppwebassets/release/30527/0809c775-feb5-4a07-b89d-57213d587325.png",
+  "s3BaseUrl": "https://s3.amazonaws.com/ppwebassets/release/30527",
+  "imageThumbnailStyle": 4,
+  "navOrientationId": 1,
+  "isAuthEnabled": false,
+  "webName": "City of Raleigh – HRM Program"
+}

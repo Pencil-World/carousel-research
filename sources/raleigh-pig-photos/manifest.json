@@ -1,0 +1,762 @@
+[
+  {
+    "file": "item-12287.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12287",
+    "sha256": "030b370bfe3db5c67c5d1e87250077394637f0da74b27b7f5e89c7f0b36adaac",
+    "bytes": 2436,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.090749+00:00",
+    "original_sha256": "09b3503a53931a0ffc31549ed285b20ff2e1877092adcf1d5f0226ee26e5b5b5",
+    "original_bytes": 413690,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12288.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12288",
+    "sha256": "aad0c731cf6bdfb185272568e738730bcbf94e3a655fb18d6f31f1c2e294e367",
+    "bytes": 2448,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.097792+00:00",
+    "original_sha256": "9ce41d693382e764aa36054d97315b033246d940b72dea067d09253e241867cd",
+    "original_bytes": 413602,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12289.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12289",
+    "sha256": "7bc23bf8d79040e6b7ba0d1c5c9cf442f8e99a93a1af405ca633a22561c6e941",
+    "bytes": 2440,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.091684+00:00",
+    "original_sha256": "b865f042685bd729e357688a1d09ee5ae62387065db6a377fed9610628200408",
+    "original_bytes": 413627,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12290.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12290",
+    "sha256": "4d21419cc5c20304966c6825063ac836f8135730db7de7605dd79b60d21ea7a0",
+    "bytes": 2436,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.080391+00:00",
+    "original_sha256": "614eb223e61ffb33d7318cd3d404da053048ee1527ee116a0bd8b7f066cdae8d",
+    "original_bytes": 413627,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12291.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12291",
+    "sha256": "537c026848bf635ae8af40361ce3977a64cdae871fd07a7f93b198520da63ff2",
+    "bytes": 2434,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.541968+00:00",
+    "original_sha256": "bfa9a4f06f8d8f5e0a7dbe9966192b5cf2e42838f0da59964861cda714ca4dc8",
+    "original_bytes": 413449,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12292.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12292",
+    "sha256": "b827e1dbca27db44acbb30a62f84cbe79ff1f669fe7c8ac5c81f56f8ed4a268d",
+    "bytes": 2414,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.591165+00:00",
+    "original_sha256": "f24e1cfc903b90cdaec397b6d73ccc08e5c2aebce37f5c5fe857e6dc5b1c0b69",
+    "original_bytes": 413343,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12293.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12293",
+    "sha256": "da6cfe1f914ef9484be16cd11e0beb84ff353cb820ac82146391a156aae08a8b",
+    "bytes": 2413,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.579881+00:00",
+    "original_sha256": "21e0c095db64a61389bf33d444858752e11f5f354e94c51716717a8da4fe16b6",
+    "original_bytes": 413406,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12294.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12294",
+    "sha256": "24b41b64c091fee972c124505461fd7829f4108639490d10e8e7945036e3e480",
+    "bytes": 2467,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.541369+00:00",
+    "original_sha256": "90cf7cc908bc790342154a0c5d55c114e193b587384088f6ac761612febfe312",
+    "original_bytes": 413700,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12295.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12295",
+    "sha256": "0c01964d284d0b149fc694f99531678e7a3404e92ad6355397545b327c712357",
+    "bytes": 2442,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.968401+00:00",
+    "original_sha256": "12aef4ef7d9633d6dc6a8d049a4f8ddf24ec313891da880819297f9f91470ee8",
+    "original_bytes": 413580,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12297.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12297",
+    "sha256": "41a747b194fdb0d90ef752a3e2391427c9bc7fddd04cb55a5f7f12c59980f499",
+    "bytes": 2464,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:56.961874+00:00",
+    "original_sha256": "dc3596be62c5b5cbc34a2ff1aca8b853d2b3b475ca9315002ea454553f014343",
+    "original_bytes": 413631,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12298.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12298",
+    "sha256": "d177d9c40ef4e672e8ab2183c7a0693da8df3f4b34f41bae041c9b17dcb3f570",
+    "bytes": 2424,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.056643+00:00",
+    "original_sha256": "cf48fa22caa131b65f710ee3a1871402f161bcf4febb9ce913e942afa16fdeff",
+    "original_bytes": 413434,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12299.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12299",
+    "sha256": "366c776ba50a0087dc3b62cb743f9bee2ffe263b6b9f57c1fca0eaeb4717e9c2",
+    "bytes": 2436,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.055974+00:00",
+    "original_sha256": "94973e3c410c10d94595f31e0b71160bd94cc1d2f9bc19d7bee12dbc6bcaa22b",
+    "original_bytes": 413506,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12300.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12300",
+    "sha256": "068b5626ae3a0afa7e9fe259f7f93d3c4575d22d623f7f2a2e3a9f9865b407ab",
+    "bytes": 2428,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.377163+00:00",
+    "original_sha256": "8a0f96a6b5b8f8ec716754e4127f6d11855fbf683a279fd9da3bcae7af35019c",
+    "original_bytes": 413471,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12301.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12301",
+    "sha256": "b8a1bec945fb0ba48d9eb596be0caeb439a2b50bbed4431137a534365176891c",
+    "bytes": 2454,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.421833+00:00",
+    "original_sha256": "c2b222e3863b043cbf8032f19ec06d87074add3d07fa666125ced6ce57e002bc",
+    "original_bytes": 413601,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12302.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12302",
+    "sha256": "1ec248c4eb3b2f3b0f4e68548c9ac752470aabec0b726869a07e5a2ff5fbd773",
+    "bytes": 2449,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.506442+00:00",
+    "original_sha256": "08becf2a30f3c4e9f4d76e86d062e9666d59ab9f1f118a6d3a9472ef9d9a15b2",
+    "original_bytes": 413632,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12304.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12304",
+    "sha256": "fa7666c0f411757a1696ddb7fd98b6b9007758ca117a91b5a51b511d3334c248",
+    "bytes": 2497,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.520459+00:00",
+    "original_sha256": "74c1fe449df8c363b638c183bb079ac24da1f052e8e7404e53d48eb2195a6a53",
+    "original_bytes": 413775,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12305.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12305",
+    "sha256": "0d7cb6c136e294a32c1dc11e6ad5bccf0ee7963a85fa5a86f38a1e2bf21be646",
+    "bytes": 2494,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.859882+00:00",
+    "original_sha256": "bcce583f94591ea63978afc5bc505ec3bb10817339032aa7f186920ca0105bad",
+    "original_bytes": 413732,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12306.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12306",
+    "sha256": "3aef2d3d6ba62454f1eb4434990d604f17d1e6bf3f2e876e5b4fdf57b6f84752",
+    "bytes": 2481,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.828511+00:00",
+    "original_sha256": "fc08d2b57fb8eaad1fca68abec47cc9b20182fda9d25688f6fbcfe2586bd64c2",
+    "original_bytes": 413751,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12307.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12307",
+    "sha256": "56eaf0ca79cd7b27b4ed43c3beeedbeed6ff637088bb033ff84c1929c7697b8e",
+    "bytes": 2486,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.917976+00:00",
+    "original_sha256": "dd14faf27d51fbd5bb69a680fd123def5577c418514c9e300cedd1b43ad6366c",
+    "original_bytes": 413792,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12308.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12308",
+    "sha256": "4c14334210703201b31367fa4a2159372060acb6edd491d23ca1a5f1eb82a82b",
+    "bytes": 2478,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:57.977853+00:00",
+    "original_sha256": "51c83c14ff447f98781a0251d4f2c42b2b1ea14d4b8e33d7cfd8cad0c7a3baeb",
+    "original_bytes": 413737,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12309.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12309",
+    "sha256": "14da904a5bd7469d1975813cf918d78dbf9575a9b8534b3e6088b179f2552007",
+    "bytes": 2483,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.230052+00:00",
+    "original_sha256": "105872867eb128645cf14e1b8f5f653744983af544c1ebd7abbbdd98709cb6a7",
+    "original_bytes": 413782,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12311.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12311",
+    "sha256": "13c1b2357c03c12cc0c21b671fca39788495b5a4594d4952f77a28772ccf658b",
+    "bytes": 2490,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.323788+00:00",
+    "original_sha256": "ad2baaaa925f7b439c03163a58eababafeafc5c5a20a9481a21e82f5f7d3e5de",
+    "original_bytes": 413800,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12312.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12312",
+    "sha256": "546c466f5550d3f6c42b60add1b3ef0e02e9326d80d19e5467a189c6aef59c31",
+    "bytes": 2451,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.400315+00:00",
+    "original_sha256": "84894abc99a339a789efaf5163b4d7016ac1b548c90ffe8977b21faad400eb5a",
+    "original_bytes": 413562,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12313.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12313",
+    "sha256": "0f9f4dda4db64d02cb853b7923cd9c574fb43d131836308053695e1e77698117",
+    "bytes": 2388,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.476382+00:00",
+    "original_sha256": "c8eac2482bad749c8ade127ade5d85064dcc911b4df639fccccb4658f653cbd4",
+    "original_bytes": 413110,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12316.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12316",
+    "sha256": "ae2eb191f49e74d06d48324ffd7c59a6d2dec8cbe8182ccb1c69ac28c289a238",
+    "bytes": 2407,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.709881+00:00",
+    "original_sha256": "76bfbf40129943832facf7a72362b0c0a5c75a2f4488926e0817abb8be0d4212",
+    "original_bytes": 413200,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-12317.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/12317",
+    "sha256": "62efbc492d7c3dbd75353ef0660a043145299c467c53f1cf06ddf4005a8083cc",
+    "bytes": 2390,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.780231+00:00",
+    "original_sha256": "f0eb77cbb56f3e460d9d6bd9fbc558249a40c656738e78752f1489886fbf9984",
+    "original_bytes": 413119,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13148.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13148",
+    "sha256": "f05731afd9e89c84e2bd6d5bb8445d2acb187123143ed33c0e4900d81e893203",
+    "bytes": 2650,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.850554+00:00",
+    "original_sha256": "60c5928e5c5838178fa17f1b88bc19ea860ea20d9f4e04cf3baacb9443fc66df",
+    "original_bytes": 416427,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13149.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13149",
+    "sha256": "006667c5a58591c78a3b8372cb49dc4cb5903ddb7a8e9d58f13c450192d7c6d2",
+    "bytes": 2634,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:58.936194+00:00",
+    "original_sha256": "bb84eb4ad6b3b649a45aa8749cac06c72e709e316d691ec432907ad56a677695",
+    "original_bytes": 416359,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13150.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13150",
+    "sha256": "1fa9466f19756e31399172a902c3359d3f38866672937dd3481cf0426408300e",
+    "bytes": 2624,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.157598+00:00",
+    "original_sha256": "489a398f5fe12ba953f98dacf62a83b6022247c45ffd5160e030076618293cbb",
+    "original_bytes": 416313,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13154.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13154",
+    "sha256": "636a7ab1be9d1c90fa2be197ab525d9d452799c2160a995f0b99423246b805f1",
+    "bytes": 2702,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.233939+00:00",
+    "original_sha256": "17ad6e306d87c5de924e61805187c21a75d39858fa87d9a9a1d774c334d0edc3",
+    "original_bytes": 416698,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13155.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13155",
+    "sha256": "a2f4bee2ae7df18cfd7cc898f2224c893be0e8f6e4b61f6e31d1c49f2658e9fb",
+    "bytes": 2809,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.307407+00:00",
+    "original_sha256": "355cdb19906c028f2899a8f1073124d13ecfa3b7a0c6a5b270122ccb8b7aefb1",
+    "original_bytes": 417433,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13156.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13156",
+    "sha256": "e92c83a36b5e7d5a4ee879430747bd50fbe6fd2ac429f623b49ec858c224e82e",
+    "bytes": 2708,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.369099+00:00",
+    "original_sha256": "f0260feebba2dd496dfcf8676cd960e0cecf5ec98fb8bf073ae966060e48c411",
+    "original_bytes": 416873,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13157.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13157",
+    "sha256": "98d76a74994a88ed783cc7d19d43ce3d7e150c38aabf2252ccb520f9acedb36a",
+    "bytes": 2751,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.620424+00:00",
+    "original_sha256": "fc9694c8999b78bda0c5689707d603e48c4c636feb89820a55d32e383cc78088",
+    "original_bytes": 410135,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13158.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13158",
+    "sha256": "3676bdbdf6a906137e147d0623c03cb4185eb99a73419c32b29872a5c85d72dc",
+    "bytes": 2775,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.736783+00:00",
+    "original_sha256": "fcf96e8a747030bb277c877763d51ba38f827d617063fc26bdfdef72e2df6384",
+    "original_bytes": 410239,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13159.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13159",
+    "sha256": "f272b0110c7f54f6198372d1b7b3be7e0a1146f2d329f4b678c400df46508c46",
+    "bytes": 2705,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.786149+00:00",
+    "original_sha256": "c03523221fa2101d5c7b43a825231e121e9d58bbaa012db04a99da11c73f04d4",
+    "original_bytes": 416699,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13160.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13160",
+    "sha256": "ea478e054ffb671927737f98e14e7fc37be9a298d96ba9caad1f78597f095beb",
+    "bytes": 2746,
+    "retrieved_or_verified_utc": "2026-11-08T21:26:59.831456+00:00",
+    "original_sha256": "fc4d27624f98739a15d31f32b94b7560a8b7b594d6e704016052ce5b80fa4783",
+    "original_bytes": 416912,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13161.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13161",
+    "sha256": "699871fc1e2df088e6424d00edf6a8d70ab323045dec85b674fafef9b88f630e",
+    "bytes": 2774,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.106316+00:00",
+    "original_sha256": "f796b8220657e19eeccd5f22a71635c8c3484cef7c3829660222703fa624d9fe",
+    "original_bytes": 417039,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13162.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13162",
+    "sha256": "2bace0eebd056e621e2dcaacd1be468cdfcf42acc7d0d8bce2c07f6a2048ccd1",
+    "bytes": 2859,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.219691+00:00",
+    "original_sha256": "be8904e64eb0592b4cd9c4948a9804d63d56e941f04f555c707007b098fa8fa2",
+    "original_bytes": 417583,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13163.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13163",
+    "sha256": "080872305cb00c1dce22c59eb79292c38e51c2e10d9170aa417f0f62cc9c8073",
+    "bytes": 2736,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.264028+00:00",
+    "original_sha256": "5a072d53d0a9e30be4fcadfed34620b8aea5ebf3cae364f27e651d7b9f9bee90",
+    "original_bytes": 416881,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13164.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13164",
+    "sha256": "82e4e941a0cd0d8692f9926d82b2f6d154c10f36b032e3faaf87f102f11b99c4",
+    "bytes": 2868,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.283902+00:00",
+    "original_sha256": "682fcec6caebd7a6d9bcbf3005ddecafcbcfddb41317f305e669e8748b3ff3b7",
+    "original_bytes": 417642,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13165.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13165",
+    "sha256": "08f498b9fc0f88fb6d423e3653a786b942e330b173616cc73254223452a32d59",
+    "bytes": 2667,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.577247+00:00",
+    "original_sha256": "3b018e7ab60a6b208a45af29d2d7872765ff5fb69989f8705ccba5faf1bed6dc",
+    "original_bytes": 416508,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13166.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13166",
+    "sha256": "2a4d598ce04e91dccbe56b804fe29bf1d885813cad489304bb71ffdfe0879ec2",
+    "bytes": 2675,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.664102+00:00",
+    "original_sha256": "12e7b76e4abca5bd5b6c735948e732ba07fd15bad166b8d094148f1ee9aa6586",
+    "original_bytes": 416540,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13167.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13167",
+    "sha256": "d074e756666ef269e9d697eb06454dafa1499a0d7eb0d34af9abd2c1b470f94b",
+    "bytes": 2834,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.703103+00:00",
+    "original_sha256": "d19ea83bc2d4973f1bfdc80224b2aec7d1986bd36878b722990276d3febeb1d5",
+    "original_bytes": 417335,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13168.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13168",
+    "sha256": "cae7dc2b7e2b3cc4b4f28a7d2e99f003c90aa153fff1b9599aec6e6eeb49dd56",
+    "bytes": 2575,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:00.719778+00:00",
+    "original_sha256": "d2a313b1bba251f8a1137f5f18bb62d2592a4573b8682a66a1cc1685289f7ef0",
+    "original_bytes": 416084,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13169.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13169",
+    "sha256": "005690d0a3ae9436be7af4ece42c9543cfb0ae1a76dc65e36618023a701d9657",
+    "bytes": 2906,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.033909+00:00",
+    "original_sha256": "18e5e95e50c24fcc6209f3f0b93663bf5e9998295c9a4e129c321ab38b156da3",
+    "original_bytes": 417695,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13170.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13170",
+    "sha256": "fc716f3858bf6d082365cda7200eb560e5f539b843d286ad0fecbf3aa410ef61",
+    "bytes": 2877,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.120945+00:00",
+    "original_sha256": "5c3e0d5d8e274269a02307dd1ce765c9738c0aa66e7c0366be41eb5f66a6f46b",
+    "original_bytes": 417597,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13171.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13171",
+    "sha256": "86ff8e4dbbe2839849eb641df218bb0583e8a37b4cd78817be0d40f9f10ffd8c",
+    "bytes": 2731,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.149993+00:00",
+    "original_sha256": "a780c30bcd3beb6ae8b14b5cfb19484436cd702fb0fc08be410eb96efd1fa97d",
+    "original_bytes": 416960,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13172.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13172",
+    "sha256": "1860b5667537beca7d27e30a89117e669addb5f51404901b48dbda10d6b1f9ed",
+    "bytes": 2925,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.163048+00:00",
+    "original_sha256": "440047fe5e1885dcd9c677936b8f79e1fedf82d88ae5bc13d70ec5f865109ab9",
+    "original_bytes": 417947,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13196.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13196",
+    "sha256": "850093887301380c250cf7197011e3f29394aa698b908532881dc0981f09f6f9",
+    "bytes": 2827,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.479459+00:00",
+    "original_sha256": "db02af10c252248845536ed3bfb2eda8878ab5765e809327a171f1a0a32e2c53",
+    "original_bytes": 417289,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13197.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13197",
+    "sha256": "8590cca01ff16ef2817caaee29bdc00fa59d5c8a7fcd3aa92c71f9fe4c771b13",
+    "bytes": 2723,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.572011+00:00",
+    "original_sha256": "ce5127f29372dd4d302cd22c393460f277efeac1fd2890972bebc66dba247c31",
+    "original_bytes": 416764,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13198.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13198",
+    "sha256": "1e6ca759745acd9056138a4e9eaac6f86b78be9baaf6705cbd4440818a921607",
+    "bytes": 2787,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.592796+00:00",
+    "original_sha256": "10d489ccd8ab081d06af57c4f1c6f30e3d432a54bfc09a4554ddbc80ae3e8650",
+    "original_bytes": 417399,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13199.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13199",
+    "sha256": "48a6885dd3be10aa85d8fae3cea18c28280f7756060e459b0d691da973d75326",
+    "bytes": 2936,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.638868+00:00",
+    "original_sha256": "8e60827a0b2b711d2fa00a8dd728314f2cca2835b3ceb9563df0f45f52058cb4",
+    "original_bytes": 417800,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13283.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13283",
+    "sha256": "f63e1250a3e0e7fda8c35bc56f7383fe38b54210abbc9f89ddacea2bb8ba21ed",
+    "bytes": 2713,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:01.949894+00:00",
+    "original_sha256": "3ef28788443dc03bb11dda680c7d4400122d3272c4e40a8bbffe6432b078a7e5",
+    "original_bytes": 416731,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13284.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13284",
+    "sha256": "f964793dd72af91139a9eff147da75b01edd4c3320a05eb6a60a819085eee6c1",
+    "bytes": 2686,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.052991+00:00",
+    "original_sha256": "92e694dd233572b298f3e5068e43bbfbd9b1ac13e4cadbbd6c3ce0523a0ec12e",
+    "original_bytes": 416742,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13285.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13285",
+    "sha256": "c205e5f8bf9a0259d775a68fa38cd479b0d2aebe69979de03eef77fc249eacce",
+    "bytes": 2908,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.039161+00:00",
+    "original_sha256": "960956ed3483fdf4d2f304827e1ec11f5984c64f1bea3f453e8d5f684bbad6cb",
+    "original_bytes": 417675,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13286.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13286",
+    "sha256": "dedd431791012f6c841dbaeae8381271c526482f166e2450aa17db44b4a6f8ab",
+    "bytes": 2833,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.085081+00:00",
+    "original_sha256": "c23b03cd2ffb13b37b0dc2fbf2e796da0612f73de6ac75907e833cd7a2f5b3c7",
+    "original_bytes": 417310,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13332.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13332",
+    "sha256": "5c6595f3e41066dbb3da0fa64069be65b94d4a39a27f37cec820cadf1acb3044",
+    "bytes": 2641,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.431834+00:00",
+    "original_sha256": "2c488a3cf88fe453c3f119cf94be84711dd42b469ecd91c81d9fde01472f9871",
+    "original_bytes": 416236,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14594.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14594",
+    "sha256": "a25adf868b4a87dc15b662b9ab0606e3e076e9080395a5807a5d0c9eee763289",
+    "bytes": 2511,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.496449+00:00",
+    "original_sha256": "df276ffccf3e0653b6eb5699b2499dea4f50d1f996737b733d5618cc9ff54035",
+    "original_bytes": 417135,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14602.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14602",
+    "sha256": "880103eb7ae575fd4da10713dd3729368d1b51b9fffb3c4a8905996d4215cb56",
+    "bytes": 2442,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.492064+00:00",
+    "original_sha256": "dff6e6f2a736ba63f977de3d9b2af2f3db5c864b108d36a20b081dbdae10c6df",
+    "original_bytes": 416725,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14606.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14606",
+    "sha256": "b3142441e594d6d656ad54f8594981fb18a8b4aab884a0dc9e375b7858fdbb8b",
+    "bytes": 2474,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.530872+00:00",
+    "original_sha256": "2bb98c7a4538ff46ca86a1756f6f74ff0adfbd5c0783231e13bec53ddee1187f",
+    "original_bytes": 416942,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14610.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14610",
+    "sha256": "27f02b8b659b211d25835a6e1da482798885683d65c181ae965ca68c1aef54aa",
+    "bytes": 2640,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.913214+00:00",
+    "original_sha256": "c67e5c7c145dfe7d47722bf571cd2883d3f5aecea6cfee4bf419a648cb292119",
+    "original_bytes": 417724,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14617.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14617",
+    "sha256": "2b2355f8177374be51227dcc4dfb0f2ef437f19aaa9def2677366fedbdf49811",
+    "bytes": 2502,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:02.991737+00:00",
+    "original_sha256": "b7a1571448e333b55b927c6d22af3f7ce0446cd69fb1837980efccf35a9809c3",
+    "original_bytes": 417030,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14632.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14632",
+    "sha256": "6deeec31e7dd1d17f8c265335891487e1a2a991b17437f104ef665367ec245de",
+    "bytes": 2483,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.022662+00:00",
+    "original_sha256": "e22a188487fd56ac784375cf360b94112268496f55f1e2c2c8019686a48d2da2",
+    "original_bytes": 416935,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14633.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14633",
+    "sha256": "cb93e8d93b7161b6ae24fa03e93c9c483b2f2dc8da13e347ba0242fba013a541",
+    "bytes": 2511,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.002539+00:00",
+    "original_sha256": "018ac3ce12afcc8116f2090259c32ef190b11633bb5275d76d25d7051b06e737",
+    "original_bytes": 417075,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13919.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13919",
+    "sha256": "6dec567c4d1c96aef90e8db4b06ab27175b29ff6b64874309367dc4be035b9bd",
+    "bytes": 2649,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.353909+00:00",
+    "original_sha256": "3bf4c456b2c7e5bc8bf34c254e3fca030e138e4f3c2de080fbc09fc315b2fd52",
+    "original_bytes": 418008,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13920.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13920",
+    "sha256": "51d72f43cd5ee8ecfc3af82c33f3085456d89c3166ab6e45276119284b1e5f56",
+    "bytes": 2556,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.438578+00:00",
+    "original_sha256": "f7f2a19362c0306b2a1666446bed41cebaae25cf2dad6a4a2e0fe559ae2bb4e8",
+    "original_bytes": 417543,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13921.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13921",
+    "sha256": "319fc019aed47caaa32907501c63ba4e425c5db1a2574b1d614679a5b993d94f",
+    "bytes": 2611,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.450287+00:00",
+    "original_sha256": "0cdedd046ace3a543df2d19ac9df6f51ad213ba538566ce9c8c956015e5e12d7",
+    "original_bytes": 417818,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13922.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13922",
+    "sha256": "a627e4b9bfb5ea463756b6a55f3651b8710bf73c0ce3866cf4a7d25423a1d832",
+    "bytes": 2585,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.477861+00:00",
+    "original_sha256": "1ee5781211c951fc8b38c213cd498c500594990426090b165b32924cb3f5a771",
+    "original_bytes": 417678,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13923.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13923",
+    "sha256": "3fa8c2a26b674dc323c2da3077939618beaf581cb715158dcfb752be8c7266e0",
+    "bytes": 2429,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.796899+00:00",
+    "original_sha256": "7fb089f1697b64b5b3b0d8f645fd11cbb0b9561d61559653ad3bf2bac7dec490",
+    "original_bytes": 416903,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13924.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13924",
+    "sha256": "94e76abfe9f6f6475a69939053464cdacf4849759c9a479cfbdb8f8bffebc09c",
+    "bytes": 2622,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.887907+00:00",
+    "original_sha256": "5f8148cf6385bc069dd5af00690fe03713b3c8ec777c12c63fc3d4b6edaa9917",
+    "original_bytes": 417873,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-13925.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/13925",
+    "sha256": "2881ad7c03fa254ad213f7511e7f973053cc4c3c54290f709f786eeb7415632f",
+    "bytes": 2539,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.909692+00:00",
+    "original_sha256": "d559a1b72a27fecc96f49ab7184eafea3aa78928b41535edfad986aac2fc7693",
+    "original_bytes": 417463,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14017.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14017",
+    "sha256": "be9c74b28d5bce26d9980242db81e8a3d18683b45d0491f97513c4f411b6b7ad",
+    "bytes": 2637,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:03.999980+00:00",
+    "original_sha256": "01841ffd7e371a0c5e502d629002520901f9cd595b75770f98182c2a044722ea",
+    "original_bytes": 478818,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14018.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14018",
+    "sha256": "27bbcd4c7f3c8721549175f5281da2f7d6088b140759e4de4e3e110b6af34bb5",
+    "bytes": 2425,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:04.340608+00:00",
+    "original_sha256": "8dd7c65af5e5131b824f2436404aaf0228453e312cf5b267b6738d33d5643b53",
+    "original_bytes": 477759,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14023.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14023",
+    "sha256": "c6ee309dfccf95081c0a3fd84b12c202ac8ae75d27c40fdad13afd78a2ff10bc",
+    "bytes": 2526,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:04.401814+00:00",
+    "original_sha256": "35b064b3dd25281c561c4808801383dd801d2b4ae1883fd7691857615750049a",
+    "original_bytes": 478263,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14027.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14027",
+    "sha256": "e0e4edbc9516f13f11503acff614f8d00a356026629ebf279ac85015c7984e8d",
+    "bytes": 2546,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:04.424633+00:00",
+    "original_sha256": "59e2d040ba8f2f746bec7ae8a27db35234c72aef0ab480a6b8421d782a4a5ad9",
+    "original_bytes": 478484,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  },
+  {
+    "file": "item-14029.json",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/items/14029",
+    "sha256": "074c1cf13abf93f45cf9ace6f8356b0a22d96644d84bf15cd87cd5e38fce6c16",
+    "bytes": 2542,
+    "retrieved_or_verified_utc": "2026-11-08T21:27:04.499094+00:00",
+    "original_sha256": "4371b954e5704772097387fc06ee74ad5a97d61079d100622c869ab110ae825c",
+    "original_bytes": 478343,
+    "publication_transform": "Research-only public copy; see PUBLICATION.md"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 3,
+    "Items": [
+      {
+        "Id": 34949,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.042",
+        "AdditionalInfo": "Pricelist",
+        "ImageId": "98415",
+        "ThumbnailId": "a9cd1cad-1659-4100-8cd2-41152e4e6f17_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of page 1 of 2 of the <mark>Cost</mark> Estimate/Design Development Phase for Pullen Park/Phase III Site Improvements"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.042</mark>"
+          }
+        ],
+        "Name": "Pricelist"
+      },
+      {
+        "Id": 34952,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.044",
+        "AdditionalInfo": "Pricelist",
+        "ImageId": "98423",
+        "ThumbnailId": "8bad0941-3b48-4c78-bb6b-399c510f2949_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Copy of page 1 of 2 of a <mark>Cost</mark> Estimate/Design Development Phase for Pullen Park Phase III Site Improvements"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.044</mark>"
+          }
+        ],
+        "Name": "Pricelist"
+      },
+      {
+        "Id": 34967,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2024.002.059",
+        "AdditionalInfo": "Letter",
+        "ImageId": "98514",
+        "ThumbnailId": "65e48708-595c-49e0-bea1-37dd6bde30ae_thmb.jpg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Cameron estimates that the restoration would take less than one year and would <mark>cost</mark> $400 per figure as"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2024.002.059</mark>"
+          }
+        ],
+        "Name": "Letter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "PPC2018* AND lion",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T21:21:06.013480+00:00",
+  "sha256": "9970ee26ec25017e0bbd139066c8182d1619ce69195b06d7a7a9ead0aca5ebca",
+  "bytes": 5330
+}

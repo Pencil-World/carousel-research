@@ -1,0 +1,113 @@
+{
+  "Item": {
+    "Id": 20325,
+    "ItemType": 3,
+    "ItemId": "PRCR2018.008.028",
+    "AlternativeItemId": "",
+    "AlternativeItemName": "",
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "“Merry-Go-Roundup\" published by the National Carousel Association of Manchester, NH, Volume 10, Number 1, Spring 1983. The issue features “A Salute to Pullen Park’s Dentzel Carousel”. The story covers the restoration of the carousel, as well as a short history of the park and carousel. The cover has a carousel lion on it, in color.",
+    "CreationDate": "1983",
+    "Title": "Merry-Go-Roundup",
+    "ExhibitLabel": "",
+    "IsPublicAccess": true,
+    "OldNumber": "",
+    "CreatedDate": "2019-11-05T16:45:02",
+    "LastModifiedDate": "2026-03-16T19:22:48.49",
+    "CatalogDate": "2019-11-05T17:00:00",
+    "NumberOfCatalogItemImages": 3,
+    "NumberOfCatalogItemAttachments": 3,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 20325
+    },
+    "Collection": {
+      "Id": 18328,
+      "Title": "Parks, Recreation, and Cultural Resources",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 43015,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": 0,
+      "Details": null
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": null,
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": null,
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 44982,
+          "Caption": "Prcr2018.008.028 Front",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "633x850",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/44982"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 44983,
+          "Caption": "Prcr2018.008.028 Reverse",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "632x850",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/44983"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 44984,
+          "Caption": "Prcr2018.008.028 Title",
+          "IsRestricted": false,
+          "IsPublic": true,
+          "ImageDetails": "",
+          "Copyrights": "",
+          "ImageSize": "634x850",
+          "NegativeNumber": "",
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/44984"
+        }
+      }
+    ]
+  },
+  "Title": "Parks, Recreation, and Cultural Resources - PRCR2018.008.028",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

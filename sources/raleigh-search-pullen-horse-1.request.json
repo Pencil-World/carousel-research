@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "PPC2018* AND \"Horse 1\"",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T21:21:06.013047+00:00",
+  "sha256": "51688169076f60cf8fc56516e47764c4bc3503448b5876a99e8caf527d46cb5d",
+  "bytes": 7566
+}

@@ -1,0 +1,54 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 2,
+    "Items": [
+      {
+        "Id": 18231,
+        "TypeId": 104,
+        "Title": "Chavis Park Carousel - CPC2018.001.105",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "36581",
+        "ThumbnailId": "f69c11f0-57b5-4238-8547-cb0522560533_thmb.JPG",
+        "ImageCaption": "Cpc2018.001.105",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Prior to restorations of <mark>carousel</mark> animals, artists traced the detailing and designs on each animal."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "In the center of the paper is the note, \"barely visible but gives general idea & <mark>placement</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Chavis Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 20161,
+        "TypeId": 104,
+        "Title": "Chavis Park Carousel - CPC2018.001.309",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "45772",
+        "ThumbnailId": "0de2c275-be0c-4dfe-b255-3edacbeb8d21_thmb.JPG",
+        "ImageCaption": "Cpc2018.001.309",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Use this for <mark>placement</mark>. CORRECT <mark>PLACEMENT</mark>”. The paper is laminated."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Chavis Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

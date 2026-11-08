@@ -1,0 +1,100 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 4,
+    "Items": [
+      {
+        "Id": 18439,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.023",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50744",
+        "ThumbnailId": "27838015-4309-4b85-b644-8279fd8927a4_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.023",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Horse <mark>1A</mark>, which was produced by the Dentzel Company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, \"NO. <mark>1A</mark> SMALL HORSE, LEFT SIDE, BUCKSKIN\" and the remaining right edge"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.023</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18440,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.024",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "42096",
+        "ThumbnailId": "923a8542-cc5a-4572-a444-8c3d1911957d_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.024",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The top right corner reads, \"Animal No. <mark>1A</mark> LIFE SIZE.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.024</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18441,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.025",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "44079",
+        "ThumbnailId": "ec803c5f-5627-4afe-b148-86880a769834_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.025",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Horse <mark>1A</mark>, which was produced by the Dentzel Company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads, \"NO. <mark>1A</mark>, SMALL HORSE, ROMANCE SIDE, BUCKSKIN\" and the upper left corner"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.025</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18442,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.026",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "33107",
+        "ThumbnailId": "5f65653c-557f-41d4-adb0-1c5d7e724a72_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.026",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The top right corner reads, \"No. <mark>1A</mark> RIGHT REAR SADDLE BLANKET LIFE SIZE.\""
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.026</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

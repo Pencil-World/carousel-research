@@ -1,0 +1,2002 @@
+[
+  {
+    "file": ".gitattributes",
+    "bytes": 79,
+    "sha256": "085a5ab16554105ba8138853d3716ccd7a95fb9a61725c63d0a0829d14d94e86"
+  },
+  {
+    "file": ".gitignore",
+    "bytes": 45,
+    "sha256": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2"
+  },
+  {
+    "file": "CHALLENGE.md",
+    "bytes": 1773,
+    "sha256": "7109970eb15fa0ed7a2afb15da02c8f9c82aeb62b237ca022b7d73f60e7c275e"
+  },
+  {
+    "file": "EVIDENCE_INDEX.md",
+    "bytes": 4380,
+    "sha256": "2e255e1735b8c9f88d21796e1675454b4512cf39827ce61d9680348a4e3c0d90"
+  },
+  {
+    "file": "PUBLICATION.md",
+    "bytes": 2252,
+    "sha256": "caa8bf7454f753e6364acaba56309a2c2742711199d623a0ae168eadefb423e2"
+  },
+  {
+    "file": "README.md",
+    "bytes": 1875,
+    "sha256": "dc11d9f5393047ab355957a2b18496ff1f7aa56ac2ee2c7da2bb09d0a116b993"
+  },
+  {
+    "file": "RESEARCH.md",
+    "bytes": 9175,
+    "sha256": "68ea1f9e3b2ee8ff1948b2d5f449360cd0f5601509238d2b2b8dd5d282d56b1b"
+  },
+  {
+    "file": "REVIEW.md",
+    "bytes": 10518,
+    "sha256": "38c4c3c7b67ad5c090104370ca310f064fb7ab54f7a52c5ddddab2e306f7a7ea"
+  },
+  {
+    "file": "REVIEW_HANDOFF.md",
+    "bytes": 5855,
+    "sha256": "856981c74b7337db3b5279b07cca3b9bd102e82c3627823a5573f156183b32a1"
+  },
+  {
+    "file": "SEARCH_PATH.md",
+    "bytes": 13712,
+    "sha256": "7dbb1a58237c21bd23344b0ec956dc2b797ff712e34e559dc6e312b21d250229"
+  },
+  {
+    "file": "SEARCH_PATH_REVIEW.md",
+    "bytes": 5245,
+    "sha256": "a70a7b79e0019eac086c45c1957c7ff3936324baea798d2dc617a97856541b72"
+  },
+  {
+    "file": "evidence/1976-source-page-04.png",
+    "bytes": 275703,
+    "sha256": "6c6e09a07c4340c8e6753d1fb556f586aa90a123763181865ae9f841c03a7b8e"
+  },
+  {
+    "file": "evidence/1976-source-page-05.png",
+    "bytes": 251131,
+    "sha256": "4a9eda99e03bda1b3a05663d7a1ef7f57ff6c6b226562a022b52c20fb602423f"
+  },
+  {
+    "file": "evidence/1976-source-page-06.png",
+    "bytes": 249265,
+    "sha256": "36246730acc88d415d927cf9c6e298e6e26ccdcb5e67b9543bf2f802906e8da1"
+  },
+  {
+    "file": "evidence/1976-source-page-07.png",
+    "bytes": 186634,
+    "sha256": "09b63cddf33f1f13ec16725a1971fe947acfbe90ca13d118c0734bf8534061dc"
+  },
+  {
+    "file": "evidence/1976-source-page-11.png",
+    "bytes": 328545,
+    "sha256": "7f6550f2bb85171ee0b934975d530df499dcaa9198436d8bb492a7ab2d104356"
+  },
+  {
+    "file": "evidence/1976-source-page-14.png",
+    "bytes": 209115,
+    "sha256": "ec9ae995165947ff4847bf4c196137037e00b5ebaf61fcb45f0d2016a65ac20d"
+  },
+  {
+    "file": "evidence/1982-reopening-source-page-04.png",
+    "bytes": 410738,
+    "sha256": "6f54aadb4ac5330aad5a2b019a9a8cfd51b3aeceaf1244e8a4f254918379ee2c"
+  },
+  {
+    "file": "evidence/pullen-1976-layout.png",
+    "bytes": 203303,
+    "sha256": "f6a857c95dad2e68b7c4c9770df6b457168f23ed62e2abc7839bcf48662a12fd"
+  },
+  {
+    "file": "evidence/pullen-1976-photo-16.png",
+    "bytes": 1071777,
+    "sha256": "2c0970e387f10163a298d6be7260715cd9ea2c61088a5701ebfc67d9a2f6d96a"
+  },
+  {
+    "file": "evidence/pullen-1976-photo-17.png",
+    "bytes": 873145,
+    "sha256": "4ad7bfa9df41a8ef3e896ed14d535c744aeb9bbb89b4344b0d2c2c9c40191967"
+  },
+  {
+    "file": "evidence/review/city-page-01.png",
+    "bytes": 196753,
+    "sha256": "e9960cc6bd9002bc906d78548c7014292ac812c39c5b143595b25a2ca5689aa4"
+  },
+  {
+    "file": "evidence/review/city-page-02.png",
+    "bytes": 179239,
+    "sha256": "560551ce1ae0cbc05a00ff94be6a8610d4cfd7e0faf1596742c2c57a7d8946ae"
+  },
+  {
+    "file": "evidence/review/city-page-03.png",
+    "bytes": 160359,
+    "sha256": "df760c6a78eb226c523b9d0a5f5674f1806fcefaac44dab469859a74b595f751"
+  },
+  {
+    "file": "evidence/review/federal-page-16.png",
+    "bytes": 2197947,
+    "sha256": "b442175afccc2f5fba11591529a03ef1131177c6f98a91bda59584d0f34f7e74"
+  },
+  {
+    "file": "evidence/review/federal-page-17.png",
+    "bytes": 528627,
+    "sha256": "b1f31077f7adf3dd2fef9d46157b53249d895a1ff309d4f1d3db5e79b982511a"
+  },
+  {
+    "file": "evidence/review/federal-page-18.png",
+    "bytes": 1376019,
+    "sha256": "42b5c9eb1add35a9876e1194c343fa8bbab5dd2f2b6544dc41f88b0b170b7791"
+  },
+  {
+    "file": "evidence/review/federal-page-19.png",
+    "bytes": 381348,
+    "sha256": "cd840239e483aab5764605a808eb0c285e009cfdb37785e09d699001b3ed4919"
+  },
+  {
+    "file": "evidence/review/federal-page-20.png",
+    "bytes": 1233316,
+    "sha256": "0799dcf6e784020bba7e3482b9bd878a75ed3a5c6db09ea013ecff5b01bdbf77"
+  },
+  {
+    "file": "evidence/review/federal-page-21.png",
+    "bytes": 577948,
+    "sha256": "3e07cbcc0aa2a00a2a5fae06f10bc7aea7091eba7399ec4a2e8d21da01beec28"
+  },
+  {
+    "file": "evidence/review/federal-page-22.png",
+    "bytes": 3133490,
+    "sha256": "492b4ba9dfb8d5d56790beba160f984a83803c74569609bd673e1a2220da3961"
+  },
+  {
+    "file": "evidence/review/federal-page-23.png",
+    "bytes": 1187142,
+    "sha256": "cdaf4d039448638d7438bc6d892d1b31289553c49fbc9e44b4a859def6d08dbf"
+  },
+  {
+    "file": "evidence/review/federal-page-24.png",
+    "bytes": 1306434,
+    "sha256": "1a21b3cb6dce8b8cd39668c242d5291e0920f6234c61d840e1d81cccc33242e2"
+  },
+  {
+    "file": "evidence/review/federal-page-25.png",
+    "bytes": 1082932,
+    "sha256": "bf57e6870b4d30cc4c825dc76a0ca27549bab48cf458489b670086b6ac89ae89"
+  },
+  {
+    "file": "evidence/review/federal-page-26.png",
+    "bytes": 1430945,
+    "sha256": "251bbace7f63a9a6b59930a8ae7315e15c191bcf3bb0d744470d04bbae32b0a8"
+  },
+  {
+    "file": "inputs/carousel.png",
+    "bytes": 3534609,
+    "sha256": "6822095516eb9e99198078da7df0cb88ce486c1c2ed831a172ab14dc784c6baf"
+  },
+  {
+    "file": "provenance/publication-transforms.json",
+    "bytes": 57885,
+    "sha256": "2b8731f9f1ab0bb56fd5758c5fe3d27ea1322277063982b5bc372214527403ee"
+  },
+  {
+    "file": "provenance/sources-original-manifest.json",
+    "bytes": 44531,
+    "sha256": "3b0137775d77ad7340a5e903ea6e51b7d35c72822998b1760da28ef87fd3785f"
+  },
+  {
+    "file": "provenance/sources-raleigh-park-pig-photos-original-manifest.json",
+    "bytes": 2567,
+    "sha256": "f89cab149fbe646cbd7263e58910259a855765a5945e7dca21bf41286d396538"
+  },
+  {
+    "file": "provenance/sources-raleigh-pig-photos-original-manifest.json",
+    "bytes": 21663,
+    "sha256": "3b0522624183f09508ad6468eb59dbf95cf3171857590dd1f491e1736823278f"
+  },
+  {
+    "file": "provenance/sources-raleigh-project-2024-original-manifest.json",
+    "bytes": 23153,
+    "sha256": "dd9642cb63d6c377a7b5c91e710db4f3433d44ad55d9369f7d5af77a6ff04edf"
+  },
+  {
+    "file": "scripts/build_evidence.py",
+    "bytes": 936,
+    "sha256": "9fe32882a94fde57d215fec8da48a4f1d0a36e52f4520564c4188d73b125ba98"
+  },
+  {
+    "file": "scripts/download_sources.py",
+    "bytes": 13749,
+    "sha256": "590f649c1651bdbcedb1cea89a3fe99672fcd5f5832570a2f7e1cf7bf56abe5d"
+  },
+  {
+    "file": "scripts/fetch_city_records.py",
+    "bytes": 2490,
+    "sha256": "00f36556e66c153c14ff7ed56310aca4bd5e55b67eb352696e502913b25de0ea"
+  },
+  {
+    "file": "scripts/prepare_public_repository.py",
+    "bytes": 5100,
+    "sha256": "d358e477f7af92566106e8863c81529f0cda895685656ff087e040c1867e5533"
+  },
+  {
+    "file": "scripts/public_catalogue.py",
+    "bytes": 3543,
+    "sha256": "446ea9b8fb86d8b65c4c95537402bd5aac70bed9f532c4af0883dcf4da895ca4"
+  },
+  {
+    "file": "scripts/query_city_catalog.py",
+    "bytes": 2296,
+    "sha256": "0b054ea51bf191d916c9c19ede23c31c8b653143d2631bda1c1c6f5bf66a1a5c"
+  },
+  {
+    "file": "sources/american-roads-2016.html",
+    "bytes": 39372,
+    "sha256": "465123a67615c9bf0793af946f8f65846e23f9ee385e1769b65afacf107ff240"
+  },
+  {
+    "file": "sources/carousel-news-2019-spring.pdf",
+    "bytes": 7288066,
+    "sha256": "ab1269f2971d0c27b10fd24432403cc485ea83a8724c1223e0490382824b6f06"
+  },
+  {
+    "file": "sources/carousel-news-2019-spring.txt",
+    "bytes": 152095,
+    "sha256": "899194856ecd1637515734477cff84eb99fdc491d9187e0bc38855f2c73dbad4"
+  },
+  {
+    "file": "sources/download-manifest.json",
+    "bytes": 46501,
+    "sha256": "e90a1fef4eca0608638701b0315350902c2050d411bc8abde29d33c3a5f236c7"
+  },
+  {
+    "file": "sources/nca-guide-003-promotion-restoration.pdf",
+    "bytes": 10681320,
+    "sha256": "6033c6b6443241af16d19a76cc0f2be787732c6dbf00694682c2d7fb6e0b66a8"
+  },
+  {
+    "file": "sources/nca-guide-003-promotion-restoration.txt",
+    "bytes": 153417,
+    "sha256": "18f7d5d36ba4972d246713b46500f70bf53c29d809ffedb82a21162ace916a75"
+  },
+  {
+    "file": "sources/nca-guide-004-restoration.pdf",
+    "bytes": 9743061,
+    "sha256": "73fbbd028b39da6dc8cd92e815ffbda3bf8b14183f90096fc953fbd0fffd08a2"
+  },
+  {
+    "file": "sources/nca-guide-004-restoration.txt",
+    "bytes": 136949,
+    "sha256": "455f9011de388281a2d9f7df47ee53ee44b22a7e968deda5c32eda1ac41d10e4"
+  },
+  {
+    "file": "sources/nca-guide-005-publicity.pdf",
+    "bytes": 8558158,
+    "sha256": "536f983940280fd2a28800c453fd9cf81c54979cc763858774530e3f7de01968"
+  },
+  {
+    "file": "sources/nca-guide-005-publicity.txt",
+    "bytes": 140967,
+    "sha256": "a5b093c8ea4bcac8db32a41b3e0b366206d5d21a8bd53304d71a6b252dd7f76f"
+  },
+  {
+    "file": "sources/nca-guide-006-operation.pdf",
+    "bytes": 9030834,
+    "sha256": "52c7db2ec3768b9411fc74acca3020f1150050e29f294adcee0aeb18fad7ea13"
+  },
+  {
+    "file": "sources/nca-guide-006-operation.txt",
+    "bytes": 103178,
+    "sha256": "180c54803ae41d97154ad35f549f709420d006f4c54a2d464c58ba4c6d20fe62"
+  },
+  {
+    "file": "sources/nca-guide-008-pullen-restoration-news.pdf",
+    "bytes": 7504922,
+    "sha256": "67491719a3d3c4abae80b720b6a8eaa0a3dad6e63d53a5e2663f8b25cf648c0e"
+  },
+  {
+    "file": "sources/nca-guide-008-pullen-restoration-news.txt",
+    "bytes": 68913,
+    "sha256": "2f5c0d046f284705212311cd657bb6c4e29c271939630383686305f9295aee02"
+  },
+  {
+    "file": "sources/nca-guide-015-fundraising.pdf",
+    "bytes": 5481756,
+    "sha256": "01428837866cba3a36c137a83ae8044e31b77c52a55436630dfac5c265c4fb4a"
+  },
+  {
+    "file": "sources/nca-guide-015-fundraising.txt",
+    "bytes": 82271,
+    "sha256": "179e859b728546d5a47312e47e9a22bcb14d2b59ecade859dbf24c140a9f77db"
+  },
+  {
+    "file": "sources/nca-guide-016-fundraising.pdf",
+    "bytes": 11866662,
+    "sha256": "1bdbc8164b5780e4b82550ca063fd4e72e9456082fab89cfdfd2b4f3f6bbb798"
+  },
+  {
+    "file": "sources/nca-guide-016-fundraising.txt",
+    "bytes": 150141,
+    "sha256": "7685e665a661099e543dd3a8f301b2a934dfb83db737a2c1ba637cd634fefbe7"
+  },
+  {
+    "file": "sources/nca-guide-017-fundraising.pdf",
+    "bytes": 7575656,
+    "sha256": "41be3f4762bd132b3a3345fef78ff0ab4747b3dccce5cfc57c9d649eeab9ac62"
+  },
+  {
+    "file": "sources/nca-guide-017-fundraising.txt",
+    "bytes": 114590,
+    "sha256": "dec583a6749be306919fe1c219350b59ce0bf47ff4a4bef0326196a4c2318c7f"
+  },
+  {
+    "file": "sources/nca-pullen-004-caption.html",
+    "bytes": 4246,
+    "sha256": "9bd72c24431deea89b93698ac801b8eb5dd16fcfe24237bb1757df6cbbf4aaa4"
+  },
+  {
+    "file": "sources/nca-pullen-022-caption.html",
+    "bytes": 4237,
+    "sha256": "04380bacec1eeaae253363585aff82def76bfa040d69b2d0ab9450277b9e7a0c"
+  },
+  {
+    "file": "sources/nca-pullen-023-caption.html",
+    "bytes": 4199,
+    "sha256": "b93aa485eda9621bf57a04db0d9929c29c1e99a2026daca05a46e6fc6f895360"
+  },
+  {
+    "file": "sources/nca-pullen-cats-032.jpg",
+    "bytes": 100021,
+    "sha256": "d3a59ca9866188317a7246df1087588a2dcdd7a1cc8836e8838be41201366591"
+  },
+  {
+    "file": "sources/nca-pullen-census.html",
+    "bytes": 5805,
+    "sha256": "66a39fe07ed8ae8514e9965aafdf684092dfbc20dc7a3535526c2beca55aadb6"
+  },
+  {
+    "file": "sources/nca-pullen-chariot-and-giraffe.jpg",
+    "bytes": 112950,
+    "sha256": "98df98bad8feaab77d6268e969bdb207abeef31145a1d12279f3c47bcb544006"
+  },
+  {
+    "file": "sources/nca-pullen-chariot.jpg",
+    "bytes": 86088,
+    "sha256": "098bda42a547769744ab1acdccbf83ee02438a7d44dc35e9af4b6ca85197df2f"
+  },
+  {
+    "file": "sources/nca-pullen-flag-horse-and-lion.jpg",
+    "bytes": 117402,
+    "sha256": "45b8ad957d43ecc097890e33e484de27b9720d9e72a326457218951e26a372d7"
+  },
+  {
+    "file": "sources/nca-pullen-horse-rabbit-007.jpg",
+    "bytes": 129339,
+    "sha256": "47824eb43819d4fca57adaf272cb074e0eb9890b74714075a62d830794b58d42"
+  },
+  {
+    "file": "sources/nca-pullen-horses-cat-view.jpg",
+    "bytes": 121541,
+    "sha256": "8af4d1b0775fdec5b4b2163c3a658a8a6c0a89753df053eb0071209e34ec51c7"
+  },
+  {
+    "file": "sources/nca-pullen-inner-cat-039.jpg",
+    "bytes": 115223,
+    "sha256": "8301a7f36bb0721b558ffc118165a4b981a3eba541426c9745583e7688e0b0ee"
+  },
+  {
+    "file": "sources/nca-pullen-jumpers-organ-009.jpg",
+    "bytes": 121380,
+    "sha256": "986b6055f725df5e869846c58bed411f11c9505d993311a829dbcefe79227ea6"
+  },
+  {
+    "file": "sources/nca-pullen-lion.jpg",
+    "bytes": 120664,
+    "sha256": "83fd24404ee90b462d3d2fa39c001c8cb9de6ef117ab6c1ebb489738aaf03c9f"
+  },
+  {
+    "file": "sources/nca-pullen-mule.jpg",
+    "bytes": 112844,
+    "sha256": "0ef07842d23757a12e3a51db45bda266ffc50ece4558f8d531723020aba9689a"
+  },
+  {
+    "file": "sources/nca-pullen-photo-index.html",
+    "bytes": 36033,
+    "sha256": "8ea346b3fdafafe81dfa9a83844514fe3151cc7e3d3f0e82991736374e00b142"
+  },
+  {
+    "file": "sources/nca-pullen-rabbits-010.jpg",
+    "bytes": 111823,
+    "sha256": "7b10a42d9c969b5c4bb4d6e3bc1ac98a54d6ac0f71e8f92fda87934d4d4aeb76"
+  },
+  {
+    "file": "sources/nca-pullen-second-row-horse-017.jpg",
+    "bytes": 107196,
+    "sha256": "581ebee06af3b42157117616e20aa2d146e20a1653b38c8a078a5557757d7c0e"
+  },
+  {
+    "file": "sources/nca-pullen-second-row-horse-020.jpg",
+    "bytes": 107740,
+    "sha256": "4504b2adcbcad630cb92c2f4d40cc2c454b2194d1187cdf0d96e8ec1e2132663"
+  },
+  {
+    "file": "sources/nca-pullen-second-row-horse-034.jpg",
+    "bytes": 116547,
+    "sha256": "49a91f0d7203f987a670a288e2099f4b246ec69a26cad9da496932ff6c17f5fe"
+  },
+  {
+    "file": "sources/nca-pullen-second-row-pig.jpg",
+    "bytes": 119072,
+    "sha256": "1973353a9ccd93d7ab8970bed4f27ba16f9ea035b650a34329d7110a8bacf557"
+  },
+  {
+    "file": "sources/nca-pullen-tiger.jpg",
+    "bytes": 105101,
+    "sha256": "f245dd6da9b63987e12e043b7dd106b4d24e359274c68e1f166963aa734068f1"
+  },
+  {
+    "file": "sources/nca-pullen-two-pigs.jpg",
+    "bytes": 117928,
+    "sha256": "56854c4f16e66dc27e7dda2d1f29ac8f7da3164926262719c8cd11c1fcc78671"
+  },
+  {
+    "file": "sources/pullen-1976-national-register.pdf",
+    "bytes": 2446993,
+    "sha256": "e28dd30981e53602d26a545076d4da37c75ddae42d1f47ac12fdcf2d7191f59b"
+  },
+  {
+    "file": "sources/pullen-1976-national-register.txt",
+    "bytes": 44190,
+    "sha256": "a32b59620683ed5034d484422d0b671fab4db1073da1ee678489234e57fc5388"
+  },
+  {
+    "file": "sources/pullen-city-landmark-report.pdf",
+    "bytes": 3323637,
+    "sha256": "6bd37d95028f489923f6cccfffa484096e7dbac44a9bf404dd5000304924c924"
+  },
+  {
+    "file": "sources/pullen-city-landmark-report.txt",
+    "bytes": 44193,
+    "sha256": "c0ed051ee7c7c321bf95f320f18caf9ef7a4cead80711e53ab3fa4b500e043c9"
+  },
+  {
+    "file": "sources/pullen-interpretive-story-data.json",
+    "bytes": 33988,
+    "sha256": "014b4fd7151ccfe5d872688fca52dbd92066a3fa61ad659bb008f413cf5c06e8"
+  },
+  {
+    "file": "sources/pullen-nara-76001344.pdf",
+    "bytes": 59325643,
+    "sha256": "383bb8abae13a0ea95e98ad3991dd54ed24cb46c469c4c9e05f05147368ba8f6"
+  },
+  {
+    "file": "sources/pullen-nara-76001344.txt",
+    "bytes": 63895,
+    "sha256": "f884ad66d45a157f4bd084a5d069c5af249f1084ea0e68c3827f2d22bfe3f021"
+  },
+  {
+    "file": "sources/raleigh-archive-18630-view.html",
+    "bytes": 26843,
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75"
+  },
+  {
+    "file": "sources/raleigh-archive-18634-view.html",
+    "bytes": 26843,
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75"
+  },
+  {
+    "file": "sources/raleigh-arrangement-map-images.json",
+    "bytes": 643,
+    "sha256": "cf8f119eb1cdf7bfdbd332957be1ff8610f36fc62aba33acae53941b9f67fc7f"
+  },
+  {
+    "file": "sources/raleigh-arrangement-map-jumper-key.jpg",
+    "bytes": 67257,
+    "sha256": "7dd059ec7cece0ec402d1736ba99ba5befe916425dda7669c7a934604d4f59bc"
+  },
+  {
+    "file": "sources/raleigh-arrangement-map-outer-key.jpg",
+    "bytes": 64320,
+    "sha256": "2e9da2ce191ba5e4b7bcfcd5acd7c0e7540b1d1233eff3fd5448e9155db8b0bf"
+  },
+  {
+    "file": "sources/raleigh-arrangement-map-title.jpg",
+    "bytes": 62799,
+    "sha256": "618de793abfcd750c702b68085934e9089ea4d81aaa4bb75310f33ec5cebafec"
+  },
+  {
+    "file": "sources/raleigh-cat-18a-drawing.jpg",
+    "bytes": 51785,
+    "sha256": "717d99b906200dcca6225ca990b1d3096b5eea1bbec59236513f9d45287a54fa"
+  },
+  {
+    "file": "sources/raleigh-cat-9a-drawing.jpg",
+    "bytes": 95020,
+    "sha256": "1802cc537d6af73fc60931fdcf4a69f87b6754c751df3981a08a9239ce073202"
+  },
+  {
+    "file": "sources/raleigh-cat-9b-drawing.jpg",
+    "bytes": 91159,
+    "sha256": "97ee3a3266a5e3976c468998c18a25626f983f4fe79460eaa3f5865681ed49c0"
+  },
+  {
+    "file": "sources/raleigh-catalog-display-settings.json",
+    "bytes": 594,
+    "sha256": "748ecbb5dcc137f3c1b8403ec5e7c6cd402952f287a07277e8751c7a51dae337"
+  },
+  {
+    "file": "sources/raleigh-cost-estimate-1977-04-15.jpg",
+    "bytes": 162196,
+    "sha256": "854baddc76a0da3eb4b9c84a72b7d0aad183859b27e4800797fd9be88c1cb4e5"
+  },
+  {
+    "file": "sources/raleigh-drawing-pig-16a.jpg",
+    "bytes": 128869,
+    "sha256": "4611615b1e17b8444b68c052dcb16673402f4745a7d801eb52a79356cae77dff"
+  },
+  {
+    "file": "sources/raleigh-drawing-pig-16b.jpg",
+    "bytes": 69459,
+    "sha256": "1a87eeeec7fa0997c6606c21d10107faa66724fdaa7f43c5d4ab555a5bc0aafe"
+  },
+  {
+    "file": "sources/raleigh-drawing-pig-7a.jpg",
+    "bytes": 83208,
+    "sha256": "28dadc8fc899f65f8c0e75c83e22ca67cb3b5f8cfdf2db845131b26f51f481e2"
+  },
+  {
+    "file": "sources/raleigh-drawing-pig-7b-saddle.jpg",
+    "bytes": 59380,
+    "sha256": "aa489aaf0f18e92accdf73da16724d48830506e37b78a5faee8afa59fff7786c"
+  },
+  {
+    "file": "sources/raleigh-fine-arts-2015-newsletter.html",
+    "bytes": 61458,
+    "sha256": "4a065dfd8a99457574c308fe1c39711f6d187af4bf8be971905ba633eba39422"
+  },
+  {
+    "file": "sources/raleigh-funding-memo-1977-03-04.jpg",
+    "bytes": 333736,
+    "sha256": "ad63fddb58be7ef9e9f2ffdd6a513941d799e5c631d2dc07a7c772d40b8d11b5"
+  },
+  {
+    "file": "sources/raleigh-fundraising-letter-1977-02-28.jpg",
+    "bytes": 173691,
+    "sha256": "76343c8ddda4c2a2aab1b9f422c7aa66902f97cda4d451cde46957356be87ffa"
+  },
+  {
+    "file": "sources/raleigh-hrm-catalog-app.js",
+    "bytes": 25321,
+    "sha256": "50e1c9ff8cab7d15bf872df02348218c7f813f79774df49af13d2911209b6745"
+  },
+  {
+    "file": "sources/raleigh-hrm-catalog-home.html",
+    "bytes": 11217,
+    "sha256": "708d408f5e75f92c94d3aa5a80e363caf5bf5faa9edc4e5abb0b05540645c498"
+  },
+  {
+    "file": "sources/raleigh-hrm-catalog-libs.js",
+    "bytes": 366460,
+    "sha256": "a941144360dbbaf9228a365906ee56d4a0e46f4b32d644ff240904a29794de57"
+  },
+  {
+    "file": "sources/raleigh-hrm-collections.html",
+    "bytes": 106444,
+    "sha256": "27f7be0e586da2e5ab33c5ccebe009f3e1007a9686c96e874ea79e675f02efb7"
+  },
+  {
+    "file": "sources/raleigh-hrm-item-details.js",
+    "bytes": 25356,
+    "sha256": "d0dce948505e6725e81ea7894c00169949a7019625ba16730cb06c35d1948ab0"
+  },
+  {
+    "file": "sources/raleigh-hrm-keyword-search.js",
+    "bytes": 13280,
+    "sha256": "66e69aa8188b2ee967b70e88e1d2e29038ee82a5708aa746200dab52a88a28fb"
+  },
+  {
+    "file": "sources/raleigh-hrm-search-view.html",
+    "bytes": 21468,
+    "sha256": "b2f1caeebe498f49ec1099a4c691c1e20c75a00f4eb17771742d572dda1269bb"
+  },
+  {
+    "file": "sources/raleigh-item-12287.json",
+    "bytes": 2436,
+    "sha256": "030b370bfe3db5c67c5d1e87250077394637f0da74b27b7f5e89c7f0b36adaac"
+  },
+  {
+    "file": "sources/raleigh-item-12294.json",
+    "bytes": 2467,
+    "sha256": "24b41b64c091fee972c124505461fd7829f4108639490d10e8e7945036e3e480"
+  },
+  {
+    "file": "sources/raleigh-item-12299.json",
+    "bytes": 2436,
+    "sha256": "366c776ba50a0087dc3b62cb743f9bee2ffe263b6b9f57c1fca0eaeb4717e9c2"
+  },
+  {
+    "file": "sources/raleigh-item-12312.json",
+    "bytes": 2451,
+    "sha256": "546c466f5550d3f6c42b60add1b3ef0e02e9326d80d19e5467a189c6aef59c31"
+  },
+  {
+    "file": "sources/raleigh-item-18630.json",
+    "bytes": 2813,
+    "sha256": "1a62a65641cb8fb85a7a9dfaadf8846bdb59e9298c50c57ee76c34c5a3734a96"
+  },
+  {
+    "file": "sources/raleigh-item-18634.json",
+    "bytes": 2493,
+    "sha256": "971d232e0454ba52297fd2653e349651e3a576bbef9032cc077e8e2d11d40b10"
+  },
+  {
+    "file": "sources/raleigh-item-20734.json",
+    "bytes": 2928,
+    "sha256": "ada0d8e5d32f12c92ee8a998abebce48640575f7915eb59c85c62d8525f58c1b"
+  },
+  {
+    "file": "sources/raleigh-item-20738.json",
+    "bytes": 2592,
+    "sha256": "84cd5fd8c08d124bc6bb10946bdee280344b38cbfbbf77c25054fa4bd3350dfd"
+  },
+  {
+    "file": "sources/raleigh-layton-proposal-1976-12-06.jpg",
+    "bytes": 150751,
+    "sha256": "8a03c6a129e2a4d76f1eac6c8192dca109ba3faf1e30539a06ccae2d61bac0c7"
+  },
+  {
+    "file": "sources/raleigh-letter-farley-1976-05-17.jpg",
+    "bytes": 110308,
+    "sha256": "fab7733afb16201aef9594345a03e3166306d4ddd342d27c65c6f50e65440d06"
+  },
+  {
+    "file": "sources/raleigh-mgr-1983-front.jpg",
+    "bytes": 90395,
+    "sha256": "370233531e5ee9c6eae7bb3df3ff433eda0e6e50d225fd99d577390921e3f357"
+  },
+  {
+    "file": "sources/raleigh-mgr-1983-images.json",
+    "bytes": 488,
+    "sha256": "ea2386c2d43d11afbfb5686c16de7651f6f6ac66d516b181066098e7c89a74fb"
+  },
+  {
+    "file": "sources/raleigh-mgr-1983-record.json",
+    "bytes": 3453,
+    "sha256": "3c39c843a017e152fdefbadec82e532add25144a17f040d3fbd39213882a3280"
+  },
+  {
+    "file": "sources/raleigh-mgr-1983-reverse.jpg",
+    "bytes": 70954,
+    "sha256": "926fff60d3486e3fc62cebba667629e7dd5c1c642d6b47e8bbf7decfc2800cba"
+  },
+  {
+    "file": "sources/raleigh-mgr-1983-title.jpg",
+    "bytes": 109364,
+    "sha256": "0b0939c8e878f53d9119dcf8d47cb6e6b696958b3be75ba495cfdf44a6f7c576"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/descriptions.json",
+    "bytes": 6926,
+    "sha256": "0ea5477c7b45d7b4b01ea3e0f73af06cf4228f50132a8aeeccc4e37aa01b1a81"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28344.json",
+    "bytes": 3298,
+    "sha256": "e701410c506e750950009350a2930802a66419a5a7e6a0920e41f2fd1085ff42"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28347.json",
+    "bytes": 2862,
+    "sha256": "9c627d7cd2ec6bc041f3d9421cc157e02ba26592bc87985afd2c93e531895b79"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28349.json",
+    "bytes": 3209,
+    "sha256": "a6294aa2190c8686e8ce9370a7524d99d8269d5a05420afd947ae5266519feba"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28374.json",
+    "bytes": 3092,
+    "sha256": "312ee089b6e3e6a8281e44f3fa18e24a4a94861e42d3db01d3a1d97eae14210c"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28384.json",
+    "bytes": 3757,
+    "sha256": "fd088557cb1c6934c220b8d19a646d6ef7710f8e97e0d8872644e275c5507ec9"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28385.json",
+    "bytes": 3282,
+    "sha256": "a198e5f6f289438f4fb55f5639b064e40ba50e4bd725bc47b1b8e49f92c032e0"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28390.json",
+    "bytes": 3295,
+    "sha256": "08ccda29e037fbd8061018d74559a81dd6386f157c738f5734285b1327f7c7ca"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-28391.json",
+    "bytes": 3286,
+    "sha256": "0ec19a63d07c981517d8c798031e87ec0233e459177d16a94432621b85d53aeb"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/item-9193.json",
+    "bytes": 4360,
+    "sha256": "342976a6b694d33a4530a3a63186a210868cf8eab182c2dbf8253ca5947b14e1"
+  },
+  {
+    "file": "sources/raleigh-park-pig-photos/manifest.json",
+    "bytes": 4340,
+    "sha256": "2932e993478bbe257269dc68842db659e5dbcb843ae40e103962ac1d888afe0c"
+  },
+  {
+    "file": "sources/raleigh-photo-12287-view.html",
+    "bytes": 26843,
+    "sha256": "27c14ffcbf05849bbed91fb9f37196e422be1818279a5a754a1802064176ce75"
+  },
+  {
+    "file": "sources/raleigh-pig-park-photo-selection.json",
+    "bytes": 6211,
+    "sha256": "7451e3c88fcef1b1ccf318771ef2d91501b7bcece21d3195e12793a332d1eb18"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/descriptions.json",
+    "bytes": 40509,
+    "sha256": "b7af87a1fc40b870a582079c30bbfef85727ee2456a9ae4889cb5adb66ee37d7"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12287.json",
+    "bytes": 2436,
+    "sha256": "030b370bfe3db5c67c5d1e87250077394637f0da74b27b7f5e89c7f0b36adaac"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12288.json",
+    "bytes": 2448,
+    "sha256": "aad0c731cf6bdfb185272568e738730bcbf94e3a655fb18d6f31f1c2e294e367"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12289.json",
+    "bytes": 2440,
+    "sha256": "7bc23bf8d79040e6b7ba0d1c5c9cf442f8e99a93a1af405ca633a22561c6e941"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12290.json",
+    "bytes": 2436,
+    "sha256": "4d21419cc5c20304966c6825063ac836f8135730db7de7605dd79b60d21ea7a0"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12291.json",
+    "bytes": 2434,
+    "sha256": "537c026848bf635ae8af40361ce3977a64cdae871fd07a7f93b198520da63ff2"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12292.json",
+    "bytes": 2414,
+    "sha256": "b827e1dbca27db44acbb30a62f84cbe79ff1f669fe7c8ac5c81f56f8ed4a268d"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12293.json",
+    "bytes": 2413,
+    "sha256": "da6cfe1f914ef9484be16cd11e0beb84ff353cb820ac82146391a156aae08a8b"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12294.json",
+    "bytes": 2467,
+    "sha256": "24b41b64c091fee972c124505461fd7829f4108639490d10e8e7945036e3e480"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12295.json",
+    "bytes": 2442,
+    "sha256": "0c01964d284d0b149fc694f99531678e7a3404e92ad6355397545b327c712357"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12297.json",
+    "bytes": 2464,
+    "sha256": "41a747b194fdb0d90ef752a3e2391427c9bc7fddd04cb55a5f7f12c59980f499"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12298.json",
+    "bytes": 2424,
+    "sha256": "d177d9c40ef4e672e8ab2183c7a0693da8df3f4b34f41bae041c9b17dcb3f570"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12299.json",
+    "bytes": 2436,
+    "sha256": "366c776ba50a0087dc3b62cb743f9bee2ffe263b6b9f57c1fca0eaeb4717e9c2"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12300.json",
+    "bytes": 2428,
+    "sha256": "068b5626ae3a0afa7e9fe259f7f93d3c4575d22d623f7f2a2e3a9f9865b407ab"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12301.json",
+    "bytes": 2454,
+    "sha256": "b8a1bec945fb0ba48d9eb596be0caeb439a2b50bbed4431137a534365176891c"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12302.json",
+    "bytes": 2449,
+    "sha256": "1ec248c4eb3b2f3b0f4e68548c9ac752470aabec0b726869a07e5a2ff5fbd773"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12304.json",
+    "bytes": 2497,
+    "sha256": "fa7666c0f411757a1696ddb7fd98b6b9007758ca117a91b5a51b511d3334c248"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12305.json",
+    "bytes": 2494,
+    "sha256": "0d7cb6c136e294a32c1dc11e6ad5bccf0ee7963a85fa5a86f38a1e2bf21be646"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12306.json",
+    "bytes": 2481,
+    "sha256": "3aef2d3d6ba62454f1eb4434990d604f17d1e6bf3f2e876e5b4fdf57b6f84752"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12307.json",
+    "bytes": 2486,
+    "sha256": "56eaf0ca79cd7b27b4ed43c3beeedbeed6ff637088bb033ff84c1929c7697b8e"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12308.json",
+    "bytes": 2478,
+    "sha256": "4c14334210703201b31367fa4a2159372060acb6edd491d23ca1a5f1eb82a82b"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12309.json",
+    "bytes": 2483,
+    "sha256": "14da904a5bd7469d1975813cf918d78dbf9575a9b8534b3e6088b179f2552007"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12311.json",
+    "bytes": 2490,
+    "sha256": "13c1b2357c03c12cc0c21b671fca39788495b5a4594d4952f77a28772ccf658b"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12312.json",
+    "bytes": 2451,
+    "sha256": "546c466f5550d3f6c42b60add1b3ef0e02e9326d80d19e5467a189c6aef59c31"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12313.json",
+    "bytes": 2388,
+    "sha256": "0f9f4dda4db64d02cb853b7923cd9c574fb43d131836308053695e1e77698117"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12316.json",
+    "bytes": 2407,
+    "sha256": "ae2eb191f49e74d06d48324ffd7c59a6d2dec8cbe8182ccb1c69ac28c289a238"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-12317.json",
+    "bytes": 2390,
+    "sha256": "62efbc492d7c3dbd75353ef0660a043145299c467c53f1cf06ddf4005a8083cc"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13148.json",
+    "bytes": 2650,
+    "sha256": "f05731afd9e89c84e2bd6d5bb8445d2acb187123143ed33c0e4900d81e893203"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13149.json",
+    "bytes": 2634,
+    "sha256": "006667c5a58591c78a3b8372cb49dc4cb5903ddb7a8e9d58f13c450192d7c6d2"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13150.json",
+    "bytes": 2624,
+    "sha256": "1fa9466f19756e31399172a902c3359d3f38866672937dd3481cf0426408300e"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13154.json",
+    "bytes": 2702,
+    "sha256": "636a7ab1be9d1c90fa2be197ab525d9d452799c2160a995f0b99423246b805f1"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13155.json",
+    "bytes": 2809,
+    "sha256": "a2f4bee2ae7df18cfd7cc898f2224c893be0e8f6e4b61f6e31d1c49f2658e9fb"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13156.json",
+    "bytes": 2708,
+    "sha256": "e92c83a36b5e7d5a4ee879430747bd50fbe6fd2ac429f623b49ec858c224e82e"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13157.json",
+    "bytes": 2751,
+    "sha256": "98d76a74994a88ed783cc7d19d43ce3d7e150c38aabf2252ccb520f9acedb36a"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13158.json",
+    "bytes": 2775,
+    "sha256": "3676bdbdf6a906137e147d0623c03cb4185eb99a73419c32b29872a5c85d72dc"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13159.json",
+    "bytes": 2705,
+    "sha256": "f272b0110c7f54f6198372d1b7b3be7e0a1146f2d329f4b678c400df46508c46"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13160.json",
+    "bytes": 2746,
+    "sha256": "ea478e054ffb671927737f98e14e7fc37be9a298d96ba9caad1f78597f095beb"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13161.json",
+    "bytes": 2774,
+    "sha256": "699871fc1e2df088e6424d00edf6a8d70ab323045dec85b674fafef9b88f630e"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13162.json",
+    "bytes": 2859,
+    "sha256": "2bace0eebd056e621e2dcaacd1be468cdfcf42acc7d0d8bce2c07f6a2048ccd1"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13163.json",
+    "bytes": 2736,
+    "sha256": "080872305cb00c1dce22c59eb79292c38e51c2e10d9170aa417f0f62cc9c8073"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13164.json",
+    "bytes": 2868,
+    "sha256": "82e4e941a0cd0d8692f9926d82b2f6d154c10f36b032e3faaf87f102f11b99c4"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13165.json",
+    "bytes": 2667,
+    "sha256": "08f498b9fc0f88fb6d423e3653a786b942e330b173616cc73254223452a32d59"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13166.json",
+    "bytes": 2675,
+    "sha256": "2a4d598ce04e91dccbe56b804fe29bf1d885813cad489304bb71ffdfe0879ec2"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13167.json",
+    "bytes": 2834,
+    "sha256": "d074e756666ef269e9d697eb06454dafa1499a0d7eb0d34af9abd2c1b470f94b"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13168.json",
+    "bytes": 2575,
+    "sha256": "cae7dc2b7e2b3cc4b4f28a7d2e99f003c90aa153fff1b9599aec6e6eeb49dd56"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13169.json",
+    "bytes": 2906,
+    "sha256": "005690d0a3ae9436be7af4ece42c9543cfb0ae1a76dc65e36618023a701d9657"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13170.json",
+    "bytes": 2877,
+    "sha256": "fc716f3858bf6d082365cda7200eb560e5f539b843d286ad0fecbf3aa410ef61"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13171.json",
+    "bytes": 2731,
+    "sha256": "86ff8e4dbbe2839849eb641df218bb0583e8a37b4cd78817be0d40f9f10ffd8c"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13172.json",
+    "bytes": 2925,
+    "sha256": "1860b5667537beca7d27e30a89117e669addb5f51404901b48dbda10d6b1f9ed"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13196.json",
+    "bytes": 2827,
+    "sha256": "850093887301380c250cf7197011e3f29394aa698b908532881dc0981f09f6f9"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13197.json",
+    "bytes": 2723,
+    "sha256": "8590cca01ff16ef2817caaee29bdc00fa59d5c8a7fcd3aa92c71f9fe4c771b13"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13198.json",
+    "bytes": 2787,
+    "sha256": "1e6ca759745acd9056138a4e9eaac6f86b78be9baaf6705cbd4440818a921607"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13199.json",
+    "bytes": 2936,
+    "sha256": "48a6885dd3be10aa85d8fae3cea18c28280f7756060e459b0d691da973d75326"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13283.json",
+    "bytes": 2713,
+    "sha256": "f63e1250a3e0e7fda8c35bc56f7383fe38b54210abbc9f89ddacea2bb8ba21ed"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13284.json",
+    "bytes": 2686,
+    "sha256": "f964793dd72af91139a9eff147da75b01edd4c3320a05eb6a60a819085eee6c1"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13285.json",
+    "bytes": 2908,
+    "sha256": "c205e5f8bf9a0259d775a68fa38cd479b0d2aebe69979de03eef77fc249eacce"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13286.json",
+    "bytes": 2833,
+    "sha256": "dedd431791012f6c841dbaeae8381271c526482f166e2450aa17db44b4a6f8ab"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13332.json",
+    "bytes": 2641,
+    "sha256": "5c6595f3e41066dbb3da0fa64069be65b94d4a39a27f37cec820cadf1acb3044"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13919.json",
+    "bytes": 2649,
+    "sha256": "6dec567c4d1c96aef90e8db4b06ab27175b29ff6b64874309367dc4be035b9bd"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13920.json",
+    "bytes": 2556,
+    "sha256": "51d72f43cd5ee8ecfc3af82c33f3085456d89c3166ab6e45276119284b1e5f56"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13921.json",
+    "bytes": 2611,
+    "sha256": "319fc019aed47caaa32907501c63ba4e425c5db1a2574b1d614679a5b993d94f"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13922.json",
+    "bytes": 2585,
+    "sha256": "a627e4b9bfb5ea463756b6a55f3651b8710bf73c0ce3866cf4a7d25423a1d832"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13923.json",
+    "bytes": 2429,
+    "sha256": "3fa8c2a26b674dc323c2da3077939618beaf581cb715158dcfb752be8c7266e0"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13924.json",
+    "bytes": 2622,
+    "sha256": "94e76abfe9f6f6475a69939053464cdacf4849759c9a479cfbdb8f8bffebc09c"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-13925.json",
+    "bytes": 2539,
+    "sha256": "2881ad7c03fa254ad213f7511e7f973053cc4c3c54290f709f786eeb7415632f"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14017.json",
+    "bytes": 2637,
+    "sha256": "be9c74b28d5bce26d9980242db81e8a3d18683b45d0491f97513c4f411b6b7ad"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14018.json",
+    "bytes": 2425,
+    "sha256": "27bbcd4c7f3c8721549175f5281da2f7d6088b140759e4de4e3e110b6af34bb5"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14023.json",
+    "bytes": 2526,
+    "sha256": "c6ee309dfccf95081c0a3fd84b12c202ac8ae75d27c40fdad13afd78a2ff10bc"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14027.json",
+    "bytes": 2546,
+    "sha256": "e0e4edbc9516f13f11503acff614f8d00a356026629ebf279ac85015c7984e8d"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14029.json",
+    "bytes": 2542,
+    "sha256": "074c1cf13abf93f45cf9ace6f8356b0a22d96644d84bf15cd87cd5e38fce6c16"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14594.json",
+    "bytes": 2511,
+    "sha256": "a25adf868b4a87dc15b662b9ab0606e3e076e9080395a5807a5d0c9eee763289"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14602.json",
+    "bytes": 2442,
+    "sha256": "880103eb7ae575fd4da10713dd3729368d1b51b9fffb3c4a8905996d4215cb56"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14606.json",
+    "bytes": 2474,
+    "sha256": "b3142441e594d6d656ad54f8594981fb18a8b4aab884a0dc9e375b7858fdbb8b"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14610.json",
+    "bytes": 2640,
+    "sha256": "27f02b8b659b211d25835a6e1da482798885683d65c181ae965ca68c1aef54aa"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14617.json",
+    "bytes": 2502,
+    "sha256": "2b2355f8177374be51227dcc4dfb0f2ef437f19aaa9def2677366fedbdf49811"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14632.json",
+    "bytes": 2483,
+    "sha256": "6deeec31e7dd1d17f8c265335891487e1a2a991b17437f104ef665367ec245de"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/item-14633.json",
+    "bytes": 2511,
+    "sha256": "cb93e8d93b7161b6ae24fa03e93c9c483b2f2dc8da13e347ba0242fba013a541"
+  },
+  {
+    "file": "sources/raleigh-pig-photos/manifest.json",
+    "bytes": 36635,
+    "sha256": "5e3eaf70107c2a3fa6aa3b39cf4935fbf4ad8382e1d7d0a9f45359ff31321e5c"
+  },
+  {
+    "file": "sources/raleigh-pig-restoration-photo-selection.json",
+    "bytes": 60792,
+    "sha256": "a4f46ea2466b4e60cbd19743199f55a64b6191843721e06210fa79e4d8b71ada"
+  },
+  {
+    "file": "sources/raleigh-progress-report-1976-08-31.jpg",
+    "bytes": 248711,
+    "sha256": "66424668285e86cd0f712933f12a0fb41258639ac2657902f996e2407b58fb30"
+  },
+  {
+    "file": "sources/raleigh-project-2024/descriptions.json",
+    "bytes": 39461,
+    "sha256": "9453deea9d7d22ac30b00550a075e4eb7a24a42cb927a7406603c1b0f09922db"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34881.json",
+    "bytes": 2618,
+    "sha256": "20ebf9717a841d9a0a1f154bf70c4004927571301becaff1b5360491216ed59d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34882.json",
+    "bytes": 2555,
+    "sha256": "3c7d952f9951c835e16a24bc7da436d26236c1c1483883a2a92567fe02e878c3"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34883.json",
+    "bytes": 2523,
+    "sha256": "c1fa9568cd66e3688459829ed451d3792b615f41d962854ec2cbd273305254f6"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34884.json",
+    "bytes": 2486,
+    "sha256": "4f12a22264c38fe20c4054394d7c8415573d94637c3970fc2f29c27f57a0bdfa"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34885.json",
+    "bytes": 2408,
+    "sha256": "3323784dd259505a1e71dd487cc79243a00d1ad3b95a4a244a6a61c8e26853d7"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34886.json",
+    "bytes": 2522,
+    "sha256": "b77402f45ee6f0b12b4225e8c10c8ee6b7fc57488bf5b7bb4e6070b7a20227c9"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34887.json",
+    "bytes": 2523,
+    "sha256": "64d7ec9b13e5c5922bafd5e0c81181da226f7bce08142428de9912f3c965d1c3"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34888.json",
+    "bytes": 2567,
+    "sha256": "abe309f230af8ca126bf6003d32c06e3ddb94a842d05b809490f28c575a53691"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34893.json",
+    "bytes": 3147,
+    "sha256": "e0b888085fe63c808d25e344e7a6bb23ee6b6032e54cb5f704d49b71895d4b47"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34898.json",
+    "bytes": 2537,
+    "sha256": "8a0891d2f8754af0281ce758c1e8726cffd84111eccd712bc779ddf5c618b021"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34899.json",
+    "bytes": 3361,
+    "sha256": "04fea20aa729ab6b9f7dd1cff2941632b13986b025c68e928d98222dfd00c0ea"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34900.json",
+    "bytes": 2642,
+    "sha256": "576fa6a799334baf1ee133c0641bab979d3feea9b33ebaa6cd092e7dbdaeea8b"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34901.json",
+    "bytes": 2395,
+    "sha256": "e5ceb421f5816a690e97077bfb556fd784f6d304a1aa373e277bf68a55ea9615"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34903.json",
+    "bytes": 7491,
+    "sha256": "26db7b3f683afae83cabb49a4c1b49ee39301ded70c10c136051cdad1903ea21"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34904.json",
+    "bytes": 2635,
+    "sha256": "f41eaf88ac68de6dd9bc37467cb5d160e0f9a50c8991a0d10ecaec61020bd58c"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34905.json",
+    "bytes": 2723,
+    "sha256": "49ca6450a5daab4a738c6a8110a9231797253c7d2c1a6011cca6fe0e77786c8d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34906.json",
+    "bytes": 2633,
+    "sha256": "7850d812ad861d784b250ca4edb6a391af2277f48d6cf6fc142dbb45194491e5"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34907.json",
+    "bytes": 2732,
+    "sha256": "7ca1c3f0d2d1138bcc4f749dbab6e37de249a5b39d54d6074289a90948b28b30"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34908.json",
+    "bytes": 2996,
+    "sha256": "a4a5fb7b3cab7dff3b211c597ff4176f9b88203c977907a935b34a4b4e73841f"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34909.json",
+    "bytes": 2333,
+    "sha256": "40de6cd8979d16015119e1bbedca5f3bdf97418eb16e9b916aaf4f0cd0a15883"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34910.json",
+    "bytes": 4556,
+    "sha256": "b230772533b7f6ea89fe27a67c0086fc5c2a56c84b9e0964bc3a54dc79316bda"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34911.json",
+    "bytes": 3998,
+    "sha256": "a0423452884e5a8b6a5ec568ec7fbdf378b198cf365e262c71459f3d92cf3b13"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34912.json",
+    "bytes": 2358,
+    "sha256": "ce7ebc1cad62bea2af5c04ccd34897befb4ee20f884dd815ca27195048040c71"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34913.json",
+    "bytes": 3013,
+    "sha256": "e2f11fb70640f1eaa5f3ee9daf1a03f54a60b7760834088e1bbe5533c5908977"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34914.json",
+    "bytes": 2476,
+    "sha256": "379d341d5c9bbd5226924b56835f397d2deae08430eb91e8e8711c39634f8064"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34915.json",
+    "bytes": 2579,
+    "sha256": "c6064a2977bf01d44fbaabddfb85fb0b2305141e611e38009e81d7c0d28cacf9"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34916.json",
+    "bytes": 2518,
+    "sha256": "5db0f5a73dd28e607fe04a43e3c5a345bdc138c607be51c8ebbd11c11a5c4cb0"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34918.json",
+    "bytes": 2409,
+    "sha256": "097d3cf703e700ba6783e2f69db01adc82c6fe1257e6d40785f973e1de094305"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34919.json",
+    "bytes": 2721,
+    "sha256": "c1d213703fb6d0b9e6009cf50064cfd6bfc74b6614e444031134420ced0f42c9"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34939.json",
+    "bytes": 2379,
+    "sha256": "b04f765beac5fd8b4a35743874ac3d99ec913b0f69f56fea0a237f6876894c02"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34940.json",
+    "bytes": 2899,
+    "sha256": "3e7b559b8b1f90f6a3a0cffc6affe736f0fc5e71ba543f5582063e5a7d039343"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34941.json",
+    "bytes": 3546,
+    "sha256": "10eabb5e59286579fbebb192fbd38e1ec9ddfa6fae4e214444623c7ef98e046d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34942.json",
+    "bytes": 2628,
+    "sha256": "c1e50c2c5fae8108f09b3350acf4b8b11b9e601ebf71e29c163864ac0a59bf90"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34943.json",
+    "bytes": 2443,
+    "sha256": "3bb9f251e6fc01a667c935236fadace2e1c8790aef2bdf547b8830b153361848"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34944.json",
+    "bytes": 2766,
+    "sha256": "c4b4f2a6e4950552e349cbfe6af87c4353728f8d7da293108c3090090fc46731"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34945.json",
+    "bytes": 2746,
+    "sha256": "0c7cf3c09bce8e8da84deb9bd167f1c3a121265bc9e1493ccc6a98fc66114acd"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34946.json",
+    "bytes": 2618,
+    "sha256": "bf6cf9e86edc7efdf9f86e65238b5e58050da0e16775044c82c9156c720444d3"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34947.json",
+    "bytes": 2494,
+    "sha256": "ce117f096ec208df7e12c95f729759328fa4400c1e67ca86659df12ed56efa1d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34948.json",
+    "bytes": 2582,
+    "sha256": "dce6584575e8b55b7732aca35b23d75d4b2cccc15c96305cbf4e2f9ccd9a118e"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34949.json",
+    "bytes": 2613,
+    "sha256": "aa5405ab7432b09cd39b4e307fcbeab5e05482b679ee08474ba1720234d50200"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34950.json",
+    "bytes": 2454,
+    "sha256": "8b53be33ec97a7198a2c95b129104aa21d929eb2833b82c6d8a5edf5e69fe70d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34951.json",
+    "bytes": 2695,
+    "sha256": "ad553c16f747e1d7780a317e061f878df5a48344408e76f758882fc18c4e48a7"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34952.json",
+    "bytes": 2627,
+    "sha256": "ea5fcb1860344bc0693f93d0c0e92a091fc6b75be0927cc5c51cb70bb978ce07"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34953.json",
+    "bytes": 3881,
+    "sha256": "5cfc15c78d12189b2dd846dbed62ccd646bf56ac5816ce255879a4ad64373d93"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34954.json",
+    "bytes": 2896,
+    "sha256": "a100d6ec946adeea70edffb408f92da2b8afc6fbf7be01d2bbe7eb6468bebc4d"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34955.json",
+    "bytes": 2605,
+    "sha256": "1c180463ff75fa0ebbfd4d6bbe091eddd9f30efc6ba1bd85b5cb2464a541afae"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34956.json",
+    "bytes": 2632,
+    "sha256": "4db8d796034f8cabb89419c1af5397c6cc3c2b9fb3bc6ad3f752cce2c0d84b3a"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34957.json",
+    "bytes": 2803,
+    "sha256": "e16cf2ba9bb9f14a9645dfd4cd5c78566491c9526c0ec6a056a01496dc342c71"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34958.json",
+    "bytes": 2697,
+    "sha256": "bbe26e91e630f4d25fa553eb92aa1ca9713fbbd34f8fab0fa9a65af28ba59c66"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34959.json",
+    "bytes": 2758,
+    "sha256": "ecc80e2a3628a041a54decdf74db32c566f2e8edb9fef3304746b53f7f94dbba"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34960.json",
+    "bytes": 2680,
+    "sha256": "22e69a1315d9c9bb4616176fef2ecb84823a8e2f2fea1bfa77d3f78ae419e59e"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34961.json",
+    "bytes": 2590,
+    "sha256": "88d470efa315692929255d539c44d99f04765e6bd6ff1a775f044216467dfd97"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34962.json",
+    "bytes": 2482,
+    "sha256": "a3309e93605136e64fd718f1456877224e2b646b32ca83d048146feaa4b55daf"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34963.json",
+    "bytes": 2780,
+    "sha256": "903ca2770e0832dd2dbddd40dc530d2e9d5e8772f3135a21f76c67c4fce9d7ac"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34964.json",
+    "bytes": 2578,
+    "sha256": "b4adfa1b3caea4d3a7a10cbc84672ec4ec89f39b7298fe9d6cbe456be9a3cf47"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34965.json",
+    "bytes": 2513,
+    "sha256": "7620880903b3af7c1d4b947b557aa43127c901c670fe8e3953ce5c4d9d429027"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34966.json",
+    "bytes": 2545,
+    "sha256": "5baf4304be707982c378fa18bae265d4f3cea320aae70a0cf74b844d542a6c37"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34967.json",
+    "bytes": 3665,
+    "sha256": "1522601df407aad1b1a52d57301351ee35a3695375421c543faa9e7e5972bd8a"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34968.json",
+    "bytes": 2639,
+    "sha256": "aa984ab69e8c07f1a03fae5c74ef6553a664a545e93c72333c7dd8c86a1f0225"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34969.json",
+    "bytes": 2410,
+    "sha256": "9443fc1b83973ba2c370aecc42670baab9db97291876879a585b61e5c14f5c0a"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34970.json",
+    "bytes": 6237,
+    "sha256": "62574159842ff7cdfd3ca6bb9d0c1ddeacf65aa20a5ab73c667adb6af4c1e510"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34971.json",
+    "bytes": 2366,
+    "sha256": "a05ff43fe5fab04fe0c5738d8803044c27ccf3e888490a16e89e55858b6777ff"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34972.json",
+    "bytes": 3480,
+    "sha256": "791e54108a053b01646acc6dfa9f639665fc625760d35076f87b00e12e59e1ce"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34973.json",
+    "bytes": 2517,
+    "sha256": "3efb6ae2f381f593f7cb752ae686b5e296972ad2e44bb950d93a7d3f0b379e88"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34974.json",
+    "bytes": 3334,
+    "sha256": "88e0ed27658553ccb6da7fd2085258b20a488035662faaa2d8084e7ffa255746"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34975.json",
+    "bytes": 1412,
+    "sha256": "184a20d8dd33c05d9545fe41d3ae7766c01e63f4e6ae4a5db5ca3c84e6be4265"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34976.json",
+    "bytes": 2504,
+    "sha256": "3bed44065bf175a699a3666ebe03da43f1111aa0db3636333431fa409828c5c6"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34983.json",
+    "bytes": 2805,
+    "sha256": "926436aa1a52e2f9284e2616ea080c8448af182a15e25202fb2adc25c7571d11"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34985.json",
+    "bytes": 2759,
+    "sha256": "7470cef22ea76b3d94781e486967f4cfd2e4792bce3c32b30d19777859bdd458"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34987.json",
+    "bytes": 2654,
+    "sha256": "e9946251058801e77d175ba5dc7f7855ce8afc428c5c36a8b1278f2c462eeb13"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-34998.json",
+    "bytes": 2916,
+    "sha256": "0e29468a8570c4f6fb44986f8224db238dd9f326a74ddb8d0c9f54e5f1f3e9bb"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35024.json",
+    "bytes": 3745,
+    "sha256": "8667050d1ee2be64262485581335241e9a650ee8e1e17866d5e6a6b41745b959"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35025.json",
+    "bytes": 2568,
+    "sha256": "b195c50db975c2afddcace13da128d58df590aa9299d38a4b26f8555cf148742"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35026.json",
+    "bytes": 2836,
+    "sha256": "47a2c9e6ffc4e6be0d3d9ffdf4692c36e3da708e30b6205c23a1fb184c3316b0"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35027.json",
+    "bytes": 2498,
+    "sha256": "db3893e86d264fce5e9dcb2601f3a73dcb37efd8288e8653b2d84144c00693fe"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35028.json",
+    "bytes": 2510,
+    "sha256": "019d30fa813b720f65503f23b7f332b8a1a727318e7080363349cd5871e334d6"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35029.json",
+    "bytes": 2562,
+    "sha256": "dbdb794fbb2792dd3f5968706d1d0edcda232418e88c8b5aff860c477ff05b83"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35030.json",
+    "bytes": 2488,
+    "sha256": "3e488c2b4b66ca59fdbf2897df22dbfb480fb086af31e8822f9239cc1844a931"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35031.json",
+    "bytes": 2496,
+    "sha256": "ceed173c4b20a5fc0aed85ba085e34e72d576850a7263c87671b8637c57cffb5"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35032.json",
+    "bytes": 2566,
+    "sha256": "9eed6854477873de1c723e436681b54dcfdd29810b2dedff3addb10292ea2718"
+  },
+  {
+    "file": "sources/raleigh-project-2024/item-35033.json",
+    "bytes": 2559,
+    "sha256": "7c833fd066436862fd5b88114d09b077023ab327f47dda5b2c740831bdd75779"
+  },
+  {
+    "file": "sources/raleigh-project-2024/manifest.json",
+    "bytes": 39110,
+    "sha256": "af8d2bf3380e7d43c421abbb9be57951d22f3b1cd7c13e3a4d0f1477a3bcd8c9"
+  },
+  {
+    "file": "sources/raleigh-rabbit-4a-drawing.jpg",
+    "bytes": 100680,
+    "sha256": "59b4307cd8c8a490c91d96eb44141eb97604c519284ed3c079ed1e46627c867e"
+  },
+  {
+    "file": "sources/raleigh-register-summer-2018.pdf",
+    "bytes": 4713976,
+    "sha256": "9f031d0b07051f5d360b9db8586cb90653a62337f91240bb3fc075023205cbbb"
+  },
+  {
+    "file": "sources/raleigh-restoration-arrangement-map-record.json",
+    "bytes": 3990,
+    "sha256": "b33e4679c7cb4acca162b9d01441bd9b9beac4de271694bf87225c7606fcdaca"
+  },
+  {
+    "file": "sources/raleigh-restoration-arrangement-map.jpg",
+    "bytes": 150079,
+    "sha256": "391187184c9b8770db680f70a75b5afa0c72152ce198f135ecf10e5474a74781"
+  },
+  {
+    "file": "sources/raleigh-search-1975-carousel.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-1975-carousel.request.json",
+    "bytes": 477,
+    "sha256": "881a5ec22341157d4d165f2984e30dce2291d9786b7c2e00f43df3ffe4d9d5ec"
+  },
+  {
+    "file": "sources/raleigh-search-all-projects-2024.json",
+    "bytes": 43057,
+    "sha256": "552100d9a7098557902e611aa16426ca13bf1a14e71526035671f73c15e88043"
+  },
+  {
+    "file": "sources/raleigh-search-all-projects-2024.request.json",
+    "bytes": 471,
+    "sha256": "53b27dc75e9beee12090d2270f87b6ded36b0acbeec67c0679594b33b48d0af3"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-appraisal.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-appraisal.request.json",
+    "bytes": 482,
+    "sha256": "220369e2489d19d1ff45882392b44b47f323b84257fe1a880ce7867d7a62e9f9"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-appraised.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-appraised.request.json",
+    "bytes": 482,
+    "sha256": "e43c8a7bec7afda8e19a075f195e8e50732758ad66b9f493c689ad547feb5958"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-arrangement.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-arrangement.request.json",
+    "bytes": 484,
+    "sha256": "eab66af7dbeaa6c2bf0a72e2ec4cad695aa97fe6f2770de0f634bd8d9f944341"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-booklet.json",
+    "bytes": 776,
+    "sha256": "33ec234deee48610d6051b2ff87f4024e81dffef28f411ee753edd1198625fb1"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-booklet.request.json",
+    "bytes": 481,
+    "sha256": "536fc383c7b9316fe813a6a29fab57ea32dd984fa1eb56b6856af2dc7b91dad0"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-brochure.json",
+    "bytes": 1143,
+    "sha256": "e36757e192a9e9276e935336fa67740fdafb4fef7250fa95652f9288f566818a"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-brochure.request.json",
+    "bytes": 483,
+    "sha256": "838a74d68aca53fa4ec5e53f4941769b48e17584fe730ade67d0f7d9bfba6d21"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-counting.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-counting.request.json",
+    "bytes": 481,
+    "sha256": "c78b56507a3a84a1e9d232237b5c607556f2915617d158dcd98fb07a0be95ece"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-estimate.json",
+    "bytes": 4633,
+    "sha256": "ac90d883961398f1233d27a6a7f836e042589c5b34db3a8d1a6e209ac65a7ced"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-estimate.request.json",
+    "bytes": 483,
+    "sha256": "6f632a3b41cc69510d6c9eeb9f16d9239a7a0d74a0230379caee48fa7ef58980"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-history.json",
+    "bytes": 14972,
+    "sha256": "f0738aec8a175fb397634c0242a75ac9e8da502e280b1bc32d8d3eb0d6483307"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-history.request.json",
+    "bytes": 483,
+    "sha256": "4f7a56885d03cd882e81f75de2c89bb0b8014fd966c9669981773ce4ad19b3e8"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-layout.json",
+    "bytes": 5205,
+    "sha256": "3a3bf3bdd46bfc09fa734e46f131592e387df0234d03a111825e371ea04dd9fb"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-layout.request.json",
+    "bytes": 481,
+    "sha256": "6f7d86d3f8956a3f541c432a83fd52667bf688d83270564ddfd4fda6869f2265"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-placement.json",
+    "bytes": 1783,
+    "sha256": "4f451d86e940c98979a7c450283698ae72d9627112c71163c9c6cb90bb90001a"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-placement.request.json",
+    "bytes": 484,
+    "sha256": "e4902bc5cb70c50d521f6f8f973089b701b6f4274284ec18c32ba452072073b8"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-stripping.json",
+    "bytes": 3666,
+    "sha256": "29ef22fb488571b61d685fe1b321ac7aa3546a62666a11172f914eafefd9f4b9"
+  },
+  {
+    "file": "sources/raleigh-search-carousel-stripping.request.json",
+    "bytes": 484,
+    "sha256": "ac8fd482b8c84c86e07799fce3f48cb375578d3cf48d59e504dd0473c5abceb6"
+  },
+  {
+    "file": "sources/raleigh-search-norton.json",
+    "bytes": 2379,
+    "sha256": "7f1676683dc8ae9a7e27990fea8115a1fd6f84441408b5e5fa481e7801b80973"
+  },
+  {
+    "file": "sources/raleigh-search-norton.request.json",
+    "bytes": 468,
+    "sha256": "5f81a3f626b5f4d46560ba73cb2bfce226630bdcb7a8061f22d006cfdb855e6e"
+  },
+  {
+    "file": "sources/raleigh-search-pig-page2.json",
+    "bytes": 26898,
+    "sha256": "d0a0abe3c82c6cae7ba2aad87b6938fe8318155003df379c07601490ea0868dc"
+  },
+  {
+    "file": "sources/raleigh-search-pig-page2.request.json",
+    "bytes": 468,
+    "sha256": "c080006fa8dde9920a02c721bb1c8cd069e6144555f94d49de5e242856c5de14"
+  },
+  {
+    "file": "sources/raleigh-search-pig.json",
+    "bytes": 78691,
+    "sha256": "0ead56a035c080c8c727eb526a39ebf31cb248fbfb3cfd07062f58dfbd747950"
+  },
+  {
+    "file": "sources/raleigh-search-pig.request.json",
+    "bytes": 466,
+    "sha256": "e6d48fe2530cea25ae58b900b851a1c1e90553acf452c9ac0fff1b98a8690f34"
+  },
+  {
+    "file": "sources/raleigh-search-project-2024.json",
+    "bytes": 43057,
+    "sha256": "552100d9a7098557902e611aa16426ca13bf1a14e71526035671f73c15e88043"
+  },
+  {
+    "file": "sources/raleigh-search-project-2024.request.json",
+    "bytes": 475,
+    "sha256": "28abf541cc96fd5a6b799ffc34cb142cb18255f1ca87a3a8080c6e18af1098a1"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-18a.json",
+    "bytes": 1926,
+    "sha256": "1ea8c0900d66d2432ddfbbf9196c09ce29cb65749abe011bcdc06ed250456c19"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-18a.request.json",
+    "bytes": 482,
+    "sha256": "d458a077d8461563e6f5006a082b4758b4ae7df46302341079da05a35757c010"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-1a.json",
+    "bytes": 3416,
+    "sha256": "5437ec63ef41155184a4377c19caad24eeeb209969064ace9e6fcaa55133fdf9"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-1a.request.json",
+    "bytes": 481,
+    "sha256": "269ef203bb30bc9aa27835eeef18ef87fe842ef2e58eeb4975f4868ab4abb12b"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-4a.json",
+    "bytes": 2573,
+    "sha256": "f7e0fb7ee46de3bdc3a30abb39b4e167356e6a7fb2c55e9272c499c1418e61b8"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-4a.request.json",
+    "bytes": 481,
+    "sha256": "2df21208bee1b27475513b4484fa188eba988de34f1aa7fbc3537ff13191b27b"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-9a.json",
+    "bytes": 1983,
+    "sha256": "5f791d8075f03b66abf56ee549714b0928c96fe86c7d52eff4eb9732f283089a"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-9a.request.json",
+    "bytes": 481,
+    "sha256": "536cd529ef84deaba19b0c8165206c7e29bbfafb8d2da5b4c384b0f321d856e1"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-9b.json",
+    "bytes": 3509,
+    "sha256": "b8d91db5f5583c47a97b975cdabdab438dfc5d5f141fe6845a27617862f979ab"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-9b.request.json",
+    "bytes": 481,
+    "sha256": "0d441e0d66f12027b7c58a96298b16ee8c60155417ea7c44d3cc9f014a4dee2c"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-chariot.json",
+    "bytes": 10648,
+    "sha256": "556d0d73e23c2b77ec5dbe283a45d715bb08a97251e4284780b3ff25dff5b438"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-chariot.request.json",
+    "bytes": 483,
+    "sha256": "fa3e0af023b2c583371c9b9610841acb81e82559802cf99ae6abe9f4aa2227cc"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-collection-2020.json",
+    "bytes": 53723,
+    "sha256": "102cf436cd82277b4fa53f3d80097a72c387bb3d8692f4e5fb9f858a1e1842ee"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-collection-2020.request.json",
+    "bytes": 475,
+    "sha256": "41490cd9a13e3bd13ab762b6d13dd5b0f724dd43d3958dbfa1d000cb0707e26f"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-cost.json",
+    "bytes": 2262,
+    "sha256": "252ffb7d3396bb9aa3d9c98144e37184936bbc8b65b51a9bf4f49501240f1c11"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-cost.request.json",
+    "bytes": 475,
+    "sha256": "00c910b9efe6b356f1fffed5cc5bfbf4ed6cc06d4d4f34234acb9ec33424eb6f"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-count.json",
+    "bytes": 918,
+    "sha256": "3cab380c123cdd6326269902e0eebc3c9fef83130043e9ed20a7bb8138b6e412"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-count.request.json",
+    "bytes": 486,
+    "sha256": "e735c3febf5bb1df2740708ec8459862c0fbb09f8f83f950b79043dc331dd87b"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-diagram.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-diagram.request.json",
+    "bytes": 476,
+    "sha256": "810e449803e5d4e911e483948cbb659c346adeea488739f10b0ba24bf6e7a953"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-history.json",
+    "bytes": 3696,
+    "sha256": "954737994934adbfda0382f683eefe115903a6ccc38655423cfa212b3d522b49"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-history.request.json",
+    "bytes": 478,
+    "sha256": "bbc8db7887b2ecf298c0d932bbc1d5494144510008268661c52fdd8dc31a393d"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-horse-1.json",
+    "bytes": 7566,
+    "sha256": "51688169076f60cf8fc56516e47764c4bc3503448b5876a99e8caf527d46cb5d"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-horse-1.request.json",
+    "bytes": 486,
+    "sha256": "5c6068e4e296825188498e6c02e279f5e8ae7eec11e1891a0f48366eb5366cd9"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-lion.json",
+    "bytes": 5330,
+    "sha256": "9970ee26ec25017e0bbd139066c8182d1619ce69195b06d7a7a9ead0aca5ebca"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-lion.request.json",
+    "bytes": 479,
+    "sha256": "00475ec6aa02d567e5b02c205ffc718d2019522ec4b31e2af09add2014e9358f"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-map.json",
+    "bytes": 4037,
+    "sha256": "68465fd04e06c420aed001f2b650a705a562eb9ee5a91f669d72934c3dff12bb"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-map.request.json",
+    "bytes": 474,
+    "sha256": "36dc6ccf0bfd31cf0148a7a2ed100b208f2feab71445386c5d79140597d65aa1"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-storage.json",
+    "bytes": 920,
+    "sha256": "818e4d6f2b9d8478c3c879730e9900d4cbde712c1b677a55d5a91a6db04ded0a"
+  },
+  {
+    "file": "sources/raleigh-search-pullen-storage.request.json",
+    "bytes": 488,
+    "sha256": "9f3f0b5003705f7828b1ac07bd7e034a55b158851f65ee72b70743db0119a4f3"
+  },
+  {
+    "file": "sources/raleigh-search-revolutions.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-revolutions.request.json",
+    "bytes": 471,
+    "sha256": "33b9786cf7fc3c2c3546a0d8218f7510c44d6606e13cb8347ca4e0ff43849111"
+  },
+  {
+    "file": "sources/raleigh-search-sanding.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-search-sanding.request.json",
+    "bytes": 467,
+    "sha256": "e9654cf8c0a9309820cec045215c9e49803f3abd1a758ef8ad5fb5dd3fe83bf2"
+  },
+  {
+    "file": "sources/raleigh-slide-acorn-detail-1981.jpg",
+    "bytes": 89556,
+    "sha256": "1d5fadcb1a246397bac24d19aa0f410cb887475d707c01332e1b147487f1b770"
+  },
+  {
+    "file": "sources/raleigh-slide-pig-7a-1979.jpg",
+    "bytes": 47597,
+    "sha256": "8374f6d6f9f51e7f14cfa0aa3a3740e2015cc17b17a7633b3eef72c7e50e1bab"
+  },
+  {
+    "file": "sources/raleigh-slide-pig-7a-1982.jpg",
+    "bytes": 39671,
+    "sha256": "a43970a666047f12623c19b97d8a8fdf52ae0e7cfd036a4d1cb83b69876b0ca8"
+  },
+  {
+    "file": "sources/raleigh-slide-pig-7b-1981.jpg",
+    "bytes": 42781,
+    "sha256": "283eb4bae021eae672a66b7d5d23a05fba3be426e38383f5f9b7aa17638996c3"
+  },
+  {
+    "file": "sources/raleigh-spotlight-1978-images.json",
+    "bytes": 571,
+    "sha256": "6fae2b321f769eb52667e91f2704845c9019189073f0ab140a1681f9ef502ee9"
+  },
+  {
+    "file": "sources/raleigh-spotlight-1978-page-4-5.jpg",
+    "bytes": 256802,
+    "sha256": "934f75309646ae740ebdc7bb87719529dd87369710c13243c208305878a6052a"
+  },
+  {
+    "file": "sources/raleigh-spotlight-1978-page-4.jpg",
+    "bytes": 254197,
+    "sha256": "a8eea9c8e63e170ae0a9a3002669df99d2290d513169142acc7610595e9ca518"
+  },
+  {
+    "file": "sources/raleigh-standing-horse-1-romance.jpg",
+    "bytes": 108812,
+    "sha256": "e88145ff501931b241882f9f5e153ac421b07bb52f873bb16bec121fc7fd3d37"
+  },
+  {
+    "file": "sources/raleigh-standing-metal-horse-1.jpg",
+    "bytes": 185410,
+    "sha256": "3941cf7934303d16058cb62e5f829bfd34851b3484740c442e9ccf712f41b908"
+  },
+  {
+    "file": "sources/technician-1977-04-06.pdf",
+    "bytes": 7373312,
+    "sha256": "62b6d08d211eff5255f7911eff428fa339657ae08c9cfcad8e39c3b690c8986d"
+  },
+  {
+    "file": "sources/technician-1977-04-06.txt",
+    "bytes": 212503,
+    "sha256": "4ab7a7a55ac7caf9fa09ca188bd8ad776e6553104fe1e26dabbe161e53e25341"
+  },
+  {
+    "file": "sources/wake-fine-arts-catalog.html",
+    "bytes": 153642,
+    "sha256": "df680ac29ab92e8dcaaff92931947923f8998543a67f0526cc1d7c746b554032"
+  },
+  {
+    "file": "sources/williamsburg-camel.jpg",
+    "bytes": 20050,
+    "sha256": "218aead8b2e96d52201a591266dd32ca6d69ec11bc07c6c59f571c0829362e04"
+  },
+  {
+    "file": "sources/williamsburg-cat.jpg",
+    "bytes": 23991,
+    "sha256": "3401a0d7cd3f54fe99bf278b6c161112efa85c7125ab1561d272a1e4a50e395a"
+  },
+  {
+    "file": "sources/williamsburg-exhibit-family.jpg",
+    "bytes": 321306,
+    "sha256": "ab79b936d3c0115a6f4eae834e44da5b1d462e20f86c3edcacd0ed19a2048518"
+  },
+  {
+    "file": "sources/williamsburg-tourism-carousel-display.png",
+    "bytes": 755083,
+    "sha256": "d8eca984783e157d268794a9f83118c9d19990193ecaa61fa6ddd250027460b5"
+  }
+]

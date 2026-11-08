@@ -1,0 +1,99 @@
+{
+  "Item": {
+    "Id": 28390,
+    "ItemType": 2,
+    "ItemId": "PPC2022.005.049",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "A color photograph taken inside the Pullen Park Carousel house of 3 horses and 1 pig with other animals visible, but too dark to describe. From left to right: a cream pig with a red-trimmed green harness; a brown horse; a cream horse with a white mane and tail that has a red-trimmed pink harness, a green saddle blanket, and a light brown saddle; a brown horse with a black mane and tail that has a red-trimmed blue harness and saddle blanket.\n\nReverse is white with gold text reading \"Kodak-Official Sponsor of the Olympic Games\" with the Olympic rings and \"Kodak Royal Paper.\" Black printed text reads \"<No.10A>515 21+1 NNNNN+29AU 0141.\"",
+    "CreationDate": null,
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2023-06-28T20:01:07.293",
+    "LastModifiedDate": "2026-08-12T19:26:07.433",
+    "CatalogDate": "2023-06-28T04:00:00",
+    "NumberOfCatalogItemImages": 2,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 28390
+    },
+    "Collection": {
+      "Id": 18334,
+      "Title": "Pullen Park Collection",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 42584,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "CatalogItemPhoto": {
+      "DimensionDetails": "Length: 10.1 cm\nWidth: 15.1 cm",
+      "Copyrights": null,
+      "NegativeNumber": null,
+      "FrameNumber": null,
+      "SlideNumber": null,
+      "Frame": null,
+      "Photographer": null,
+      "Studio": null,
+      "ProcessingMethod": null,
+      "PrintSize": null,
+      "FilmSize": null,
+      "OriginalCopy": null,
+      "Event": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 73791,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1770x1170",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/73791"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 73792,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "1784x1180",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/73792"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Collection - PPC2022.005.049",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,58 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 2,
+    "Items": [
+      {
+        "Id": 18925,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.155",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "36853",
+        "ThumbnailId": "1043ae23-573c-4d0e-9de4-d9054d0e4c9c_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.155",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Cat <mark>9A</mark>, which was produced by the Dentzel company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads \"CAT INTERIOR <mark>9A</mark>\" and the lower right corner has a paint color key/table"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.155</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18926,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.156",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "50582",
+        "ThumbnailId": "d1fc6bcc-9b8a-43ab-97af-398e51d2c3c5_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.156",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a pencil drawing of Jumping Cat <mark>9A</mark>, which was produced by the Dentzel company."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The upper right corner reads \"CAT ROMANCE <mark>9A</mark> Brown Cat\" and the lower right corner has a paint color"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "<mark>PPC2018.001.156</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      }
+    ]
+  }
+}

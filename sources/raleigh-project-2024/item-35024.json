@@ -1,0 +1,112 @@
+{
+  "Item": {
+    "Id": 35024,
+    "ItemType": 3,
+    "ItemId": "PPC2024.002.073a",
+    "AlternativeItemId": null,
+    "AlternativeItemName": null,
+    "YearRangeFrom": 0,
+    "YearRangeTo": 0,
+    "Description": "September 1978 edition of \"Spotlight,\" a newsletter sponsored by CP&L, Carolina Power and Light Company, Raleigh, North Carolina. The cover shows Rosa Ragan working on one of the Pullen Park Carousel animals. Pages 4-5 include a short article about the carousel restoration titled, \"Hurdy-Gurdy Time.\" The article talks about the history of the carousel, the work being done by Ragan, and includes a testimony about the carousel by J.W.P. Hodges. Pages 4-5 also showcase images of the carousel animals, as well as Rosa Ragan working on an animal, and J.W.P. Hodges riding the carousel with his grandson.\n\na) newsletter\nb) note that was paperclipped to newsletter",
+    "CreationDate": "September 1978",
+    "Title": null,
+    "ExhibitLabel": null,
+    "IsPublicAccess": true,
+    "OldNumber": null,
+    "CreatedDate": "2026-08-12T16:48:16.783",
+    "LastModifiedDate": "2026-08-12T19:26:11.15",
+    "CatalogDate": "2026-08-12T05:00:00",
+    "NumberOfCatalogItemImages": 4,
+    "NumberOfCatalogItemAttachments": 0,
+    "NumberOfCatalogItemUrls": {
+      "Value": 0,
+      "CatalogItemId": 35024
+    },
+    "Collection": {
+      "Id": 18333,
+      "Title": "Pullen Park Carousel",
+      "Description": ""
+    },
+    "ItemName": {
+      "Id": 43011,
+      "Description": ""
+    },
+    "OtherName": null,
+    "CatalogItemDimension": {
+      "UnitsId": 0,
+      "Circumference": "",
+      "Depth": "",
+      "Diameter": "",
+      "Height": "",
+      "Length": "",
+      "Weight": "",
+      "Width": "",
+      "Count": null,
+      "Details": null
+    },
+    "Images": [
+      {
+        "ImageObject": {
+          "Id": 98807,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "6368x8505",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98807"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98808,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "6600x8512",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98808"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98809,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "6600x8571",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98809"
+        }
+      },
+      {
+        "ImageObject": {
+          "Id": 98810,
+          "Caption": null,
+          "IsRestricted": null,
+          "IsPublic": true,
+          "ImageDetails": null,
+          "Copyrights": null,
+          "ImageSize": "6600x8556",
+          "NegativeNumber": null,
+          "AltText": null,
+          "PublicImageUrl": "https://raleighhrmprogram.catalogaccess.com/api/images/98810"
+        }
+      }
+    ]
+  },
+  "Title": "Pullen Park Carousel - PPC2024.002.073a",
+  "ChildItems": [],
+  "RelatedRecords": [],
+  "Attachments": [],
+  "Urls": [],
+  "PublicationNote": "Research fields retained; unrelated account and administrative metadata removed. The publication manifest preserves the original response hash."
+}

@@ -1,0 +1,142 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 6,
+    "Items": [
+      {
+        "Id": 19997,
+        "TypeId": 104,
+        "Title": "Chavis Park Carousel - CPC2018.001.205",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "40884",
+        "ThumbnailId": "b4dc16ce-6977-407f-a649-1014fd3ade37_thmb.JPG",
+        "ImageCaption": "Cpc2018.001.205",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "This is a map of the Chavis Park <mark>carousel</mark> <mark>layout</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "small ovals with the labels of the horses they represent or a box with a chariot label depict how the <mark>carousel</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Chavis Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18809,
+        "TypeId": 104,
+        "Title": "Pullen Park Carousel - PPC2018.001.101",
+        "AdditionalInfo": "Drawing, Technical",
+        "ImageId": "41181",
+        "ThumbnailId": "dcf3ac5b-ed16-4955-8da1-cf80d72b1fb1_thmb.JPG",
+        "ImageCaption": "Ppc2018.001.101",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Drawings of each <mark>carousel</mark> animal were made by artists prior to restorations."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "In the upper left corner is the <mark>layout</mark> of a color key, but only the outlined squares and lines, there"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Drawing, Technical"
+      },
+      {
+        "Id": 18295,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM1993.03.09",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "67611",
+        "ThumbnailId": "aedcc43c-71b2-4dcd-96de-6da8e3166825_thmb.jpeg",
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside is the <mark>layout</mark> \"Plan of the City of Raleigh, \"The Seat of Government of the State of North Carolina"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 15990,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2009.47.03",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "32723",
+        "ThumbnailId": "59d7fb48-beac-4d3b-8129-fbc4a9d59cdc_thmb.JPG",
+        "ImageCaption": "Rcm2009.47.03 Front",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside is the <mark>layout</mark> \"Plan of the City of Raleigh, \"The Seat of Government of the State of North Carolina"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 16133,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2011.02.04",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "32562",
+        "ThumbnailId": "8cdab1ee-b33b-4018-b6aa-f451ba4556dd_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside is the <mark>layout</mark> \"Plan of the City of Raleigh, \"The Seat of Government of the State of North Carolina"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      },
+      {
+        "Id": 16134,
+        "TypeId": 104,
+        "Title": "City of Raleigh Museum - RCM2011.02.05",
+        "AdditionalInfo": "Calendar",
+        "ImageId": "",
+        "ThumbnailId": null,
+        "ImageCaption": null,
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Inside is the <mark>layout</mark> \"Plan of the City of Raleigh, \"The Seat of Government of the State of North Carolina"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "with a bull in front of Executive Mansion and Peace College Main Building\nJuly - Bloomsbury Park and <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Calendar"
+      }
+    ]
+  }
+}
