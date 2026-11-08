@@ -2,6 +2,8 @@
 
 Reviewed 8 November 2026. This is a second, skeptical pass by the same assistant, not an independent person's endorsement. The earlier [report](RESEARCH.md) is preserved. The question numbers here follow the user's latest message: **Q6 = stored pig; Q7 = 1975 price**.
 
+**Row-only follow-up:** [Q6_ROW.md](Q6_ROW.md) supports lowercase **`a-r`** from the matching acorn pig's explicit second-row caption. Its original insertion date and exact letter remain unproved. The earlier exact-letter review below is retained.
+
 | Question | Audited result | Verdict |
 | --- | --- | --- |
 | Q6 | The stored acorn-and-oak-leaf pig is securely identified as restoration figure **7A**. Lowercase **`g`** remains a candidate, but its original reinstallation location has not been proved. | **Unresolved as an exact historical letter** |

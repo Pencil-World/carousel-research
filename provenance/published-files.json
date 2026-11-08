@@ -25,9 +25,14 @@
     "sha256": "caa8bf7454f753e6364acaba56309a2c2742711199d623a0ae168eadefb423e2"
   },
   {
+    "file": "Q6_ROW.md",
+    "bytes": 7169,
+    "sha256": "f9d8c773dd315b20665d6e2980fc613695e6b0f4ed148d3cd47a4f0516001eab"
+  },
+  {
     "file": "README.md",
-    "bytes": 1875,
-    "sha256": "dc11d9f5393047ab355957a2b18496ff1f7aa56ac2ee2c7da2bb09d0a116b993"
+    "bytes": 2040,
+    "sha256": "23ad99ade5a3f58b117593e553c14b092435215f946db436eea9aa968327cac4"
   },
   {
     "file": "RESEARCH.md",
@@ -36,8 +41,8 @@
   },
   {
     "file": "REVIEW.md",
-    "bytes": 10518,
-    "sha256": "38c4c3c7b67ad5c090104370ca310f064fb7ab54f7a52c5ddddab2e306f7a7ea"
+    "bytes": 10767,
+    "sha256": "744e5c9eba2c587e5d10cfe74cbd1b2e7f4930ce68dbe9ba3d2e4ff633a1f5fa"
   },
   {
     "file": "REVIEW_HANDOFF.md",
@@ -211,8 +216,8 @@
   },
   {
     "file": "scripts/download_sources.py",
-    "bytes": 13749,
-    "sha256": "590f649c1651bdbcedb1cea89a3fe99672fcd5f5832570a2f7e1cf7bf56abe5d"
+    "bytes": 13966,
+    "sha256": "ec9bb8c80920a98a79d1d3fe69acda980b80c0b0a010c718c775356625f9f848"
   },
   {
     "file": "scripts/fetch_city_records.py",
@@ -251,8 +256,8 @@
   },
   {
     "file": "sources/download-manifest.json",
-    "bytes": 46501,
-    "sha256": "e90a1fef4eca0608638701b0315350902c2050d411bc8abde29d33c3a5f236c7"
+    "bytes": 47366,
+    "sha256": "1d55a8d9a9f96c2b301e05a35d0d07a598c2dc512967bcfd33546776bf36b36f"
   },
   {
     "file": "sources/nca-guide-003-promotion-restoration.pdf",
@@ -530,6 +535,11 @@
     "sha256": "748ecbb5dcc137f3c1b8403ec5e7c6cd402952f287a07277e8751c7a51dae337"
   },
   {
+    "file": "sources/raleigh-center-row-pig-1998.jpg",
+    "bytes": 62403,
+    "sha256": "8401d3fec13f5ff2128d8ac68031fd1c7e445751bc8a3851c9a999a6b2a2670c"
+  },
+  {
     "file": "sources/raleigh-cost-estimate-1977-04-15.jpg",
     "bytes": 162196,
     "sha256": "854baddc76a0da3eb4b9c84a72b7d0aad183859b27e4800797fd9be88c1cb4e5"
@@ -678,6 +688,11 @@
     "file": "sources/raleigh-mgr-1983-title.jpg",
     "bytes": 109364,
     "sha256": "0b0939c8e878f53d9119dcf8d47cb6e6b696958b3be75ba495cfdf44a6f7c576"
+  },
+  {
+    "file": "sources/raleigh-mounted-carousel-november-1982.jpg",
+    "bytes": 95016,
+    "sha256": "445cee34cd004cc36eba624cd215c95da2c7b6b7ab37b480249416f3844469f3"
   },
   {
     "file": "sources/raleigh-park-pig-photos/descriptions.json",
@@ -1578,6 +1593,36 @@
     "file": "sources/raleigh-restoration-arrangement-map.jpg",
     "bytes": 150079,
     "sha256": "391187184c9b8770db680f70a75b5afa0c72152ce198f135ecf10e5474a74781"
+  },
+  {
+    "file": "sources/raleigh-row-search-7a.json",
+    "bytes": 91,
+    "sha256": "4f2ed60a2f614fe8d5ca1c0aad8f7b2ec729a3e0e617fe97484962a1c5684779"
+  },
+  {
+    "file": "sources/raleigh-row-search-7a.request.json",
+    "bytes": 470,
+    "sha256": "d90c546c19365f05770c413662fd936e75981b9de72e474113bdc5a3a3343d5f"
+  },
+  {
+    "file": "sources/raleigh-row-search-center.json",
+    "bytes": 7559,
+    "sha256": "c1a53cd7e36bcad449061bdfb87e44f4cc7adeee3bfa89f73e5c1fa6f62471ea"
+  },
+  {
+    "file": "sources/raleigh-row-search-center.request.json",
+    "bytes": 489,
+    "sha256": "77a353d4c3199708c6c8006404b072b18ee52e7772d256d6dd437cc76fb497be"
+  },
+  {
+    "file": "sources/raleigh-row-search-inner.json",
+    "bytes": 1192,
+    "sha256": "f5a3f794517290aa0b223460cc3d2e4bbeaf83e877d9fd8bdca6840b0e1437d0"
+  },
+  {
+    "file": "sources/raleigh-row-search-inner.request.json",
+    "bytes": 488,
+    "sha256": "e48291a705411ebde5cd07430d49644c19456bdcc5942ea21917ce0a6e42eeff"
   },
   {
     "file": "sources/raleigh-search-1975-carousel.json",

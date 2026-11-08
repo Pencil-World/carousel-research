@@ -53,6 +53,8 @@ SOURCES = {
     "raleigh-slide-pig-7a-1979.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/29835",
     "raleigh-slide-acorn-detail-1981.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/27469",
     "raleigh-slide-pig-7a-1982.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/28987",
+    "raleigh-mounted-carousel-november-1982.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/30184",
+    "raleigh-center-row-pig-1998.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/30735",
     "raleigh-slide-pig-7b-1981.jpg": "https://raleighhrmprogram.catalogaccess.com/api/images/27503",
     "raleigh-item-18630.json": "https://raleighhrmprogram.catalogaccess.com/api/items/18630",
     "raleigh-item-18634.json": "https://raleighhrmprogram.catalogaccess.com/api/items/18634",

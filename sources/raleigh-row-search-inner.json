@@ -1,0 +1,37 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": 14608,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.742",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26917",
+        "ThumbnailId": "6a691cc9-d5c6-413b-aa49-6c1da8255686_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a man in a white t-shirt riding the <mark>carousel</mark> while holding a child."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The two of them ride a horse on the <mark>inner</mark> <mark>row</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>carousel</mark> itself is in shadow with light coming in from the <mark>carousel</mark> windows."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      }
+    ]
+  }
+}

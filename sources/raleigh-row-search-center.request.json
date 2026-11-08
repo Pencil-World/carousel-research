@@ -1,0 +1,19 @@
+{
+  "url": "https://raleighhrmprogram.catalogaccess.com/api/search/keyword",
+  "method": "POST (read-only search)",
+  "request_json": {
+    "OnlyWithImages": false,
+    "SearchString": "carousel AND \"center row\"",
+    "IncludeFields": [
+      "101",
+      "102",
+      "104",
+      "700"
+    ],
+    "Skip": "0",
+    "Top": "100"
+  },
+  "retrieved_utc": "2026-11-08T22:27:42.372018+00:00",
+  "sha256": "c1a53cd7e36bcad449061bdfb87e44f4cc7adeee3bfa89f73e5c1fa6f62471ea",
+  "bytes": 7559
+}

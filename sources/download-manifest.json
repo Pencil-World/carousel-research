@@ -1028,5 +1028,25 @@
     "bytes": 51785,
     "retrieved_utc": "2026-11-08T21:33:24.880699+00:00",
     "status": "saved"
+  },
+  {
+    "file": "raleigh-mounted-carousel-november-1982.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/30184",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/30184",
+    "content_type": "image/jpeg",
+    "sha256": "445cee34cd004cc36eba624cd215c95da2c7b6b7ab37b480249416f3844469f3",
+    "bytes": 95016,
+    "retrieved_utc": "2026-11-08T22:28:26.238001+00:00",
+    "status": "saved"
+  },
+  {
+    "file": "raleigh-center-row-pig-1998.jpg",
+    "url": "https://raleighhrmprogram.catalogaccess.com/api/images/30735",
+    "final_url": "https://raleighhrmprogram.catalogaccess.com/api/images/30735",
+    "content_type": "image/jpeg",
+    "sha256": "8401d3fec13f5ff2128d8ac68031fd1c7e445751bc8a3851c9a999a6b2a2670c",
+    "bytes": 62403,
+    "retrieved_utc": "2026-11-08T22:28:26.277052+00:00",
+    "status": "saved"
   }
 ]

@@ -10,12 +10,13 @@ Research into a carousel-pig identification challenge, including museum identifi
 | Three accompanying animals | Cat, Bactrian camel, ostrich |
 | Park | Pullen Park, Raleigh, North Carolina; the worldwide ranking is unverified |
 | Animal behind the flag-bearing horse | Lion; connection to the rotation-counting rumor is unverified |
-| Q6: stored pig's original lettered position | Pig identified as restoration figure **7A**; exact original letter unresolved |
+| Q6: stored pig's original lettered position | **Lowercase `a-r`** is supported by the acorn pig's documented later center-row placement; original insertion date and exact letter remain unresolved. See [row research](Q6_ROW.md). |
 | Q7: 1975 restoration cost per animal | **$400** is documented in a 1976 report as an estimate from **1971**; the requested 1975 amount remains unverified |
 
 - [Challenge questions and input image](CHALLENGE.md)
 - [Original research report](RESEARCH.md)
 - [Focused Q6–Q7 review](REVIEW.md)
+- [Q6 row-only follow-up: lowercase or uppercase](Q6_ROW.md)
 - [Initial search path](SEARCH_PATH.md) and [review search path](SEARCH_PATH_REVIEW.md)
 - [Review handoff prompt](REVIEW_HANDOFF.md)
 - [Evidence index](EVIDENCE_INDEX.md)

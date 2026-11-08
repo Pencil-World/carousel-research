@@ -1,0 +1,207 @@
+{
+  "RecordsSearched": 34789,
+  "PageResult": {
+    "Count": 7,
+    "Items": [
+      {
+        "Id": 14595,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.730",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "25345",
+        "ThumbnailId": "bfb9043e-a16c-4592-bfc0-45c5ec395958_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a child riding the Pullen Park <mark>Carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The rest of the animals are blurred from the movement of the <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The child rides a brown horse in the <mark>center</mark> <mark>row</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14596,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.731",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "32164",
+        "ThumbnailId": "887b990b-8ccc-408d-8ea0-71a107d5e83d_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of people riding the Pullen Park <mark>Carousel</mark>. The image is blurred."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A child in red rides a brown horse in the <mark>center</mark> <mark>row</mark> with the parent standing next to them on the other"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14599,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.734",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26435",
+        "ThumbnailId": "e5e67c8a-88e8-477e-b692-ef8dc22f5401_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of people riding the Pullen Park <mark>Carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A child in red sits on a brown horse in the <mark>center</mark> <mark>row</mark> with the parent on the other side of the horse"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The <mark>carousel</mark> is blurred because of the movement."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14601,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.736",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "28726",
+        "ThumbnailId": "df68303f-fcef-482d-88f2-5f60a023e0df_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a child wearing blue riding a light colored <mark>carousel</mark> horse in the <mark>center</mark> <mark>row</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "of the <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14603,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.738",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "26854",
+        "ThumbnailId": "c6a78a99-acfd-455c-ac7d-7125d84449e8_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a child in red and a parent riding the <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The child rides a brown horse in the <mark>center</mark> <mark>row</mark> of the <mark>carousel</mark> with her parent on the other side of"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The image is blurred becasue the <mark>carousel</mark> is moving."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14605,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.740",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30809",
+        "ThumbnailId": "5a57cdc7-ffae-44d6-9ddd-dc2ad37d7744_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of people riding the Pullen Park <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The image is blurred from the movement of the <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A man stands on the <mark>carousel</mark> behind the tiger and looks up at a boy riding an animal in the <mark>center</mark> <mark>row</mark>"
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A man leans against the <mark>carousel</mark> windows outside to peer through the glass at the moving <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      },
+      {
+        "Id": 14617,
+        "TypeId": 102,
+        "Title": "Pullen Park Carousel - PPC2019.001.747",
+        "AdditionalInfo": "Transparency, Slide",
+        "ImageId": "30735",
+        "ThumbnailId": "82ffe6c7-3c1d-408c-8fda-fa9537be1991_thmb.JPG",
+        "ImageCaption": "",
+        "ImageAltText": null,
+        "Matches": [
+          {
+            "RegexPatterns": null,
+            "FoundValue": "A transparency slide of a mother and two little boys riding the <mark>carousel</mark>."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The two boys wear matching clothes and ride a <mark>carousel</mark> pig."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "The pig is light colored and in the <mark>center</mark> <mark>row</mark>. The slide is labeld \"Parks Dept\"."
+          },
+          {
+            "RegexPatterns": null,
+            "FoundValue": "Pullen Park <mark>Carousel</mark>"
+          }
+        ],
+        "Name": "Transparency, Slide"
+      }
+    ]
+  }
+}
